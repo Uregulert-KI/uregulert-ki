@@ -1,0 +1,44 @@
+name: "Ny påstand eller bekymring"
+description: "Dugnadsoppgave 1: kom med en påstand, bekymring, nyanse eller vinkling som rapporten bør ta opp."
+title: "[Oppgave 1] "
+labels: ["oppgave-1", "ny-påstand"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Takk for at du bidrar! Du trenger ikke score noe selv, og du trenger ikke vite nøyaktig hvor bidraget passer. Det tar forfatteren seg av.
+        Les gjerne [oppgavebeskrivelsen](../blob/main/dugnad/1-nye-pastander-og-bekymringer.md) og de [felles reglene](../blob/main/metode/dugnad-veiledning.md#regler) først. **Ikke navngi privatpersoner**, og omtal sensitive temaer overordnet.
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - Påstand
+        - Bekymring
+        - Nyanse
+        - Vinkling
+    validations:
+      required: true
+  - type: textarea
+    id: pastand
+    attributes:
+      label: Påstand eller bekymring
+      description: "Én til tre setninger. Skriv det så konkret du kan."
+      placeholder: "F.eks.: Jeg er bekymret for at eldre som bruker KI-chatboter, blir lettere å lure."
+    validations:
+      required: true
+  - type: input
+    id: hvor
+    attributes:
+      label: Hvor hører den hjemme?
+      description: "Del, tema-ID eller kapittel, f.eks. «Del III» eller «RET-15». Skriv «usikker» hvis du ikke vet, eller «nytt tema»."
+      placeholder: "usikker"
+    validations:
+      required: true
+  - type: textarea
+    id: kilde
+    attributes:
+      label: Kilde
+      description: "Lenke eller henvisning, hvis du har en. Har du ingen, skriv hva den bygger på (for eksempel egen erfaring eller observasjon)."
+    validations:
+      required: false

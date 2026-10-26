@@ -1,0 +1,25 @@
+# Personopplysninger (metode/regler.md §7)
+kontakter*
+fagfolk-kartlegging*
+
+# 00-styring: bare verktøy og maler deles
+00-styring/*
+!00-styring/verktoy/
+!00-styring/maler/
+00-styring/verktoy/temadata/
+00-styring/verktoy/eksistenssjekk/
+
+# Agentinstrukser
+.claude/
+
+# Opprinnelig materiale, arbeidsnotater og arkiv
+*/opprinnelig/
+13-vedlegg/arkiv/
+
+# Arbeidsdokument (README gjør jobben)
+01-sammendrag/brief-en-side.md
+
+# Systemfiler
+.DS_Store
+Thumbs.db
+desktop.ini

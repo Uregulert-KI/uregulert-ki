@@ -1,0 +1,22 @@
+# Del III – Rettsstat og forvaltning: innledning til delen
+
+## Mekanismer notert underveis
+
+- **Her har Norge mest kontroll:** statens og kommunenes egen KI-bruk kan reguleres fullt ut – retten til å vite, begrunnelse, rett til et menneske og klage. Del III kan vise hva som *kan* gjøres ([[RET-00]]).
+- **Kolts tre roller:** KI som rettssubjekt i praksis, som bruker av retten og som produsent og håndhever av retten ([[RET-00]]).
+- **Ansvarsgapet og den moralske knautsonen:** den nærmeste mennesket får skylden; legemiddelreguleringen, NPE og Havarikommisjonen er modeller for å tette gapet ([[RET-01]]).
+- **Fra automatisert til assistert:** vedtak der KI har vært sparringspartner, er formelt menneskelige og faller utenfor de fleste reglene; feilene blir korrelerte når alle bruker samme modell ([[RET-02]]).
+- **Gjennomsnittet vinner:** probabilistiske modeller fungerer best for den som er gjennomsnittlig på alt, og dårligere for hvert standardavvik ut fra midten. Diskrimineringen er statistisk og synes bare i samlede tall – derfor bevisproblemet. «Rettferdig» kan ikke måles på én måte; valget er politisk ([[RET-03]]).
+- **Loggen og mistankens bonus:** en logg viser hva som ble brukt, aldri hva som *ikke* ble brukt. Form, sparring og et helt generert dokument kan ikke skilles uten logg. Skygge-KI kan ikke forbys bort uten full overvåking – og uten logg kan påvirkning verken bevises eller motbevises, så tilliten svekkes uansett ([[RET-10]]).
+- **Opptak bevarer, generering erstatter – også i forvaltningen:** transkripsjonen er én tolkning, oppsummeringen en tolkning til. Fullstendige opptak må bevares, og begge parter bør lese gjennom det som skrives på bakgrunn av samtalen ([[RET-06]]).
+- **Mistanken som inngrep:** å bli flagget er ikke et vedtak – ingen begrunnelse, ingen klage. De fattige er mest synlige i dataene og blir lettest å kontrollere. Når svindlere bruker KI, blir svaret strengere kontroll av alle: regelbryterne driver fram overvåkingen av de lovlydige ([[RET-07]]).
+- **Språket som forutsetning for rettssikkerhet:** den som trenger tolk, kan ikke kontrollere oversettelsen. En oversettelsesfeil kan se ut som en løgn. Tolkeloven slutter der privat sektor begynner – i banken står du med en chatbot ([[RET-08]]).
+- **Fra klare regler til skjønn – og klageinstansen som kopi:** automatisering er trygg der reglene er klare; faren er glidningen mot KI-assistert skjønn under kapasitetspress. Bruker første- og klageinstans samme verktøy, gir klagen ingen ny vurdering ([[RET-09]]).
+- **Normalitet eller total kontroll:** straffen er frihetsberøvelsen – alt utover må begrunnes. KI kan gjøre livet innenfor mer likt livet utenfor, eller gjøre kontrollen total. Rullebladet som aldri glemmer, og verden som før tok 15 år å miste grepet på, nå 3 ([[RET-16]]).
+- **Overbevisning, ikke automatisering:** problemet er ikke lenger om avgjørelsen er automatisert, men om KI-en legger fram så overbevisende evidens at mennesket i løkka tar feil (feilarrestasjoner, SKYNET). Basisratefeilen gjør de fleste som flagges uskyldige – og nasjonal sikkerhet er unntatt fra KI-forordningen ([[RET-04]]).
+- **Overtillit i begge ender – produktet er regulert, bruken er det ikke:** fagfolk og publikum stoler for mye på flytende, selvsikre svar. KI i medisinsk utstyr er høyrisiko, men en generell chatbot brukt på eget initiativ er det ikke. Tromsø-saken er det norske eksempelet ([[RET-05]]).
+- **Følelsen av progresjon og autoritetsbias:** chatboten svarer alltid, og det føles som fremdrift – rettshjelpsillusjonen. Og partene gir seg for lett når «en smart KI» har skrevet vedtaket ([[RET-11]]).
+- **Lov skrevet av og for maskiner – og tolket av dem:** forarbeidene veier tungt i Norge, så modellens ord kan bli lovgivers vilje. Modellene har lært amerikansk og gammel rett, og når alle tolker likt, står retten stille under forkledning av progresjon ([[RET-13]]).
+- **Fragmentert kompetanse:** sektorprinsippet krever at hvert tilsyn forstår KI, men det finnes for lite kompetanse nasjonalt. Fem tilsyn med to eksperter blir ikke ti eksperter. Svar: et felles kompetanseorgan ([[RET-14]]).
+- **Kontrakten er reguleringen – og skyen er lærepengen:** fra gratis via avhengighet til høy pris. Når staten velger én modell, velger den verdiene, for nøytral KI finnes ikke ([[RET-15]]).
+- **Agenter som brukere av retten:** agent mot agent – slue agenter kan gi utnyttende, men bindende avtaler. Avtaleloven verner mot utnytting av en *persons* uforstand – men hva når det er agenten som er naiv ([[RET-12]])?
