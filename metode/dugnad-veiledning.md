@@ -17,7 +17,7 @@ Reglene under gjelder for alle oppgavene.
 ## Regler
 
 1. **Aldri dikt opp.** Hver kilde skal ha en URL eller en henvisning du faktisk har funnet. Finner du den ikke, skriv `ikke funnet`.
-2. **Tall, datoer, navn på saker og artikkelnummer** tas fra kilden, ikke fra hukommelsen.
+2. **Tall, datoer, navn på saker og artikkelnummer** tas fra kilden, ikke fra hukommelsen. Når du har verifisert en kilde, oppgir du hvor i kilden det står: side, §, artikkel, avsnitt eller overskrift. Akademisk sitatformat trengs ikke; det lages fra kilderegisteret.
 3. **Skill mellom anklage, tiltale og dom**, og mellom vedtatt, i kraft, foreslått og trukket.
 4. **Merk preprints, bransjerapporter og selskapers egne tall** som det de er.
 5. **Privatpersoner i privat rolle navngis aldri**, heller ikke ofre eller gjerningspersoner. Offentlige personer i offentlig rolle, forskere og fagpersoner som uttaler seg offentlig i fagrollen sin, kan navngis og siteres. Det samme gjelder selskaper.
@@ -30,6 +30,7 @@ Reglene under gjelder for alle oppgavene.
 
 - **Kilderegisteret** (`99-kilder/kilderegister.md`) er fasiten for alle kilder. Hver kilde har én K-ID som aldri gjenbrukes.
 - **Påstandsregistrene** (`pastander.md` i hver del) knytter hver påstand til én eller flere K-ID-er.
+- **Kildelistene** (`kilder.md` i hver del) viser hva hver kilde brukes til i temaet, og hvor i kilden det står når det er sjekket.
 - **Temaene** (`utkast/`) bruker påstandene og viser til kildene med [K-ID].
 - **Dateringslista** samler det som kan gå ut på dato.
 - **Reglene** for hele prosjektet står i `metode/regler.md`; metoden i [[INN-04]] og [[VED-02]].

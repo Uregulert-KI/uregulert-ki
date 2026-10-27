@@ -23,7 +23,7 @@ Fasit for all kildeinformasjon i prosjektet. Hver kilde har én K-ID. K-ID-er gj
 
 **Fjernede og inaktive kilder** står i `fjernede-kilder.md`, ikke her. ID-ene brukes aldri på nytt.
 
-**Ved verifisering:** fyll inn eksakt tittel (fjern [klammer]), forfattere, år, utgiver, DOI/URL i egen kolonne (ikke i «Merknad»), fagfellevurdert (`ja`/`nei`/`preprint`), «Dato lest» og ny status. Skriv i «Merknad» hvordan kilden ble sjekket (f.eks. «Lokal PDF», «EUR-Lex», «via sekundærkilde X») og hvem som sjekket (rolle eller GitHub-navn – aldri navn på privatpersoner som omtales). Veiledning: `metode/dugnad-veiledning.md`.
+**Ved verifisering:** fyll inn eksakt tittel (fjern [klammer]), forfattere, år, utgiver, DOI/URL i egen kolonne (ikke i «Merknad»), fagfellevurdert (`ja`/`nei`/`preprint`), «Dato lest» og ny status. Skriv i «Merknad» avvik, betalingsmur eller annet uventet, og hvem som sjekket (rolle eller GitHub-navn – aldri navn på privatpersoner som omtales). Veiledning: `metode/dugnad-veiledning.md`.
 
 | K-ID | Forfattere / utgiver | Tittel | År | Utgiver / tidsskrift | DOI/URL | Kildetype | Fagfellevurdert | Dato lest | Status | Brukt i (tema-ID) | Merknad |
 |---|---|---|---|---|---|---|---|---|---|---|---|

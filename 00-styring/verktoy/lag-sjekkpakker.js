@@ -75,9 +75,10 @@ const KOLONNER = [
   { key: 'sier', header: 'Rapporten sier', width: 60 },
   { key: 'idag', header: 'Registeret i dag', width: 36 },
   { key: 'status', header: 'Status ▾', width: 13, fyll: true },
+  { key: 'hvor', header: 'Hvor i kilden (s., §, art., avsnitt)', width: 18, fyll: true },
   { key: 'nylenke', header: 'Riktig eller ny lenke / DOI', width: 26, fyll: true },
   { key: 'fagf', header: 'Fagfelle-vurdert ▾', width: 11, fyll: true },
-  { key: 'kmerknad', header: 'Om kilden: hvordan du sjekket, hva som avviker', width: 36, fyll: true },
+  { key: 'kmerknad', header: 'Avvik / betalingsmur / uventet', width: 36, fyll: true },
   { key: 'E', header: 'E ▾', width: 5, fyll: true },
   { key: 'N', header: 'N ▾', width: 5, fyll: true },
   { key: 'U', header: 'U ▾', width: 5, fyll: true },
@@ -90,11 +91,17 @@ const GRA = { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFF2F2F2' } }
 const GUL = { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFFFF8DC' } };
 const MORK = { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FF1F3A4D' } };
 const OKER = { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFC8701E' } };
+const SKILLE = { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FFEEEEEE' } };
 const liste = verdier => ({ type: 'list', allowBlank: true, formulae: [`"${verdier.join(',')}"`] });
+// Kantlinjer på alle celler: hårfine i «Les meg», tynne i «Sjekk» (formatet fra Glenns LIV-13, 2026-10-27)
+const kant = style => ({ top: { style }, left: { style }, bottom: { style }, right: { style } });
+const kantlinjer = (ws, kolonner, style) => {
+  for (let r = 1; r <= ws.rowCount; r++) for (let c = 1; c <= kolonner; c++) ws.getRow(r).getCell(c).border = kant(style);
+};
 
 function lesMeg(ws, t) {
   ws.getColumn(1).width = 26;
-  ws.getColumn(2).width = 90;
+  ws.getColumn(2).width = 91.45;
   const rad = (a, b, stil) => {
     const r = ws.addRow([a, b]);
     r.alignment = { wrapText: true, vertical: 'top' };
@@ -105,22 +112,26 @@ function lesMeg(ws, t) {
   ws.addRow([`Sjekkpakke ${t.tema}: ${t.tittel}`]).font = { bold: true, size: 16 };
   ws.addRow([`Laget ${dato} · ${t.pastander.length} påstander · Uregulert KI (arbeidstittel)`]).font = { italic: true, color: { argb: 'FF666666' } };
   ws.addRow([]);
+  for (const n of [1, 2, 3]) ws.mergeCells(n, 1, n, 2);
+  ws.getCell('A3').fill = SKILLE;
   rad('Sjekket av', '', 'b').getCell(2).fill = GUL;
   rad('Dato', '', 'b').getCell(2).fill = GUL;
-  ws.getCell('B4').note = 'Kallenavn eller GitHub-navn. Det kan bli stående offentlig i kilderegisteret.';
+  ws.getCell('B4').note = 'Navnet du vil stå med offentlig: fullt navn, kallenavn eller GitHub-navn. Det blir stående i kilderegisteret på GitHub og kan ikke fjernes helt i ettertid.';
+  ws.getCell('B5').numFmt = 'dd/mm/yyyy';
   ws.addRow([]);
   rad('Slik gjør du', '', 'h');
   rad('1', 'Gå til arket «Sjekk». Grå kolonner er fylt ut for deg. Gule kolonner fyller du ut.');
   rad('2', 'Åpne lenken og finn originalen. Primærkilden går foran omtaler av den. Mangler lenken, eller peker den feil, så søk opp kilden og lim inn riktig lenke.');
-  rad('3', 'Les det som er relevant, og sammenlign med «Rapporten sier». Sett «Status» og skriv kort i «Om kilden» hvordan du sjekket og hva som eventuelt avviker.');
+  rad('3', 'Les det som er relevant, og sammenlign med «Rapporten sier». Sett «Status», og skriv i «Avvik» hvis noe avviker, ligger bak betalingsmur eller er uventet.');
+  rad('', 'Er status «verifisert» eller «delvis», skriv i «Hvor i kilden» hvor det står: side (rapport, bok, artikkel), § og ledd (lov), artikkel og nummer (EU-rett), avsnitt (dom) eller overskrift (nettside). Da kan neste person slå rett opp.');
   rad('4', 'Scor påstanden på E, N, U, V og A (0–3) hvis du føler deg trygg. Du kan la scoren stå tom og bare sjekke kilden.');
   rad('5', 'Skriv nyanser, innvendinger eller bedre formuleringer i «Kommentar». Det er like verdifullt som scoren.');
   rad('6', `Lagre fila og send den til ${KONTAKT}, eller legg den ved en pull request. Gi beskjed hvis du ikke blir ferdig, så pakken kan gå videre.`);
   rad('', 'Står det allerede «verifisert» under «Registeret i dag», er kilden sjekket av noen andre, og du kan hoppe over den.');
   ws.addRow([]);
   rad('Status på kilden', '', 'h');
-  rad('verifisert', 'Du har åpnet primærkilden, og den sier det påstanden bygger på.', 'b');
-  rad('delvis', 'Stemmer, men med avvik. Skriv avviket i «Om kilden».', 'b');
+  rad('verifisert', 'Du har lest det relevante i primærkilden, og den sier det påstanden bygger på.', 'b');
+  rad('delvis', 'Stemmer, men med avvik. Skriv avviket i «Avvik».', 'b');
   rad('sekundær', 'Du fant bare en omtale av kilden, ikke originalen.', 'b');
   rad('ikke funnet', 'Kilden lot seg ikke finne. Det er et nyttig svar.', 'b');
   rad('feil', 'Kilden sier noe annet enn påstanden. Skriv hva den faktisk sier.', 'b');
@@ -131,14 +142,15 @@ function lesMeg(ws, t) {
   rad('N Norsk relevans', '0 ingen · 1 indirekte, overførbar · 2 norsk kontekst omtalt · 3 norske data, saker eller institusjoner', 'b');
   rad('U Uavhengige kilder', '0 · 1 · 2 · 3 eller flere (tell alle kildene påstanden har)', 'b');
   rad('V Verdikobling', '0 ingen · 1 svak · 2 tydelig kobling til én verdi i INN-03 · 3 sentral for en verdi i INN-03', 'b');
-  rad('A Aktualitet', 'Er det fortsatt gyldig? 0 utdatert (motbevist, erstattet, loven endret) eller ikke sjekket · 1 usikker gyldighet (feltet har endret seg mye siden, f.eks. studier av eldre KI-modeller) · 2 gyldig, ingen kjent nyere forskning sier noe annet, uansett alder · 3 fersk (gjelder dagens situasjon) eller bekreftet av nyere forskning. Bekreftelsen kan stå i kommentaren.', 'b');
+  rad('A Aktualitet', 'Er det fortsatt gyldig? 0 utdatert (motbevist, erstattet, lovendring) eller ikke sjekket · 1 usikker gyldighet (feltet har endret seg mye siden, f.eks. studier av eldre KI-modeller) · 2 gyldig, ingen kjent nyere forskning sier noe annet, uansett alder · 3 fersk (gjelder dagens situasjon) eller bekreftet av nyere forskning. Bekreftelsen kan stå i kommentaren.', 'b');
   ws.addRow([]);
   rad('Husk', '', 'h');
-  rad('', 'Aldri dikt opp. Tall, datoer og navn tas fra kilden, ikke fra hukommelsen.');
+  rad('', 'Ha integritet.');
   rad('', 'Skill mellom «viser», «tyder på» og «antyder», og mellom én studie og konsensus. En påstand kan ha riktig kilde og likevel si mer enn kilden gjør.');
   rad('', 'Du kan bruke KI til å finne kilder, oppsummere og peke deg til rett sted i kilden. Men selve sjekken gjør du selv ved å lese originalen. Uten menneskelig verifisering er dugnaden verdiløs.');
   rad('', 'Privatpersoner i privat rolle navngis aldri. Forskere og fagpersoner som uttaler seg offentlig i fagrollen sin, kan navngis.');
   rad('Spørsmål?', KONTAKT, 'b');
+  kantlinjer(ws, 2, 'hair');
 }
 
 async function lagPakke(t) {
@@ -183,7 +195,8 @@ async function lagPakke(t) {
     // Én score og én kommentar per påstand, også når den har flere kilder
     if (rader.length > 1) for (const key of PER_PASTAND) ws.mergeCells(forste, kol(key), ws.rowCount, kol(key));
   }
-  ws.autoFilter = { from: { row: 1, column: 1 }, to: { row: 1, column: KOLONNER.length } };
+  kantlinjer(ws, KOLONNER.length, 'thin');
+  ws.autoFilter = { from: { row: 1, column: 1 }, to: { row: ws.rowCount, column: KOLONNER.length } };
   fs.mkdirSync(path.join(root, UT), { recursive: true });
   await wb.xlsx.writeFile(path.join(root, UT, `${t.tema}.xlsx`));
   return { antallKilder, mangler };

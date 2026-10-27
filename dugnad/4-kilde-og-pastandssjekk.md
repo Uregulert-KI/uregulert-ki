@@ -40,7 +40,8 @@ Resten av denne siden forklarer hva sjekken går ut på, og hvordan du gjør det
 3. Les det som er relevant, og sammenlign med påstanden(e) som bruker kilden.
 4. Fyll inn: eksakt tittel (fjern [klammer]), forfattere, år, utgiver, DOI/URL, fagfellevurdert (`ja` / `nei` / `preprint`) og «Dato lest».
 5. Sett **Status** (definisjonene står øverst i kilderegisteret): `verifisert` · `delvis` · `sekundær` · `ikke funnet` · `feil`
-6. Skriv i «Merknad» hvordan du sjekket, og hva som eventuelt avviker.
+6. Er status `verifisert` eller `delvis`: oppgi hvor i kilden det står. Side (rapport, bok, artikkel), § og ledd (lov), artikkel og nummer (EU-rett), avsnitt (dom) eller overskrift (nettside).
+7. Skriv i «Merknad» hvis noe avviker, ligger bak betalingsmur eller er uventet.
 
 ## B Vurder en påstand
 
