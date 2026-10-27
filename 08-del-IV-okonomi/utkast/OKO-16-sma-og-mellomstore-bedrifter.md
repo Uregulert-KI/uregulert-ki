@@ -4,12 +4,12 @@ tittel: Små og mellomstore bedrifter
 del: Del IV – Økonomi, arbeid og solidaritet
 status: kandidat
 risikotype: ikke vurdert
-sist_endret: 2026-10-23
+sist_endret: 2026-10-27
 ---
 
 # OKO-16 Små og mellomstore bedrifter
 
-> Påstander: OKO-16.P01–OKO-16.P08 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: OKO-16.P01–OKO-16.P10 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -50,7 +50,11 @@ sist_endret: 2026-10-23
 
 ### A Gapet i KI-bruk
 
-- De store tar i bruk KI raskere enn de små: i Sverige brukte 31 % av de små foretakene KI i 2025, mot 72 % av de store [K1035] (norske tall må hentes fra SSB). De små mangler tid, folk og kompetanse til å vurdere hva de kjøper – bestillerproblemet fra [[RET-15]], avsnitt H, i næringslivet.
+- De store tar i bruk KI raskere enn de små: i Sverige brukte 31 % av de små foretakene KI i 2025, mot 72 % av de store [K1035]. I Norge brukte om lag 80 % av de store og om lag 40 % av de små foretakene KI i 2026 [K1207]. De små mangler tid, folk og kompetanse til å vurdere hva de kjøper – bestillerproblemet fra [[RET-15]], avsnitt H, i næringslivet.
+
+- **Tidsserien:** andelen norske foretak med minst ti ansatte som bruker KI, var 11 % i 2021, om lag 10 % i 2023, 21 % i 2024, om lag 30 % i 2025 og nesten 50 % i 2026 [K1210] [K1208] [K1207].
+- **Gapet øker:** store foretak gikk fra 27 % i 2023 til 58 % i 2025 og om lag 80 % i 2026, mens små foretak (10–19 ansatte) var på om lag 40 % i 2026 [K1208] [K1207].
+- **Kompetansen mangler:** 77 % av foretakene som ikke bruker KI, mangler relevant kompetanse, og 4 av 10 er bekymret for personvern og uklare juridiske konsekvenser [K1208].
 
 ### B Effektivitetsparadokset – å føle seg mer produktiv mens man gjør mindre
 

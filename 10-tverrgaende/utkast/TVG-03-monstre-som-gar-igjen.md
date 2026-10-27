@@ -5,7 +5,7 @@ del: Kap. 10 – Tverrgående mønstre
 status: stikkord
 risikotype: ikke vurdert
 horisont: nå
-sist_endret: 2026-10-25
+sist_endret: 2026-10-27
 ---
 
 # TVG-03 Mønstre som går igjen
@@ -59,6 +59,9 @@ sist_endret: 2026-10-25
 | Engasjementsøkonomi | Forretningsmodeller som belønner avhengighet | [[LIV-07]], [[DEM-01]], [[DEM-04]], [[OKO-14]] |
 | Nektelsen blir beviset | Sperrene kan styrke fortellingen om skjult sannhet | [[SIK-10]], [[DEM-09]] |
 
+- **Hvordan, ikke om:** i digitaliseringsstrategien, i retningslinjene for sikker KI og i arbeidslivet går samme mønster igjen. Spørsmålet om KI bør brukes, hoppes over, og diskusjonen handler bare om hvordan [K0307] [K1202] [K1211].
+- **Advarslene kommer tidlig, tiltakene sent:** det som ble etterlyst i innspillene til KI-strategien i 2019 (tilgang for tilsynet, samordnet tilsyn og et etisk råd), er fortsatt hull i 2026 ([[REG-02]], [[RET-14]]).
+
 ### E Fordeling
 
 | Mønster | Hva det er | Dukker opp i |
@@ -83,3 +86,5 @@ sist_endret: 2026-10-25
 - **Analytiske verktøy, ikke bevis:** evidensen varierer – noen mønstre er godt dokumentert (stedfortredere, automasjonsbias), andre er resonnement (følelsen av progresjon, fortrolighetsillusjonen).
 - **Faren ved en mønsterliste** er å se mønstre overalt. Hvert mønster må bære seg selv i temaene der det brukes.
 - **Utelatt med vilje:** «angriperen som aldri gir seg» står bare i [[SIK-17]] og er derfor ikke tatt med som tverrgående mønster.
+
+- **Ikke overdriv:** ekspertgruppen for KI og valg advarer om at et overdrevet trusselbilde i seg selv svekker tilliten [K1217]. NENT skrev i 2019 at både moralsk panikk og overdrevne muligheter er en fare, og at forskere har et særlig ansvar for å formidle risiko «på edruelig vis» [K1237].

@@ -4,12 +4,12 @@ tittel: Automatiserte og KI-assisterte vedtak
 del: Del III – Rettsstat og forvaltning
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-20
+sist_endret: 2026-10-27
 ---
 
 # RET-02 Automatiserte og KI-assisterte vedtak
 
-> Påstander: RET-02.P01–RET-02.P10 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: RET-02.P01–RET-02.P11 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -84,6 +84,10 @@ sist_endret: 2026-10-20
 ### F Norsk forankring
 
 - Forvaltningsloven [K0015] og ny forvaltningslov [K0111]; Sivilombudet om automatisering [K0112]; Digdirs veiledning [K0024] og råd om KI i staten [K0178]; NAVs prosjekt i Datatilsynets sandkasse [K0023].
+
+- **Oslo sa nei:** i 2019 la Næringsetaten bort KI i behandlingen av skjenkebevillinger fordi datagrunnlaget var for skjevt, og Bymiljøetaten la bort KI i klager på parkeringsbøter fordi ingen kunne vise hvordan algoritmen kom fram til beslutningen [K1235].
+- **Spørsmålet ble stilt i 2019:** Lånekassen spurte om det er «et demokratisk problem om grunnlag for sentrale beslutninger sentraliseres i modeller» [K1239]. NITO ba om at mennesker alltid skal kunne stoppe eller overstyre, og om klageadgang til en offentlig myndighet [K1233].
+- **Enklere kan være bedre:** retningslinjene for sikker KI-utvikling peker på at enklere og mer gjennomsiktige modeller kan være å foretrekke framfor store modeller som er vanskelige å forklare [K1202].
 
 ### G Kandidater til [[ANB-01]]
 

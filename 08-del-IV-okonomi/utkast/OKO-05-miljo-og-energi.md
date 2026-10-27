@@ -4,12 +4,12 @@ tittel: Miljø og energi
 del: Del IV – Økonomi, arbeid og solidaritet
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-23
+sist_endret: 2026-10-27
 ---
 
 # OKO-05 Miljø og energi
 
-> Påstander: OKO-05.P01–OKO-05.P08 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: OKO-05.P01–OKO-05.P09 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -64,6 +64,8 @@ sist_endret: 2026-10-23
 - **Årsaken er strukturell, ikke en krise som går over:** tettere kobling til Europa, høyere gass- og CO₂-priser og strammere kraftbalanse.
 - **Det samme kan skje med datasentrene:** mer forbruk i en strammere kraftbalanse presser prisen varig opp. Husholdningene skal ikke betale for datasentrene – verken på strømregningen eller over skatten (avsnitt D).
 
+- **Datasentrenes andel vokser raskt:** fra om lag 0,5 % av strømforbruket i 2022 til rundt 2 % i 2025, med om lag 35 % årlig vekst. Eksisterende datasentre har fått tildelt 4 350 MW, hvorav 794 MW er i bruk, og 6 833 MW står i Statnetts kø [K1206].
+
 ### D Den skjulte kostnaden – Norgespris
 
 - **Fristelsen:** det er fristende å holde forbrukerprisen nede med offentlige midler – men det flytter bare regningen fra strømkunden til skattebetaleren.
@@ -105,3 +107,5 @@ sist_endret: 2026-10-23
 
 - **KI kan kutte utslipp:** bedre styring av strømnettet, logistikk og materialforskning. NVE har begynt å ta i bruk slike verktøy [K1078] (sjekk hva).
 - **Spørsmålet er nettoeffekten.**
+
+- **SSBs nyanse:** det er «vanskelig å hevde at næringen alene driver opp strømprisene». Flaskehalsen er kapasiteten i nettet, ikke mangel på energi, men datasentre kan fortrenge annen industri lokalt [K1206].

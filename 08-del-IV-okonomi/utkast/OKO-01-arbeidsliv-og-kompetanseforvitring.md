@@ -4,12 +4,12 @@ tittel: Arbeidsliv og kompetanseforvitring
 del: Del IV – Økonomi, arbeid og solidaritet
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-21
+sist_endret: 2026-10-27
 ---
 
 # OKO-01 Arbeidsliv og kompetanseforvitring
 
-> Påstander: OKO-01.P01–OKO-01.P12 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: OKO-01.P01–OKO-01.P14 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -51,7 +51,12 @@ sist_endret: 2026-10-21
 
 ### A Hvem er utsatt – og hvem rammes først?
 
-- Store deler av arbeidsstyrken har oppgaver som er eksponert for språkmodeller [K0133]. Unge i KI-utsatte yrker merker det før de eldre [K0134]. De samlede produktivitetsgevinstene kan bli beskjedne [K0135].
+- Store deler av arbeidsstyrken har oppgaver som er eksponert for språkmodeller [K0133]. SSB har brukt de samme eksponeringsdataene for Norge og kommer til 16,8 % av arbeidstiden, med sterke forbehold [K1205]. Unge i KI-utsatte yrker merker det før de eldre [K0134]. De samlede produktivitetsgevinstene kan bli beskjedne [K0135].
+
+- **Regjeringen sier det rett ut:** «Mange jobber vil bli borte, og nye vil oppstå» [K0307].
+- **SSBs anslag:** generativ KI kan i prinsippet automatisere 16,8 % av arbeidstiden, «noe i underkant av én arbeidsdag per uke». Underskuddet på arbeidskraft i industri, bygg og anlegg og sykepleie minker, mens overskuddet innen økonomisk-administrative fag, samfunnsvitenskap, jus og humaniora øker [K1205].
+- **Med forbehold:** anslaget bygger på amerikanske eksponeringsdata klassifisert med GPT-4 [K0133], og SSB skriver selv at resultatene «må tolkes med stor varsomhet» [K1205].
+- **Varslet i 2019:** en erklæring fra blant andre Telenor, DNB, Equinor, NHO og YS slo fast at KI vil gjøre arbeidsplasser overflødige og kan forsterke ulikheter mellom mennesker, regioner og næringer [K1234].
 
 ### B Inngangsjobbene forsvinner
 

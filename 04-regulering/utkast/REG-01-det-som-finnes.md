@@ -32,7 +32,7 @@ Lagene skiller det som **er lov** fra det som bare er **anbefalt praksis**. Uten
 | MDR – medisinsk utstyr [K0288] | bindende | ja (sjekk) | [[RET-05]], [[TVG-05]] (helse) |
 | Maskinforordningen [K0289] | bindende | sjekk | [[OKO-01]] (fysisk KI), [[SIK-18]] |
 | Forordning om politisk reklame (2024) [K0290] | bindende | sjekk | [[DEM-12]] |
-| DSM-direktivet, art. 3–4 om tekst- og datautvinning [K0291] | bindende | sjekk (åndsverkloven) | [[OKO-06]] |
+| DSM-direktivet, art. 3–4 om tekst- og datautvinning [K0291] | bindende | foreslått i åndsverkloven §§ 50 d–50 f, Prop. 41 LS (2025–2026) [K1219] (sjekk om vedtatt) | [[OKO-06]] |
 | Plattformarbeidsdirektivet [K0162] | bindende | sjekk | [[OKO-07]], [[OKO-12]] |
 | eIDAS 2 / ID-lommeboken [K0261] | bindende | sjekk | [[LIV-17]] |
 | EHDS – europeisk helsedataområde [K0275] | bindende | sjekk | [[TVG-05]] (helse) |

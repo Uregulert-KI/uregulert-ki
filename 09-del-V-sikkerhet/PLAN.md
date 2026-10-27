@@ -12,13 +12,13 @@ Rekkefølgen i tabellen er rekkefølgen i rapporten. ID-ene sier ingenting om pl
 
 | Rekkefølge | ID | Tittel | Fil | Status | Påstander |
 |---|---|---|---|---|---|
-| 1 | SIK-01 | Datainnsamling og personvern | [utkast/SIK-01-datainnsamling-og-personvern.md](utkast/SIK-01-datainnsamling-og-personvern.md) | stikkord | 14 |
-| 2 | SIK-02 | Skygge-KI og ufrivillige innsidetrusler | [utkast/SIK-02-skygge-ki.md](utkast/SIK-02-skygge-ki.md) | stikkord | 8 |
+| 1 | SIK-01 | Datainnsamling og personvern | [utkast/SIK-01-datainnsamling-og-personvern.md](utkast/SIK-01-datainnsamling-og-personvern.md) | stikkord | 15 |
+| 2 | SIK-02 | Skygge-KI og ufrivillige innsidetrusler | [utkast/SIK-02-skygge-ki.md](utkast/SIK-02-skygge-ki.md) | stikkord | 10 |
 | 3 | SIK-03 | KI-agenter og prompt injection | [utkast/SIK-03-ki-agenter-og-prompt-injection.md](utkast/SIK-03-ki-agenter-og-prompt-injection.md) | stikkord | 7 |
 | 4 | SIK-04 | Sammenstilling og kartlegging | [utkast/SIK-04-sammenstilling-og-kartlegging.md](utkast/SIK-04-sammenstilling-og-kartlegging.md) | stikkord | 11 |
-| 5 | SIK-05 | Cyberkriminalitet og svindel | [utkast/SIK-05-cyberkriminalitet-og-svindel.md](utkast/SIK-05-cyberkriminalitet-og-svindel.md) | stikkord | 8 |
+| 5 | SIK-05 | Cyberkriminalitet og svindel | [utkast/SIK-05-cyberkriminalitet-og-svindel.md](utkast/SIK-05-cyberkriminalitet-og-svindel.md) | stikkord | 10 |
 | 6 | SIK-06 | KI og krigføring | [utkast/SIK-06-ki-og-krigforing.md](utkast/SIK-06-ki-og-krigforing.md) | stikkord | 9 |
-| 7 | SIK-07 | Beredskap og avhengighet | [utkast/SIK-07-beredskap-og-avhengighet.md](utkast/SIK-07-beredskap-og-avhengighet.md) | stikkord | 7 |
+| 7 | SIK-07 | Beredskap og avhengighet | [utkast/SIK-07-beredskap-og-avhengighet.md](utkast/SIK-07-beredskap-og-avhengighet.md) | stikkord | 8 |
 | 8 | SIK-08 | Langsiktig og katastrofal risiko | [utkast/SIK-08-langsiktig-og-katastrofal-risiko.md](utkast/SIK-08-langsiktig-og-katastrofal-risiko.md) | stikkord | 9 |
 | 9 | SIK-09 | Statens egen overvåking med KI | [utkast/SIK-09-statens-overvaking-med-ki.md](utkast/SIK-09-statens-overvaking-med-ki.md) | kandidat | 7 |
 | 10 | SIK-10 | Chatboter som radikaliserer | [utkast/SIK-10-chatboter-som-radikaliserer.md](utkast/SIK-10-chatboter-som-radikaliserer.md) | kandidat | 8 |
@@ -27,7 +27,7 @@ Rekkefølgen i tabellen er rekkefølgen i rapporten. ID-ene sier ingenting om pl
 | 14 | SIK-14 | KI-modellene som angrepsmål | [utkast/SIK-14-modellene-som-angrepsmal.md](utkast/SIK-14-modellene-som-angrepsmal.md) | kandidat | 7 |
 | 15 | SIK-15 | KI-leverandører i totalforsvaret | [utkast/SIK-15-leverandorer-i-totalforsvaret.md](utkast/SIK-15-leverandorer-i-totalforsvaret.md) | kandidat | 6 |
 | 16 | SIK-16 | Lavere terskel for terror og enkeltaktører | [utkast/SIK-16-terror-og-enkeltaktorer.md](utkast/SIK-16-terror-og-enkeltaktorer.md) | kandidat | 9 |
-| 17 | SIK-17 | Sabotasje, hybride angrep og kritisk infrastruktur | [utkast/SIK-17-sabotasje-og-hybride-angrep.md](utkast/SIK-17-sabotasje-og-hybride-angrep.md) | kandidat | 12 |
+| 17 | SIK-17 | Sabotasje, hybride angrep og kritisk infrastruktur | [utkast/SIK-17-sabotasje-og-hybride-angrep.md](utkast/SIK-17-sabotasje-og-hybride-angrep.md) | kandidat | 15 |
 | 18 | SIK-18 | Utilsiktede KI-feil i kritisk drift | [utkast/SIK-18-utilsiktede-ki-feil.md](utkast/SIK-18-utilsiktede-ki-feil.md) | kandidat | 10 |
 | 19 | SIK-19 | Åpne modeller – et dilemma uten enkel løsning | [utkast/SIK-19-apne-modeller.md](utkast/SIK-19-apne-modeller.md) | kandidat | 8 |
 

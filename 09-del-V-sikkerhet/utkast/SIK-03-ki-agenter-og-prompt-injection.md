@@ -4,7 +4,7 @@ tittel: KI-agenter og prompt injection
 del: Del V – Sikkerhet og beredskap
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-23
+sist_endret: 2026-10-27
 ---
 
 # SIK-03 KI-agenter og prompt injection
@@ -87,6 +87,8 @@ sist_endret: 2026-10-23
 - **Menneskelig godkjenning** før agenten handler utad – sender, betaler eller sletter.
 - **Krav om gjennomgang** av KI-generert kode i offentlige systemer.
 - **Meldeplikt** for hendelser med KI-agenter.
+
+- **Retningslinjene peker samme vei:** når KI-komponenter kan utløse handlinger, som å endre filer eller sende data til andre systemer, skal handlingsrommet begrenses, om nødvendig med sikringer utenfor KI [K1202]. Retningslinjene er frivillige ([[REG-04]]).
 
 ### H Nyanse
 

@@ -4,12 +4,12 @@ tittel: Cyberkriminalitet og svindel
 del: Del V – Sikkerhet og beredskap
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-24
+sist_endret: 2026-10-27
 ---
 
 # SIK-05 Cyberkriminalitet og svindel
 
-> Påstander: SIK-05.P01–SIK-05.P08 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: SIK-05.P01–SIK-05.P10 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -67,9 +67,13 @@ sist_endret: 2026-10-24
 
 ### D Norsk forankring
 
-- **Tapene:** Finanstilsynet rapporterer store svindeltap hvert år [K0185] (sjekk tall og utvikling), og Økokrim peker på svindel som en stor trussel [K0184].
+- **Tapene:** Finanstilsynet rapporterer store svindeltap hvert år [K0185]: 614 millioner kroner i 2022, 929 i 2023, 1 227 i 2024 og 962 i 2025 [K0262], og Økokrim peker på svindel som en stor trussel [K0184].
 - **Kjente mønstre får ny kraft:** «Hei mamma»-svindelen på SMS og WhatsApp er kjent i Norge [K1138] (sjekk). En klonet stemme gjør neste versjon mer troverdig.
 - **Tiltak:** Nkom har innført tiltak mot forfalskede telefonnumre [K1139] (sjekk).
+
+- **KI i svindelen:** svindlere bruker i økende grad KI til å automatisere og tilpasse angrep, og «aktører med begrenset teknisk kompetanse kan gjennomføre mer avanserte angrep enn før» [K0262]. Phishing omgår i økende grad flerfaktorautentisering [K1216].
+- **Sosial manipulering dominerer:** den sto for 514 millioner kroner av svindelen i 2025. Kontoer til mindreårige misbrukes i økende grad som muldyr [K0262].
+- **Varslet tidlig:** Kripos anslo i 2023 at generativ KI vil gi mer cyberkriminalitet, «både i omfang og i alvorlighetsgrad» (gjengitt i digitaliseringsstrategien) [K0307].
 
 ### E Ansvaret – hvem bærer tapet?
 
@@ -93,3 +97,5 @@ sist_endret: 2026-10-24
 
 - **KI oppdager også svindel** – bankenes systemer stopper mye.
 - **Mye gjøres fortsatt av mennesker:** det er uklart hvor stor del av økningen som skyldes KI, og Elliptic finner ennå ikke tegn på KI-svindel i stor skala [K1033] ([[OKO-18]]). Det tydeligste nye er troverdigheten, ikke nødvendigvis mengden.
+
+- **Tapene falt i 2025:** samlet svindel gikk ned 22 % til 962 millioner kroner, men økte igjen i andre halvår. Foretakene stanset forsøk for 3 537 millioner kroner [K0262].

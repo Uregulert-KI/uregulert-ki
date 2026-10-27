@@ -4,7 +4,7 @@ tittel: Forgiftede modeller og leverandørkjeden
 del: Del V – Sikkerhet og beredskap
 status: kandidat
 risikotype: ikke vurdert
-sist_endret: 2026-10-24
+sist_endret: 2026-10-27
 ---
 
 # SIK-12 Forgiftede modeller og leverandørkjeden
@@ -73,6 +73,8 @@ sist_endret: 2026-10-24
 - **Ondsinnede modellfiler** er funnet på åpne modellbibliotek, med kode som kjøres når filen lastes [K1133] (sjekk).
 - **Ingen stykkliste:** du vet sjelden hvilke data, hvilken grunnmodell og hvilke finjusteringer som ligger bak.
 - **Norske modeller arver grunnmodellen:** norske språkmodeller bygger på utenlandske grunnmodeller ([[DEM-06]]). Det som er trent inn der, følger med.
+
+- **Behandles som ukjent kode:** retningslinjene NSM har sluttet seg til, sier at tredjeparts modeller og vekter skal behandles som «untrusted third-party code», fordi de kan gi fjernkjøring av kode [K1202] ([[SIK-19]]).
 
 ### E Modeller fra fremmede stater
 

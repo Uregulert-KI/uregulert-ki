@@ -16,7 +16,7 @@ Rekkefølgen i tabellen er rekkefølgen i rapporten. ID-ene sier ingenting om pl
 |---|---|---|---|---|---|
 | 1 | RET-00 | Rammeverk: KI-agenter i rettsordenen og «Loven møter KI» | [utkast/RET-00-rammeverk.md](utkast/RET-00-rammeverk.md) | kandidat | 6 |
 | 2 | RET-01 | Ansvar og ansvarsgap | [utkast/RET-01-ansvar-og-ansvarsgap.md](utkast/RET-01-ansvar-og-ansvarsgap.md) | stikkord | 14 |
-| 3 | RET-02 | Automatiserte og KI-assisterte vedtak | [utkast/RET-02-automatiserte-vedtak.md](utkast/RET-02-automatiserte-vedtak.md) | stikkord | 10 |
+| 3 | RET-02 | Automatiserte og KI-assisterte vedtak | [utkast/RET-02-automatiserte-vedtak.md](utkast/RET-02-automatiserte-vedtak.md) | stikkord | 11 |
 | 4 | RET-03 | Skjevheter og diskriminering | [utkast/RET-03-skjevheter-og-diskriminering.md](utkast/RET-03-skjevheter-og-diskriminering.md) | stikkord | 14 |
 | 5 | RET-04 | Politi og domstoler | [utkast/RET-04-politi-og-domstoler.md](utkast/RET-04-politi-og-domstoler.md) | stikkord | 11 |
 | 6 | RET-05 | Feil i kritiske domener: helse og jus | [utkast/RET-05-feil-i-kritiske-domener.md](utkast/RET-05-feil-i-kritiske-domener.md) | stikkord | 10 |
@@ -24,11 +24,11 @@ Rekkefølgen i tabellen er rekkefølgen i rapporten. ID-ene sier ingenting om pl
 | 8 | RET-07 | Velferdsstatens kontrollalgoritmer | [utkast/RET-07-kontrollalgoritmer.md](utkast/RET-07-kontrollalgoritmer.md) | kandidat | 9 |
 | 9 | RET-08 | Tolking og oversettelse i offentlige og samfunnskritiske tjenester | [utkast/RET-08-tolking-og-oversettelse.md](utkast/RET-08-tolking-og-oversettelse.md) | kandidat | 10 |
 | 10 | RET-09 | Utlendingsforvaltningen | [utkast/RET-09-utlendingsforvaltningen.md](utkast/RET-09-utlendingsforvaltningen.md) | kandidat | 11 |
-| 11 | RET-10 | Innsyn, offentlighet og arkiv | [utkast/RET-10-innsyn-offentlighet-arkiv.md](utkast/RET-10-innsyn-offentlighet-arkiv.md) | kandidat | 9 |
+| 11 | RET-10 | Innsyn, offentlighet og arkiv | [utkast/RET-10-innsyn-offentlighet-arkiv.md](utkast/RET-10-innsyn-offentlighet-arkiv.md) | kandidat | 10 |
 | 12 | RET-11 | Et todelt rettssystem | [utkast/RET-11-todelt-rettssystem.md](utkast/RET-11-todelt-rettssystem.md) | kandidat | 8 |
 | 13 | RET-12 | KI-agenter som brukere av retten: avtaler og ansvar | [utkast/RET-12-ki-agenter-og-avtaleretten.md](utkast/RET-12-ki-agenter-og-avtaleretten.md) | kandidat | 7 |
 | 14 | RET-13 | KI i lovarbeid, utredninger og lovtolking | [utkast/RET-13-ki-i-lovarbeid.md](utkast/RET-13-ki-i-lovarbeid.md) | kandidat | 7 |
-| 15 | RET-14 | Tilsynenes kapasitet og statens egen kontroll-KI | [utkast/RET-14-tilsyn-og-kontroll-ki.md](utkast/RET-14-tilsyn-og-kontroll-ki.md) | kandidat | 9 |
+| 15 | RET-14 | Tilsynenes kapasitet og statens egen kontroll-KI | [utkast/RET-14-tilsyn-og-kontroll-ki.md](utkast/RET-14-tilsyn-og-kontroll-ki.md) | kandidat | 11 |
 | 16 | RET-15 | Offentlige anskaffelser og leverandørbinding | [utkast/RET-15-anskaffelser-og-leverandorbinding.md](utkast/RET-15-anskaffelser-og-leverandorbinding.md) | kandidat | 12 |
 | 17 | RET-16 | Kriminalomsorgen og innsatte | [utkast/RET-16-kriminalomsorgen.md](utkast/RET-16-kriminalomsorgen.md) | kandidat | 15 |
 

@@ -97,16 +97,16 @@ Oppdateres automatisk (`node 00-styring/verktoy/oppdater-status.js`). Påstander
 | [01-sammendrag](01-sammendrag/PLAN.md) | 1 | stikkord: 1 | 0 / 0 / 0 / 0 |
 | [02-innledning](02-innledning/PLAN.md) | 5 | stikkord: 5 | 0 / 0 / 0 / 14 |
 | [03-rammeverk](03-rammeverk/PLAN.md) | 2 | stikkord: 2 | 0 / 0 / 0 / 2 |
-| [04-regulering](04-regulering/PLAN.md) | 4 | kandidat: 2, stikkord: 2 | 0 / 0 / 0 / 48 |
-| [05-del-I-livslop](05-del-I-livslop/PLAN.md) | 17 | kandidat: 12, stikkord: 5 | 0 / 0 / 0 / 291 |
-| [06-del-II-demokrati](06-del-II-demokrati/PLAN.md) | 17 | kandidat: 10, stikkord: 6, utkast-høy-prioritet: 1 | 0 / 0 / 0 / 178 |
-| [07-del-III-rettsstat](07-del-III-rettsstat/PLAN.md) | 17 | kandidat: 12, stikkord: 5 | 0 / 0 / 0 / 169 |
-| [08-del-IV-okonomi](08-del-IV-okonomi/PLAN.md) | 18 | kandidat: 10, stikkord: 8 | 0 / 0 / 0 / 153 |
-| [09-del-V-sikkerhet](09-del-V-sikkerhet/PLAN.md) | 18 | kandidat: 10, stikkord: 8 | 0 / 0 / 0 / 155 |
+| [04-regulering](04-regulering/PLAN.md) | 4 | kandidat: 2, stikkord: 2 | 0 / 0 / 0 / 56 |
+| [05-del-I-livslop](05-del-I-livslop/PLAN.md) | 17 | kandidat: 12, stikkord: 5 | 0 / 0 / 0 / 298 |
+| [06-del-II-demokrati](06-del-II-demokrati/PLAN.md) | 17 | kandidat: 10, stikkord: 6, utkast-høy-prioritet: 1 | 0 / 0 / 0 / 183 |
+| [07-del-III-rettsstat](07-del-III-rettsstat/PLAN.md) | 17 | kandidat: 12, stikkord: 5 | 0 / 0 / 0 / 173 |
+| [08-del-IV-okonomi](08-del-IV-okonomi/PLAN.md) | 18 | kandidat: 10, stikkord: 8 | 0 / 0 / 0 / 169 |
+| [09-del-V-sikkerhet](09-del-V-sikkerhet/PLAN.md) | 18 | kandidat: 10, stikkord: 8 | 0 / 0 / 0 / 164 |
 | [10-tverrgaende](10-tverrgaende/PLAN.md) | 10 | kandidat: 3, stikkord: 6, utkast-høy-prioritet: 1 | 0 / 0 / 0 / 56 |
 | [11-motargumenter](11-motargumenter/PLAN.md) | 1 | stikkord: 1 | 0 / 0 / 0 / 3 |
 | [12-anbefalinger](12-anbefalinger/PLAN.md) | 1 | stikkord: 1 | 0 / 0 / 0 / 0 |
 | [13-vedlegg](13-vedlegg/PLAN.md) | 3 | stikkord: 3 | 0 / 0 / 0 / 0 |
-| **Totalt** | 114 | kandidat: 59, stikkord: 53, utkast-høy-prioritet: 2 | 0 / 0 / 0 / 1069 |
+| **Totalt** | 114 | kandidat: 59, stikkord: 53, utkast-høy-prioritet: 2 | 0 / 0 / 0 / 1118 |
 
-Sist oppdatert: 2026-10-26
+Sist oppdatert: 2026-10-27

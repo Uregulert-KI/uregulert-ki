@@ -4,12 +4,12 @@ tittel: Maktkonsentrasjon og digital suverenitet
 del: Del IV – Økonomi, arbeid og solidaritet
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-25
+sist_endret: 2026-10-27
 ---
 
 # OKO-02 Maktkonsentrasjon og digital suverenitet
 
-> Påstander: OKO-02.P01–OKO-02.P10 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: OKO-02.P01–OKO-02.P11 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -83,6 +83,10 @@ sist_endret: 2026-10-25
 ### H Norsk forankring
 
 - NVE [K0975] og Statnett [K0152]; reglene for tilknytning til nettet (sjekk); Konkurransetilsynet [K0141]; Sigma2 [K0980]; regjeringens datasenterstrategi (sjekk).
+
+- **Regjeringen sier det selv:** maktkonsentrasjonen hos noen få store globale teknologiaktører «kan utgjøre en utfordring for nasjonalstater og en trussel for demokrati og samfunn» [K0307]. Offentlig sektor er avhengig av selskaper som «i stor grad dikterer vilkårene selv» [K0307].
+- **Varslet i 2019:** Forbrukerrådet advarte mot markedssituasjoner der store datamengder konsentreres hos få selskaper [K1227].
+- **Det samlede omfanget:** NSM skriver at det ikke er den enkelte anskaffelsen som er problemet, men det samlede omfanget av avhengigheten [K1216].
 
 ### I Kandidater til [[ANB-01]]
 

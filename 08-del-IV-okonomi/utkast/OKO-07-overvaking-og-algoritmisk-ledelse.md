@@ -4,12 +4,12 @@ tittel: Overvåking og algoritmisk ledelse på arbeidsplassen
 del: Del IV – Økonomi, arbeid og solidaritet
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-21
+sist_endret: 2026-10-27
 ---
 
 # OKO-07 Overvåking og algoritmisk ledelse på arbeidsplassen
 
-> Påstander: OKO-07.P01–OKO-07.P07 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: OKO-07.P01–OKO-07.P10 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -76,6 +76,11 @@ sist_endret: 2026-10-21
 - Systemer som fordeler arbeid, setter tempo og vurderer prestasjoner («people analytics»). Amazons måling av «tid uten oppgave» på lagrene [K0955]; Microsofts «Productivity Score», som ble endret etter kritikk i 2020 [K0956] (sjekk).
 - **Lederen blir algoritmen** – og da blir det uklart hvem man skal klage til ([[RET-01]]).
 
+- **Ny norsk kunnskapsoppsummering (2026):** algoritmisk ledelse kan gi økt arbeidstempo, mindre autonomi, svakere kollegiale relasjoner og et ansvarsgap der ansatte står ansvarlige for beslutninger de ikke kan forklare eller påvirke [K1211] [K1212].
+- **Sjefsvare i Europa:** 12 % av europeiske virksomheter sporer innhold og tempo i arbeidet, og 8 % overvåker ansattes prestasjoner [K1213].
+- **Plattformøkonomien som laboratorium:** styringsformene derfra kan spre seg til logistikk, lager, kundesenter og industri [K1211].
+- **Varslet i 2019:** EL og IT Forbundet advarte om at intelligente HR-systemer kan bli en trussel mot det organiserte arbeidslivet [K1232].
+
 ### F Arbeidsmiljøloven og kamera
 
 - Kontrolltiltak etter kap. 9 krever saklig grunn, må være forholdsmessige og skal drøftes med de tillitsvalgte [K0161] (sjekk §§ 9-1 og 9-2). Kameraovervåking reguleres i tillegg av egen forskrift [K0954] og personvernreglene; Datatilsynet [K0163] fikk 1800 henvendelser og 73 klager om overvåking i arbeidslivet i 2018 [K0953] (sjekk).
@@ -85,6 +90,10 @@ sist_endret: 2026-10-21
 
 - KI kommer inn via programvareabonnementer uten at tillitsvalgte er involvert (OKO-19.P02). Hovedavtalen gir rett til informasjon og medvirkning [K0139] ([[OKO-19]]).
 
+- **Tillitsvalgte holdes utenfor:** over halvparten av bedriftene drøfter ikke bruk av digitale verktøy med de tillitsvalgte. I 2021 var tillitsvalgte eller verneombud med på innføringen av ny teknologi i bare 34–36 % av virksomhetene [K1213].
+- **Orienteringssak, ikke forhandling:** ved ett norsk universitet ble et opptaksverktøy med omfattende datalagring bare tatt opp som orienteringssak, uten at fagforeningene fikk påvirke beslutningen [K1211].
+- **Regelverket fanger ikke maktforholdene:** GDPR retter seg mot innsamlingen av data, ikke mot analysen og styringen. KI-forordningen lar leverandøren selv vurdere risikoen, og plattformdirektivet gjelder bare plattformarbeid [K1211] [K1213].
+
 ### H Kandidater til [[ANB-01]]
 
 - KI-verktøy som registrerer ansatte – også møter, e-post og chat – regnes som kontrolltiltak og drøftes etter kap. 9.
@@ -92,8 +101,13 @@ sist_endret: 2026-10-21
 - Kontroll av verneutstyr skal som standard være anonym og behandles lokalt.
 - Rett til innsyn i hvordan algoritmen vurderer den ansatte.
 
+- **Forslag fra forskningen:** forby automatiske oppsigelser og overvåking av private rom på arbeidsplassen, flytt bevisbyrden for at systemene ikke diskriminerer over på arbeidsgiver eller leverandør, og gi tillitsvalgte rett til eksperthjelp betalt av arbeidsgiver, slik tyske bedriftsråd har hatt siden 2021 [K1211] ([[OKO-19]]).
+
 ### I Nyanse
 
 - **Sikkerhet er en reell gevinst:** kontroll av verneutstyr kan redde liv, og systemer kan oppdage farlige situasjoner og overbelastning.
 - **En algoritme kan fordele arbeid mer rettferdig** enn en leder med favoritter.
 - **Spørsmålet er ikke om det brukes, men om bruken er avgrenset, åpen og drøftet.**
+
+- **Overvekt av risiko:** Nordlandsforskning påpeker selv at gjennomgangen har en overvekt av studier om risiko, blant annet fordi produktivitet var holdt utenfor [K1211].
+- **Myndighetene har justert seg:** i 2025 skrev Arbeidstilsynet at det er «utelukkende positivt» for arbeidstakeren når ny teknologi bistår i arbeidet [K1214]. I 2026 står det «kan være positivt» [K1213].

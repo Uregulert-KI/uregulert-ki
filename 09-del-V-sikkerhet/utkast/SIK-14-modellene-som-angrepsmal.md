@@ -4,7 +4,7 @@ tittel: KI-modellene som angrepsmål
 del: Del V – Sikkerhet og beredskap
 status: kandidat
 risikotype: ikke vurdert
-sist_endret: 2026-10-24
+sist_endret: 2026-10-27
 ---
 
 # SIK-14 KI-modellene som angrepsmål
@@ -70,6 +70,8 @@ sist_endret: 2026-10-24
 - **Ordrett treningsdata:** forskere har trukket ut ordrett treningsdata fra språkmodeller, også personopplysninger [K1126] (sjekk).
 - **Modellen som lekkasje:** en modell trent på norske journaler, saksmapper eller interne dokumenter kan selv bli en lekkasje ([[SIK-01]], avsnitt C).
 
+- **Anerkjent av myndighetene:** angripere kan rekonstruere en modells funksjon eller treningsdataene bare ved å spørre den [K1202].
+
 ### E Statens egne modeller som mål
 
 - **Modellen blir et skjermingsverdig objekt** når staten trener eller finjusterer på egne data – NAV, helse, skatt, og norske språkmodeller ved Nasjonalbiblioteket og universitetene (sjekk).
@@ -88,6 +90,8 @@ sist_endret: 2026-10-24
 - Krav om testing mot uttrekk av treningsdata før en modell trent på persondata tas i bruk.
 - NSM får ansvar for veiledning om sikring av modeller.
 - Statlige modellprosjekter får en egen sikkerhetsvurdering.
+
+- **Fra retningslinjene:** sikkerhetsevaluering og red teaming før lansering, åpenhet om kjente begrensninger, og samtykke til at sikkerhetsforskere kan undersøke og melde fra om sårbarheter [K1202].
 
 ### H Nyanse
 

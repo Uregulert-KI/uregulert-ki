@@ -4,12 +4,12 @@ tittel: Innsyn, offentlighet og arkiv
 del: Del III – Rettsstat og forvaltning
 status: kandidat
 risikotype: ikke vurdert
-sist_endret: 2026-10-19
+sist_endret: 2026-10-27
 ---
 
 # RET-10 Innsyn, offentlighet og arkiv
 
-> Påstander: RET-10.P01–RET-10.P09 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: RET-10.P01–RET-10.P10 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -62,6 +62,9 @@ sist_endret: 2026-10-19
 
 - **Skal KI brukes i det offentlige, trengs en KI-logg:** spørsmål og svar, modellversjon og tidspunkt, knyttet til saken. Først da kan man forstå hvordan en beslutning er tatt – og om den er påvirket utenfra ([[RET-02]], avsnitt E).
 - **Tidsdimensjonen:** modellene oppdateres. Uten arkivert modellversjon kan ingen om fem år gjenskape hva modellen svarte ([[REG-04]]).
+
+- **Arkivverket varslet i 2019:** beslutninger tatt med KI må dokumenteres, også grunnlaget og kunnskapen man hadde da. Arkivsystemene og arkivinstitusjonene var «foreløpig ikke rustet» til det [K1236].
+- **Loggene finnes, men hos leverandøren:** retningslinjene for sikker KI-utvikling sier at leverandøren skal gi kundene revisjonslogger av høy kvalitet uten ekstra kostnad [K1202]. Det er ikke et krav.
 
 ### C Skygge-KI kan ikke reguleres uten full overvåking
 

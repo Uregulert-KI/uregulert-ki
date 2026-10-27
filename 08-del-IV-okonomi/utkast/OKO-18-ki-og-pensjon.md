@@ -4,7 +4,7 @@ tittel: KI og pensjon
 del: Del IV – Økonomi, arbeid og solidaritet
 status: kandidat
 risikotype: ikke vurdert
-sist_endret: 2026-10-22
+sist_endret: 2026-10-27
 ---
 
 # OKO-18 KI og pensjon
@@ -50,8 +50,10 @@ sist_endret: 2026-10-22
 
 ### A Uregulert rådgivning i stor skala
 
-- **Egen pensjonskonto:** siden 2021 kan arbeidstakere samle innskuddspensjonen og velge risikoprofil [K0267] (sjekk). De som velger aktivt, spør i økende grad en chatbot eller en «finfluencer» (OKO-18.P01) [K0144].
+- **Egen pensjonskonto:** siden 2021 kan arbeidstakere samle innskuddspensjonen og velge risikoprofil [K0267] (sjekk). De som velger aktivt, spør i økende grad en chatbot eller en «finfluencer» (OKO-18.P01) [K0144]. Finanstilsynet advarer mot å bruke KI-verktøy til investeringer [K1215].
 - **Regnefeil er ikke nytt** – rådgivere har alltid kunnet gjøre dem. **Det nye er at rådgiveren er uregulert:** en finansrådgiver har tillatelse, plikt til gode råd og ansvar. En chatbot har ingenting av dette ([[RET-05]]; den medgjørlige chatboten i [[OKO-14]], avsnitt E).
+
+- **Finanstilsynet og ESMA advarer (2025):** KI-verktøy som brukes til investeringsråd, er ikke under tilsyn, har ingen plikt til å handle i kundens beste interesse og gir ingen tilgang til klagenemnd. De «fungerer ofte på måter som selv utviklerne ikke helt forstår» [K1215].
 
 ### B Svindel – pensjonistenes sparepenger som mål
 

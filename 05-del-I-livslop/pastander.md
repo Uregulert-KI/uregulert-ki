@@ -50,6 +50,10 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | LIV-02.P21 | Barn kan dele andres personopplysninger med en KI uten at de berørte har samtykket | K0002 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | LIV-02.P22 | Språkmodeller kan huske og gjengi deler av treningsdataene | K0852 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | LIV-02.P23 | Filtrering av personopplysninger gir ingen garanti mot at samtaler bevares eller blir tilgjengelige for statlige aktører | K0074, K0171 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| LIV-02.P24 | 90 prosent av ungdomsskolene og de videregående skolene og 65 prosent av barneskolene bruker KI-verktøy i opplæringen (2025) | K1221 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| LIV-02.P25 | Skoleledere er bekymret for at KI forsterker forskjeller mellom elever | K1222 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| LIV-02.P26 | Udir anbefaler at elever på 1.–7. trinn i hovedsak ikke får tilgang til generativ KI | K1220 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| LIV-02.P27 | Datatilsynet fant at hundrevis av digitale læringsverktøy ikke vurderes godt nok før de tas i bruk | K1218 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | LIV-03.P01 | Endoskopister oppdaget færre forstadier til kreft etter en periode med KI-støtte | K0036 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | LIV-03.P02 | Kognitiv avlastning kan hindre læring når den erstatter egen bearbeiding | K0037 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | LIV-03.P03 | Lett tilgjengelig informasjon endrer hva vi husker («Google-effekten») | K0038 |  |  |  |  |  |  | ikke scoret | 0 | – |
@@ -168,7 +172,7 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | LIV-10.P01 | Det finnes kompanjongroboter for eldre (f.eks. ElliQ) | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | LIV-10.P02 | Politiet advarer om telefonsvindel mot eldre, inkludert stemmeklonet barnebarnssvindel | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | LIV-10.P03 | Mangel på helsepersonell skaper automatiseringspress i omsorgen | K0058 |  |  |  |  |  |  | ikke scoret | 0 | – |
-| LIV-10.P04 | Deler av befolkningen har svak digital kompetanse | K0060 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| LIV-10.P04 | Deler av befolkningen har svak digital kompetanse | K0060, K0307 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | LIV-10.P05 | Robotomsorg reiser spørsmål om eldres verdighet | K0061 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | LIV-10.P06 | Samtykkekompetanse reguleres i pasient- og brukerrettighetsloven kap. 4 | K0016 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | LIV-10.P07 | En ansatt i Arup overførte rundt 25 millioner dollar etter en videosamtale med deepfake-kolleger | K0490 |  |  |  |  |  |  | ikke scoret | 0 | – |
@@ -183,6 +187,7 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | LIV-10.P16 | Bruk av varslings- og lokaliseringsteknologi i omsorgen er særskilt regulert | K0500 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | LIV-10.P17 | Verdighetsgarantien gir eldre rett til sosial kontakt og et meningsfylt liv | K0503 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | LIV-10.P18 | Bo trygt hjemme-reformen satser på at flere eldre skal bo hjemme lenger, med teknologi som verktøy | K0505 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| LIV-10.P19 | Om lag 20 prosent av den voksne befolkningen er sårbare i møte med offentlige digitale tjenester | K0307 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | LIV-11.P01 | KI fjerner friksjon som fikk oss i bevegelse; stillesitting øker og søvnen påvirkes | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | LIV-11.P02 | Mange bruker chatboter til helseråd og selvdiagnose | K0508 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | LIV-11.P03 | Folk som brukte språkmodeller til medisinske scenarioer, gjorde det ikke bedre enn en kontrollgruppe, selv om modellene alene svarte godt | K0506 |  |  |  |  |  |  | ikke scoret | 0 | – |
@@ -297,3 +302,5 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | LIV-17.P18 | Falske kontoer modnes med historikk før bruk, og plattformer bruker kontoens alder som tegn på ekthet | K0646 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | LIV-17.P19 | Å holde liv i troverdige falske profiler over tid krevde tidligere mye menneskelig arbeid | K0647 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | LIV-17.P20 | Syntetiske personer blir mer troverdige jo lenger de er aktive uten å bli avslørt | K0260 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| LIV-17.P21 | Finanstilsynet vurderer BankID som et «single point of failure» der beredskapen ikke holder ved langvarig bortfall | K0262 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| LIV-17.P22 | Nær én million mennesker i Norge kan ikke skaffe seg eID på høyt sikkerhetsnivå | K0307 |  |  |  |  |  |  | ikke scoret | 0 | – |

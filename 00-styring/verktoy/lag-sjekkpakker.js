@@ -137,7 +137,7 @@ function lesMeg(ws, t) {
   rad('', 'Aldri dikt opp. Tall, datoer og navn tas fra kilden, ikke fra hukommelsen.');
   rad('', 'Skill mellom «viser», «tyder på» og «antyder», og mellom én studie og konsensus. En påstand kan ha riktig kilde og likevel si mer enn kilden gjør.');
   rad('', 'Du kan bruke KI til å finne kilder, oppsummere og peke deg til rett sted i kilden. Men selve sjekken gjør du selv ved å lese originalen. Uten menneskelig verifisering er dugnaden verdiløs.');
-  rad('', 'Privatpersoner navngis aldri.');
+  rad('', 'Privatpersoner i privat rolle navngis aldri. Forskere og fagpersoner som uttaler seg offentlig i fagrollen sin, kan navngis.');
   rad('Spørsmål?', KONTAKT, 'b');
 }
 

@@ -4,7 +4,7 @@ tittel: Deepfakes og tillit
 del: Del II – Demokrati, offentlighet og kunnskap
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-19
+sist_endret: 2026-10-27
 ---
 
 # DEM-03 Deepfakes og tillit
@@ -61,7 +61,7 @@ sist_endret: 2026-10-19
 
 ### C Tillitsparadokset – høy tillit er et lukrativt mål
 
-- **Jo mer folk stoler på hverandre, desto mer lønner det seg å lure dem.** Deepfakes av kjente nordmenn i falske investeringsannonser [K0699] (sjekk); svindeltall fra Finanstilsynet [K0185].
+- **Jo mer folk stoler på hverandre, desto mer lønner det seg å lure dem.** Deepfakes av kjente nordmenn i falske investeringsannonser [K0699] (sjekk); svindeltall fra Finanstilsynet [K0185] [K0262].
 - Svindel mot eldre: [[LIV-10]]. BankID og autentisering: [[LIV-17]].
 
 ### D Fra tillitssamfunn til kontrollsamfunn
@@ -87,3 +87,5 @@ sist_endret: 2026-10-19
 
 - **Tillit kan kalibreres:** målet er ikke mistillit, men riktig tillit. Redaktørstyrte medier og institusjoner med ansvar blir *viktigere*.
 - **Norges høye tillit er en ressurs som gir motstandskraft** – så lenge den forvaltes.
+
+- **Sunn skepsis er et gode:** regjeringen skriver selv at «høyest mulig tillit er ikke noe mål i seg selv, og sunn skepsis er et gode for ethvert demokrati» [K0307].

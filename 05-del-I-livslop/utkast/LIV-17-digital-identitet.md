@@ -4,12 +4,12 @@ tittel: Digital identitet og syntetisk etterligning
 del: Del I – Mennesket gjennom livsløpet
 status: kandidat
 risikotype: ikke vurdert
-sist_endret: 2026-10-15
+sist_endret: 2026-10-27
 ---
 
 # LIV-17 Digital identitet og syntetisk etterligning
 
-> Påstander: LIV-17.P01–LIV-17.P20 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: LIV-17.P01–LIV-17.P22 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -78,6 +78,10 @@ sist_endret: 2026-10-15
 - **Liveness-tester og ansiktsgjenkjenning** angripes med deepfakes sendt rett inn i kamerastrømmen [K0615]. CAPTCHA er knekt [K0616] (sjekk).
 - **Norsk forankring:** Finanstilsynet om angrep på BankID [K0262]. BankID og ID-porten er nasjonal infrastruktur. EUs digitale ID-lommebok kommer [K0261].
 - **Kodeordet:** [[LIV-10]], avsnitt A, og bloggposten [K0260].
+
+- **BankID er et «single point of failure»:** beredskapen holder ved korte avbrudd, men ikke når BankID er borte i flere dager. Da stopper blant annet nye kundeforhold og digital signering, og testene dekker i liten grad langvarige scenarioer [K0262] ([[SIK-07]]).
+- **Mange står uten:** nær én million mennesker i Norge er forhindret fra å delta digitalt, blant annet fordi de ikke kan skaffe seg eID på høyt sikkerhetsnivå [K0307].
+- **Flerfaktor holder ikke alltid:** NSM ser i økende grad phishing som omgår flerfaktorautentisering [K1216].
 
 ### D Ekthet under press – maskiner som prøver å avsløre maskiner
 

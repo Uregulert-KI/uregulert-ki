@@ -4,12 +4,12 @@ tittel: Valg og kampanjer
 del: Del II – Demokrati, offentlighet og kunnskap
 status: kandidat
 risikotype: ikke vurdert
-sist_endret: 2026-10-18
+sist_endret: 2026-10-27
 ---
 
 # DEM-12 Valg og kampanjer
 
-> Påstander: DEM-12.P01–DEM-12.P10 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: DEM-12.P01–DEM-12.P13 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -55,11 +55,17 @@ sist_endret: 2026-10-18
 - **Norsk kontrast:** valgomatene til NRK, TV 2 og andre er åpne om metoden og har redaksjonelt ansvar. En chatbot som valgomat har ingen av delene.
 - **Nektelser:** noen selskaper har begrenset hva modellene svarer om valg [K0776] (sjekk) – det beskytter, men gir også velgerne mindre informasjon.
 
+- **Feil valgdato:** i ekspertgruppens test oppga ChatGPT at stortingsvalget 2025 var 14. september, og Snapchats MyAI svarte 13. september. Riktig dato var 8. september [K1217].
+- **Valgomatene kan bli KI-baserte:** halvparten av velgerne under 34 år regner valgomater som en viktig informasjonskilde, og ekspertgruppen venter valgomater og partichatboter bygd på KI [K1217].
+
 ### B Desinformasjonskampanjer og påvirkning i stor skala
 
 - **USA:** en klonet stemme av Joe Biden ringte velgere og ba dem la være å stemme før primærvalget i New Hampshire i 2024 [K0777] (sjekk).
 - **Romania:** presidentvalget i 2024 ble annullert etter en koordinert påvirkningskampanje på TikTok [K0778] (sjekk) – ikke KI-drevet i seg selv, men viser hvor sårbart et valg er.
 - Slovakia ([[DEM-02]], avsnitt C); sovende nettverk av syntetiske personer ([[LIV-17]], avsnitt B); digitale tvillinger av velgere ([[LIV-13]], avsnitt C).
+
+- **Falske «norske» nettsteder:** FFI fant i 2023 fjorten falske nettsteder som utga seg for å være norske. KI kan automatisere slike sider og spre dem gjennom falske profiler [K1217].
+- **Samtaler én til én:** botter som fører samtaler med enkeltvelgere på Snapchat eller WhatsApp, er vanskelige å avdekke fordi de ikke etterlater spor i åpne kanaler [K1217].
 
 ### C Forgiftning av datagrunnlaget før valg
 
@@ -87,6 +93,9 @@ sist_endret: 2026-10-18
 
 - Valgloven [K0783], Valgdirektoratet [K0070], Faktisk.no [K0071], PST [K0068].
 
+- **Ekspertgruppen for KI og valg (2025)** anbefalte blant annet å beholde papirstemmesedler, utvise «stor forsiktighet med implementering av KI-løsninger i valgadministrasjon», be plattformer og chatboter vise til offisiell valginformasjon og gjennomføre DSA og KI-forordningen raskt [K1217].
+- **Partiene på Stortinget** har avtalt ikke å lage, bruke eller spre deepfakes av andre partier og politikere. Den største risikoen er derfor andre aktører enn de etablerte partiene [K1217].
+
 ### H Regulering og hull
 
 - KI-forordningen regner systemer som skal påvirke valg, som høyrisiko [K0768] (sjekk), og krever merking av deepfakes (art. 50) [K0001]. EU-kommisjonen har retningslinjer for valg etter DSA [K0784].
@@ -96,3 +105,6 @@ sist_endret: 2026-10-18
 ### I Nyanse
 
 - KI kan forklare partiprogrammer og gjøre politikk tilgjengelig for flere, og samtaler med KI har redusert konspirasjonstro [K0064].
+
+- **KI forsterker mest det som finnes fra før:** generativ KI ble ikke den dominerende faktoren man fryktet i valgåret 2024. Ekspertgruppen mener KI «i størst grad bidrar til å forsterke eksisterende trusler» [K1217].
+- **Ikke overdriv:** «Dersom det tegnes et overdrevet trusselbilde, vil det i seg selv bidra til å redusere tilliten til informasjon, teknologi og demokratiet» [K1217]. FFIs kartlegging av valget i 2023 fant ingen tegn til utenlandsk påvirkning [K0307].

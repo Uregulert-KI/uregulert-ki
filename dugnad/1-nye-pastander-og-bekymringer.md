@@ -32,7 +32,7 @@ Har du ingen, skriv hva den bygger på (for eksempel egen erfaring eller observa
 ## Føringer
 
 - **Du trenger ikke ha en kilde** for å komme med en bekymring. Påstander uten kilde blir stående som «mangler kilde» til noen finner en. Det er det [oppgave 2](2-bredde.md) og [oppgave 4](4-kilde-og-pastandssjekk.md) er til for.
-- **Ikke navngi privatpersoner**, og ikke del personopplysninger om andre.
+- **Ikke navngi privatpersoner i privat rolle**, og ikke del personopplysninger om andre. Forskere og fagpersoner som uttaler seg offentlig i fagrollen sin, kan navngis.
 - **Sensitive temaer** omtales overordnet, uten framgangsmåter.
 - Forfatteren vurderer hvert bidrag og legger det inn i riktig tema, eventuelt sammen med andre bidrag som sier det samme.
 - Les også de [felles reglene](../metode/dugnad-veiledning.md#regler).

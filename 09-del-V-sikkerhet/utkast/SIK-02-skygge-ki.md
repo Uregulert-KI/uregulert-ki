@@ -4,12 +4,12 @@ tittel: Skygge-KI og ufrivillige innsidetrusler
 del: Del V – Sikkerhet og beredskap
 status: stikkord
 risikotype: uhell/uaktsomhet
-sist_endret: 2026-10-23
+sist_endret: 2026-10-27
 ---
 
 # SIK-02 Skygge-KI og ufrivillige innsidetrusler
 
-> Påstander: SIK-02.P01–SIK-02.P08 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: SIK-02.P01–SIK-02.P10 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -60,6 +60,10 @@ sist_endret: 2026-10-23
 - **Tatt uten at noen merker det:** KI-referenter som blir med i møter, nettleserutvidelser som leser skjermen, tastaturer og apper med innebygd KI.
 - **Norsk presedens:** NRK avslørte i 2017 at tekster lagt inn i en gratis oversettelsestjeneste ble søkbare på nett, blant dem dokumenter fra Statoil [K1114]. Samme mekanisme – annen skala.
 
+- **Finanstilsynet ser det samme:** skygge-KI kan gi «datalekkasje, tap av immaterielle verdier, manglende sporbarhet og etterprøvbarhet samt modell- og beslutningsrisiko». Agentiske løsninger forsterker risikoen ved at handlinger utføres uten tilstrekkelig menneskelig kontroll [K0262]. Finansforetakene kaller selv skygge-IT et framvoksende problem [K0262].
+- **I skolen:** KI-verktøy brukes på alle skoler, også der lederne har oppgitt at de ikke brukes. Bruken styres av lærerne, og mange ledere mangler oversikt [K1222] ([[LIV-02]]).
+- **Grunnmuren er svak:** NSM fikk i de fleste testene full kontroll over statlige kontorsystemer, blant annet på grunn av svake administratorpassord og manglende segmentering [K1216]. Det er disse systemene skygge-KI kobles til.
+
 ### C Fremmed jurisdiksjon – alliert eller ikke
 
 - **Det spiller ingen rolle om landet er alliert.** USA er en alliert, men Norge ønsker ikke at amerikanske myndigheter skal ha ufiltrert innsyn i norsk politikk, forvaltning og næringsliv. CLOUD Act [K0171] og FISA 702 [K0172] åpner for det ([[SIK-01]]).
@@ -79,7 +83,7 @@ sist_endret: 2026-10-23
 ### F Reguleringshull
 
 - **Reglene finnes, men brudd oppdages ikke:** sikkerhetsloven [K0010] og taushetsplikten gjelder, men brudd er nesten umulige å oppdage ([[RET-10]], avsnitt C).
-- **Råd, ikke krav:** NSMs og Digdirs råd om KI-bruk i staten [K0178] [K0176] er veiledende (sjekk).
+- **Råd, ikke krav:** NSMs og Digdirs råd om KI-bruk i staten [K0178] [K0176] er veiledende (sjekk). Digitaliseringsstrategien lover krav om etiske KI-prinsipper i digitaliseringsrundskrivet [K0307] (sjekk om innført).
 - **Uklart ansvar** når den ansatte bryter reglene i god tro.
 
 ### G Kandidater til [[ANB-01]]

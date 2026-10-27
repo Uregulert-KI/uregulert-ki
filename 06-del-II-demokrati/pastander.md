@@ -98,16 +98,17 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | DEM-06.P13 | Språkmodeller er dårligere på hverdagskunnskap fra lite representerte kulturer | K0740 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-06.P14 | Sikkerhetssperrer i språkmodeller kan omgås ved å oversette farlige spørsmål til lavressursspråk | K0741 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-06.P15 | KI oversetter engelske uttrykk ord for ord til norsk i stedet for å bruke norsk idiomatikk | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
+| DEM-06.P16 | Regjeringen skriver at språkmodellene ofte har begrenset språklig kvalitet og kulturelle skjevheter | K1219 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-07.P01 | Når KI kan skrive oppgaver og hjemmeeksamener, svekkes vitnemålets verdi | K0090 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-07.P02 | KI-genererte undervisningsopplegg svekker lærernes profesjonelle skjønn og autonomi | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-07.P03 | Danske Datatilsynet grep inn mot Chromebook-bruken i Helsingør kommune (2022) | K0092 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-07.P04 | Ressurssterke familier kjøper bedre KI-tutorer enn andre har tilgang til | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-07.P05 | Læringsressurser genereres av modeller trent på amerikanske data | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
-| DEM-07.P06 | Lærestedene endrer eksamensformer etter generativ KI, med flere skoleeksamener og muntlige prøver | K0743 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| DEM-07.P06 | Lærestedene endrer eksamensformer etter generativ KI, med flere skoleeksamener og muntlige prøver | K0743, K1222 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-07.P07 | Når læremidler og plattformer leveres av teknologiselskaper, flyttes makt over innholdet fra lærere og skoleeiere til leverandørene | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-07.P08 | Elever har rett til begrunnelse og klage på karakterer, også når KI er brukt i vurderingen | K0744 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-07.P09 | Forskjeller i digitale ferdigheter skaper et andre digitalt skille utover tilgang | K0745 |  |  |  |  |  |  | ikke scoret | 0 | – |
-| DEM-07.P10 | Mange skoler mangler tydelige strategier for KI-arbeidet, og skoleledere etterlyser kompetanse og tydelige føringer | K0746 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| DEM-07.P10 | Mange skoler mangler tydelige strategier for KI-arbeidet, og skoleledere etterlyser kompetanse og tydelige føringer | K0746, K1222 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-08.P01 | KI-assistenter gjør redaksjonelle valg uten redaktøransvar etter medieansvarsloven og Redaktørplakaten | K0094, K0093 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-08.P02 | Det finnes ingen presseetisk klageordning tilsvarende PFU for feil i KI-svar | K0747, K0094 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-09.P01 | Leverandørens regler bestemmer hva modellen nekter og vektlegger | K0095 |  |  |  |  |  |  | ikke scoret | 0 | – |
@@ -131,13 +132,14 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | DEM-10.P08 | Når organisasjoner skriver høringssvar med de samme modellene, blir språket og argumentene likere | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-10.P09 | Regjeringssjefer har brukt KI-assistenter i politisk arbeid | K0767 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-10.P10 | Innbyggerforslag med innlogging via ID-porten eller BankID er beskyttet mot roboter | K0766 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| DEM-10.P11 | Mange klager til Datatilsynet skrives nå med KI, noe som øker volumet og saksbehandlingstiden | K1218 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-11.P01 | KI gjør trakassering billig i stor skala, og folk trekker seg fra debatt og politikk | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-11.P02 | Mange i Norge avstår fra å delta i offentlig debatt | K0095, K0769 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-11.P03 | Mange lokalpolitikere utsettes for hets og trusler, og en del vurderer å slutte | K0770 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-11.P04 | Mange forskere ble trakassert under koronapandemien | K0771 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-11.P05 | KI gjør hets billigere, mer personlig tilpasset og mer varig | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-11.P06 | Når nedkjøling rammer bredt, blir gruppen som deltar i offentligheten smalere og mindre representativ | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
-| DEM-12.P01 | Chatboter gir feil valginformasjon | K0097 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| DEM-12.P01 | Chatboter gir feil valginformasjon | K0097, K1217 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-12.P02 | Forbudet mot politisk TV-reklame fanger ikke opp persontilpasset generativ politisk reklame på nett | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-12.P03 | Chatboter brukt som valgomat har gitt skjeve valgråd som samlet seg om få partier | K0775 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-12.P04 | KI-selskaper har begrenset hva modellene svarer om valg | K0776 |  |  |  |  |  |  | ikke scoret | 0 | – |
@@ -147,6 +149,9 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | DEM-12.P08 | «Trygge» svar fra språkmodeller – falsk balanse, utglatting og nektelser – påvirker velgere selv uten agenda | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-12.P09 | EMD kom til at det norske forbudet mot politisk TV-reklame krenket ytringsfriheten i TV Vest-saken | K0781 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-12.P10 | Meta og Google har sluttet med politiske annonser i EU | K0782 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| DEM-12.P11 | ChatGPT og Snapchats MyAI oppga feil dato for stortingsvalget 2025 | K1217 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| DEM-12.P12 | FFI fant i 2023 fjorten falske nettsteder som utga seg for å være norske | K1217 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| DEM-12.P13 | Ekspertgruppen for KI og valg vurderte at KI i 2024 først og fremst forsterket eksisterende trusler | K1217 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-13.P01 | Syntetiske «historiske» bilder og dokumenter forurenser arkiver, undervisning og slektsforskning | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-13.P02 | Samfunn bygger identitet og læring på en kollektiv hukommelse | K0785 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | DEM-13.P03 | Språkmodeller kan gjenta eldre flertallsnarrativer om historisk urett | K0222 |  |  |  |  |  |  | ikke scoret | 0 | – |

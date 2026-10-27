@@ -4,7 +4,7 @@ tittel: KI-leverandører i totalforsvaret
 del: Del V – Sikkerhet og beredskap
 status: kandidat
 risikotype: ikke vurdert
-sist_endret: 2026-10-25
+sist_endret: 2026-10-27
 ---
 
 # SIK-15 KI-leverandører i totalforsvaret
@@ -73,6 +73,10 @@ sist_endret: 2026-10-25
 - **Jurisdiksjon:** amerikanske leverandører er underlagt amerikansk lov, også i krise [K0171] ([[SIK-01]]).
 - **Private beslutninger i krig:** Starlinks eier begrenset bruken av systemet i Ukraina-krigen av egne grunner [K1166] (sjekk) – det viser hva det betyr når kritisk kapasitet eies av en privat aktør i et annet land.
 - **Egne bånd til forsvaret:** de store KI-selskapene samarbeider med det amerikanske forsvaret ([[SIK-06]], avsnitt E). Ikke nødvendigvis et problem for en alliert – men Norges interesser er ikke deres første prioritet.
+
+- **Finansnæringen ser det samme:** foretakene frykter at avhengighet av leverandører under andre staters lover kan gi pålegg om datautlevering eller avbrudd «som ikke er forenlige med norske regulatoriske krav eller samfunnsinteresser» [K0262].
+- **Kravene må gå nedover i kjeden:** NSM ber virksomheter stille krav også til underleverandører [K1201], og Finanstilsynet fant mangler i oppfølgingen av underleverandører [K0262].
+- **Skytjenestene:** NSM skriver at bruk av noen få utenlandske skytjenester «svekker virksomhetenes evne til å sikre dataens konfidensialitet, integritet og tilgjengelighet» [K1216].
 
 ### E Reguleringshull
 

@@ -5,7 +5,7 @@ del: Kap. 10 – Tverrgående mønstre
 status: utkast-høy-prioritet
 risikotype: strukturell
 horisont: nå
-sist_endret: 2026-10-23
+sist_endret: 2026-10-27
 ---
 
 # TVG-05 Velferdsstaten under press
@@ -51,6 +51,9 @@ sist_endret: 2026-10-23
 - **Norsk eksempel:** Tromsø kommune la fram en rapport med KI-oppdiktede kilder i skolestrukturdebatten (2025 – sjekk detaljer). Påstanden står som [[RET-01]] (RET-01.P03).
 - **Kobling til distriktene:** gevinstene samles i byene, mens offentlige arbeidsplasser i distriktene er lette å automatisere ([[OKO-13]]).
 - **Kilder (sjekkes):** KS om KI og digitalisering i kommunesektoren [K0216]; helse- og omsorgstjenesteloven [K0213].
+
+- **Kommunene har ikke råd:** 73 % av kommunene har høyere IKT-utgifter enn forventet, og 84 % synes det er vanskelig å frigjøre utviklingsressurser [K1204].
+- **Argumentet for KI:** SSB har beregnet et underskudd på nesten 70 000 årsverk helsepersonell i 2040, og regjeringen mener teknologi kan frigjøre arbeidskraft [K0307].
 
 ### Helsevesenet
 

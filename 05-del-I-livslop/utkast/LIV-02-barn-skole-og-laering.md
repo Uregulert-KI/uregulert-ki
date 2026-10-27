@@ -4,12 +4,12 @@ tittel: Barn, skole og læring
 del: Del I – Mennesket gjennom livsløpet
 status: stikkord
 risikotype: strukturell
-sist_endret: 2026-10-20
+sist_endret: 2026-10-27
 ---
 
 # LIV-02 Barn, skole og læring
 
-> Påstander: LIV-02.P01–LIV-02.P23 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: LIV-02.P01–LIV-02.P27 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -75,9 +75,11 @@ sist_endret: 2026-10-20
 
 ### E Tidlige tall om KI-bruk og karakterer
 
-- **Bruken:** Pew (2025) om amerikanske tenåringer som bruker ChatGPT til skolearbeid [K0368]; HEPI (Storbritannia, 2025) om at et stort flertall av studentene bruker KI [K0369] (sjekk). Norske undersøkelser fra Udir, Utdanningsforbundet m.fl. må finnes [K0370].
+- **Bruken:** Pew (2025) om amerikanske tenåringer som bruker ChatGPT til skolearbeid [K0368]; HEPI (Storbritannia, 2025) om at et stort flertall av studentene bruker KI [K0369] (sjekk). Norske undersøkelser [K0370]: 90 % av ungdomsskolene og de videregående skolene og 65 % av barneskolene bruker KI-verktøy i opplæringen [K1221]; skoleledernes erfaringer [K1222] [K0746].
 - **Karakterene:** Udir-statistikken [K0033]. Påstanden om karakterfall må fortsatt ha egne tall og en drøfting av årsaker. PISA 2022 ble tatt våren 2022, før ChatGPT, og sier noe om digitalisering generelt – ikke om generativ KI.
 - **Institusjonelle signaler:** norske universiteter som går tilbake til skoleeksamen [K0371] (sjekk) – kobler til [[DEM-07]].
+
+- **Norske tall:** høsten 2025 brukte 90 % av ungdomsskolene og de videregående skolene og 65 % av barneskolene KI-verktøy i opplæringen [K1221]. Blant 16–24-åringer brukte 9 av 10 generativ KI i 2026 [K1203], og 69 % av dem brukte det i utdanning i 2025 [K1204].
 
 ### F Misbruk og vurdering
 
@@ -95,11 +97,16 @@ sist_endret: 2026-10-20
 - Ulikheten mellom elever som bruker KI til å lære, og dem som bruker den til å slippe å lære.
 - Mulig Matteus-effekt: sterke elever tjener, svake taper [K0373] (sjekk). Betalte og gratis verktøy ([[DEM-07]], fellesskolen).
 
+- **Skolelederne ser ulikheten:** de er bekymret for at KI forsterker forskjeller, fordi elevene som allerede gjør det godt, får mest ut av verktøyene. De frykter også at elevene tar snarveier, blir mer passive og lærer mindre [K1222].
+
 ### I Styring og regler
 
 - **Innebygd spenning i LK20** [K0374]: fagfornyelsen bygger på dybdelæring og kritisk tenkning, men har også digitale ferdigheter som grunnleggende ferdighet. Formålsparagrafen [K0004] og overordnet del [K0009].
-- Udirs veiledning om KI [K0034]; regjeringens nasjonale råd om KI i skolen (2026) [K1194].
+- Udirs råd om KI i skolen [K0034] (sist endret 02.12.2025) og anbefalingene etter trinn og alder [K1220]; regjeringens nasjonale råd om KI i skolen (2026) [K1194].
 - Aldersgrensen for samtykke etter personopplysningsloven er 13 år [K0005]. Leverandørenes egne aldersgrenser er en annen ting.
+
+- **Udirs nye anbefalinger (2026):** på 1.–7. trinn skal elevene i hovedsak ikke ha tilgang til generativ KI. På 8.–10. trinn kan det brukes gradvis og forsiktig, etter at lærerne har fått kompetanse. I videregående skal elevene lære å bruke det hensiktsmessig. Rådene bygger på kunnskapsgrunnlag og føre-var-prinsipper [K1220].
+- **Skolene mangler strategi:** alle skoler bruker KI i en eller annen grad, også der lederne har oppgitt at det ikke brukes. Mange mangler felles planer, og bruken styres i stor grad av lærerne [K1222].
 
 ### J Barn og lekkasje av personopplysninger (lagt til 2026-10-19)
 
@@ -112,3 +119,6 @@ sist_endret: 2026-10-20
 - **Skolens verktøy og de private:** skolegodkjente løsninger med databehandleravtale er én ting; appene barna bruker hjemme, er en annen (avsnitt I).
 - **Kandidater til [[ANB-01]]:** digital dømmekraft i skolen – «hva forteller jeg en maskin, og om hvem?»; ingen trening på samtaler fra mindreårige som standard; skoleverktøy uten lagring av samtaler.
 - **Nyanse:** barn har alltid delt for mye – i dagbøker, chatter og sosiale medier. Det nye er at mottakeren svarer som en venn, og at det som deles, kan bli en del av modellen.
+
+- **Datatilsynets skoletilsyn i 50 kommuner (2025):** «Hundrevis av digitale verktøy blir ikke vurdert godt nok før de tas i bruk». Mange velges av rektor eller den enkelte lærer, og gratis tjenester risikovurderes dårligere enn betalte [K1218].
+- **Udirs råd:** ikke bruk språkmodeller som trener på det elevene skriver inn, unngå gratisverktøy, og gjennomfør en personvernkonsekvensvurdering før en språkmodell tas i bruk [K1223].

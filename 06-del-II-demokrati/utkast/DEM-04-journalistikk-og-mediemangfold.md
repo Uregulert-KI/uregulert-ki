@@ -4,7 +4,7 @@ tittel: Journalistikk og mediemangfold
 del: Del II – Demokrati, offentlighet og kunnskap
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-24
+sist_endret: 2026-10-27
 ---
 
 # DEM-04 Journalistikk og mediemangfold
@@ -84,9 +84,12 @@ sist_endret: 2026-10-24
 - Nasjonalbibliotekets avtaler med rettighetshavere [K0156].
 - Norske redaksjoners retningslinjer for KI [K0714] (sjekk).
 
+- **Chatboter erstatter mediene:** de redaktørstyrte mediene erstattes i større grad av chatboter og KI-søk som er trent på det mediene selv har produsert [K1217].
+- **Plattformmakt:** Google har testet å skjule resultater fra EU-baserte nyhetskilder for 1 % av brukerne i blant annet Danmark [K1217]. Medietilsynet påpekte i 2024 at Meta ikke rapporterer tall for Norge under bransjenormen mot desinformasjon [K1217].
+
 ### F Regulering og hull
 
-- Opphavsrett: reglene om tekst- og datautvinning med reservasjonsrett [K0291] og åndsverkloven [K0018].
+- Opphavsrett: reglene om tekst- og datautvinning med reservasjonsrett [K0291] og åndsverkloven [K0018], der reglene er foreslått gjennomført [K1219].
 - KI-forordningen krever sammendrag av treningsdata [K0001] – men ikke at kildegrunnlaget er balansert.
 - Medieansvarsloven gjelder ikke KI-svar ([[DEM-08]]).
 - **Ingen regler mot å optimalisere datagrunnlaget for egen vinning** – det ligner skjult reklame, og kan ikke etterprøves ([[REG-04]]).

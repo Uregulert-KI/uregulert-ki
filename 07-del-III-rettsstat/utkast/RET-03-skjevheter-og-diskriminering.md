@@ -4,7 +4,7 @@ tittel: Skjevheter og diskriminering
 del: Del III – Rettsstat og forvaltning
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-22
+sist_endret: 2026-10-27
 ---
 
 # RET-03 Skjevheter og diskriminering
@@ -60,6 +60,8 @@ sist_endret: 2026-10-22
 - **Globalt arbeides det mye med dette:** «datasheets» for datasett [K0835] og «model cards» for modeller [K0836] (sjekk). KI-forordningen art. 10 krever at data for høyrisikosystemer er relevante og representative, og at de undersøkes for skjevheter [K0001].
 - **Hvor vi står:** høyrisikosystemer må dokumentere data. De store generelle modellene må bare gi et offentlig *sammendrag* av treningsdataene (art. 53, sjekk). Ingen kan i dag etterprøve hvordan norske grupper, språk og kulturer er representert.
 - **Et norsk paradoks:** for å måle skjevhet må man kjenne gruppetilhørighet. Norge registrerer i liten grad etnisitet, og GDPR art. 9 verner slike opplysninger [K0002]. KI-forordningen åpner for å behandle dem for å oppdage skjevhet (art. 10 nr. 5, sjekk).
+
+- **Kjent i 2019:** Tekna skrev at systemer trent på historiske data viderefører skjevheter, og at det «i praksis har vist seg vanskelig å unngå slike skjevheter» selv når man kjenner til faren. Tekna ba om kontrollordninger med sanksjoner [K1240].
 
 ### C Bevisproblemet
 

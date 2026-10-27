@@ -16,24 +16,24 @@ Rekkefølgen i tabellen er rekkefølgen i rapporten. ID-ene sier ingenting om pl
 
 | Rekkefølge | ID | Tittel | Fil | Status | Påstander |
 |---|---|---|---|---|---|
-| 1 | OKO-01 | Arbeidsliv og kompetanseforvitring | [utkast/OKO-01-arbeidsliv-og-kompetanseforvitring.md](utkast/OKO-01-arbeidsliv-og-kompetanseforvitring.md) | stikkord | 12 |
-| 2 | OKO-02 | Maktkonsentrasjon og digital suverenitet | [utkast/OKO-02-maktkonsentrasjon-og-suverenitet.md](utkast/OKO-02-maktkonsentrasjon-og-suverenitet.md) | stikkord | 10 |
+| 1 | OKO-01 | Arbeidsliv og kompetanseforvitring | [utkast/OKO-01-arbeidsliv-og-kompetanseforvitring.md](utkast/OKO-01-arbeidsliv-og-kompetanseforvitring.md) | stikkord | 14 |
+| 2 | OKO-02 | Maktkonsentrasjon og digital suverenitet | [utkast/OKO-02-maktkonsentrasjon-og-suverenitet.md](utkast/OKO-02-maktkonsentrasjon-og-suverenitet.md) | stikkord | 11 |
 | 3 | OKO-03 | Forsikring, kreditt og spleiselaget | [utkast/OKO-03-forsikring-kreditt-spleiselaget.md](utkast/OKO-03-forsikring-kreditt-spleiselaget.md) | stikkord | 9 |
-| 4 | OKO-04 | Skatt og verdiskaping | [utkast/OKO-04-skatt-og-verdiskaping.md](utkast/OKO-04-skatt-og-verdiskaping.md) | stikkord | 8 |
-| 5 | OKO-05 | Miljø og energi | [utkast/OKO-05-miljo-og-energi.md](utkast/OKO-05-miljo-og-energi.md) | stikkord | 8 |
-| 6 | OKO-06 | Opphavsrett og kreative yrker | [utkast/OKO-06-opphavsrett-og-kreative-yrker.md](utkast/OKO-06-opphavsrett-og-kreative-yrker.md) | stikkord | 11 |
-| 7 | OKO-07 | Overvåking og algoritmisk ledelse på arbeidsplassen | [utkast/OKO-07-overvaking-og-algoritmisk-ledelse.md](utkast/OKO-07-overvaking-og-algoritmisk-ledelse.md) | stikkord | 7 |
+| 4 | OKO-04 | Skatt og verdiskaping | [utkast/OKO-04-skatt-og-verdiskaping.md](utkast/OKO-04-skatt-og-verdiskaping.md) | stikkord | 10 |
+| 5 | OKO-05 | Miljø og energi | [utkast/OKO-05-miljo-og-energi.md](utkast/OKO-05-miljo-og-energi.md) | stikkord | 9 |
+| 6 | OKO-06 | Opphavsrett og kreative yrker | [utkast/OKO-06-opphavsrett-og-kreative-yrker.md](utkast/OKO-06-opphavsrett-og-kreative-yrker.md) | stikkord | 13 |
+| 7 | OKO-07 | Overvåking og algoritmisk ledelse på arbeidsplassen | [utkast/OKO-07-overvaking-og-algoritmisk-ledelse.md](utkast/OKO-07-overvaking-og-algoritmisk-ledelse.md) | stikkord | 10 |
 | 8 | OKO-08 | Global rettferdighet | [utkast/OKO-08-global-rettferdighet.md](utkast/OKO-08-global-rettferdighet.md) | stikkord | 7 |
 | 9 | OKO-09 | Oljefondet og finansiell stabilitet | [utkast/OKO-09-oljefondet-og-finansiell-stabilitet.md](utkast/OKO-09-oljefondet-og-finansiell-stabilitet.md) | kandidat | 8 |
 | 10 | OKO-10 | Algoritmisk prissamordning og personlig pris | [utkast/OKO-10-algoritmisk-prissamordning.md](utkast/OKO-10-algoritmisk-prissamordning.md) | kandidat | 10 |
 | 11 | OKO-11 | Klasseskillet – større eller mindre? | [utkast/OKO-11-lonnsdannelsen.md](utkast/OKO-11-lonnsdannelsen.md) | kandidat | 10 |
-| 12 | OKO-12 | Arbeidsintensivering | [utkast/OKO-12-arbeidsintensivering.md](utkast/OKO-12-arbeidsintensivering.md) | kandidat | 9 |
-| 13 | OKO-13 | Distrikts-Norge og regional ulikhet | [utkast/OKO-13-distrikts-norge.md](utkast/OKO-13-distrikts-norge.md) | kandidat | 7 |
+| 12 | OKO-12 | Arbeidsintensivering | [utkast/OKO-12-arbeidsintensivering.md](utkast/OKO-12-arbeidsintensivering.md) | kandidat | 10 |
+| 13 | OKO-13 | Distrikts-Norge og regional ulikhet | [utkast/OKO-13-distrikts-norge.md](utkast/OKO-13-distrikts-norge.md) | kandidat | 8 |
 | 14 | OKO-14 | Pengespill og forbrukerøkonomi | [utkast/OKO-14-pengespill-og-forbrukerokonomi.md](utkast/OKO-14-pengespill-og-forbrukerokonomi.md) | kandidat | 6 |
 | 15 | OKO-15 | Matsikkerhet og primærnæringene | [utkast/OKO-15-matsikkerhet.md](utkast/OKO-15-matsikkerhet.md) | kandidat | 7 |
-| 16 | OKO-16 | Små og mellomstore bedrifter | [utkast/OKO-16-sma-og-mellomstore-bedrifter.md](utkast/OKO-16-sma-og-mellomstore-bedrifter.md) | kandidat | 8 |
+| 16 | OKO-16 | Små og mellomstore bedrifter | [utkast/OKO-16-sma-og-mellomstore-bedrifter.md](utkast/OKO-16-sma-og-mellomstore-bedrifter.md) | kandidat | 10 |
 | 17 | OKO-18 | KI og pensjon | [utkast/OKO-18-ki-og-pensjon.md](utkast/OKO-18-ki-og-pensjon.md) | kandidat | 9 |
-| 18 | OKO-19 | Partssamarbeidet som reguleringsform | [utkast/OKO-19-partssamarbeidet.md](utkast/OKO-19-partssamarbeidet.md) | kandidat | 7 |
+| 18 | OKO-19 | Partssamarbeidet som reguleringsform | [utkast/OKO-19-partssamarbeidet.md](utkast/OKO-19-partssamarbeidet.md) | kandidat | 8 |
 
 ## Avhengigheter
 

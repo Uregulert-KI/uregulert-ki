@@ -13,9 +13,9 @@ Rekkefølgen i tabellen er rekkefølgen i rapporten. ID-ene sier ingenting om pl
 | Rekkefølge | ID | Tittel | Fil | Status | Påstander |
 |---|---|---|---|---|---|
 | 1 | REG-01 | Det som finnes | [utkast/REG-01-det-som-finnes.md](utkast/REG-01-det-som-finnes.md) | stikkord | 9 |
-| 2 | REG-02 | Hullene | [utkast/REG-02-hullene.md](utkast/REG-02-hullene.md) | stikkord | 18 |
+| 2 | REG-02 | Hullene | [utkast/REG-02-hullene.md](utkast/REG-02-hullene.md) | stikkord | 25 |
 | 3 | REG-03 | Prinsipper for god regulering | [utkast/REG-03-prinsipper-for-god-regulering.md](utkast/REG-03-prinsipper-for-god-regulering.md) | kandidat | 14 |
-| 4 | REG-04 | Det som ikke kan etterprøves | [utkast/REG-04-det-som-ikke-kan-etterproves.md](utkast/REG-04-det-som-ikke-kan-etterproves.md) | kandidat | 7 |
+| 4 | REG-04 | Det som ikke kan etterprøves | [utkast/REG-04-det-som-ikke-kan-etterproves.md](utkast/REG-04-det-som-ikke-kan-etterproves.md) | kandidat | 8 |
 
 ## Avhengigheter
 

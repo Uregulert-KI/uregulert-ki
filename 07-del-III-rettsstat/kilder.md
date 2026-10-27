@@ -264,3 +264,21 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K1189 | RET-05 | Belegg for RET-05.P06 (Tromsø kommunes forslag til skolestruktur bygde på oppdiktede kilder og råd fra ChatGPT) |
 | K0236 | RET-15 | Belegg for RET-15.P02 (Leverandørbinding gjør at offentlige virksomheter mister evnen til å bytte leverandør og kontrollen over egne data) |
 | K1191 | RET-15 | Bakgrunn – Digdir og DFØs veileder for skytjenester (2022) |
+| K1211 | RET-01 | Belegg for RET-01.P04 (KI skaper ansvarsgap der ingen kan holdes ansvarlig) |
+| K1226 | RET-01 | Bakgrunn i materialet etter gjennomgang |
+| K1237 | RET-01 | Bakgrunn i materialet etter gjennomgang |
+| K1202 | RET-01 | Bakgrunn i materialet etter gjennomgang |
+| K1235 | RET-02 | Belegg for RET-02.P11 (Oslo kommune la i 2019 bort KI i saksbehandling der datagrunnlaget var skjevt eller beslutningen ikke kunne forklares) |
+| K1239 | RET-02 | Bakgrunn i materialet etter gjennomgang |
+| K1233 | RET-02 | Bakgrunn i materialet etter gjennomgang |
+| K1202 | RET-02 | Bakgrunn i materialet etter gjennomgang |
+| K1240 | RET-03 | Bakgrunn i materialet etter gjennomgang |
+| K1236 | RET-10 | Belegg for RET-10.P10 (Arkivverket varslet i 2019 at arkivene ikke var rustet til å dokumentere beslutninger tatt med KI) |
+| K1202 | RET-10 | Bakgrunn i materialet etter gjennomgang |
+| K0307 | RET-14 | Belegg for RET-14.P10 (Norge ligger under OECD-snittet i å utvikle og beholde digital kompetanse i offentlig sektor) |
+| K1218 | RET-14 | Belegg for RET-14.P11 (Datatilsynet må nedprioritere tilsyn og veiledning fordi antallet klager har økt kraftig) |
+| K1225 | RET-14 | Bakgrunn i materialet etter gjennomgang |
+| K1238 | RET-14 | Bakgrunn i materialet etter gjennomgang |
+| K1202 | RET-15 | Bakgrunn i materialet etter gjennomgang |
+| K1223 | RET-15 | Bakgrunn i materialet etter gjennomgang |
+| K1218 | RET-15 | Bakgrunn i materialet etter gjennomgang |

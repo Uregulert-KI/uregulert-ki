@@ -4,12 +4,12 @@ tittel: Partssamarbeidet som reguleringsform
 del: Del IV – Økonomi, arbeid og solidaritet
 status: kandidat
 risikotype: ikke vurdert
-sist_endret: 2026-10-21
+sist_endret: 2026-10-27
 ---
 
 # OKO-19 Partssamarbeidet som reguleringsform
 
-> Påstander: OKO-19.P01–OKO-19.P07 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: OKO-19.P01–OKO-19.P08 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -71,6 +71,10 @@ sist_endret: 2026-10-21
 
 - En tillitsvalgt skal vurdere et KI-system leverandøren knapt forklarer – fragmentert kompetanse på arbeidsplassen ([[RET-14]], avsnitt A).
 
+- **Tyskland er bedre rustet:** tyske bedriftsråd har siden 2021 hatt lovfestet medbestemmelse over KI og kan hente inn eksperter betalt av arbeidsgiver. Norske fagforeninger har i større grad brukt uformelle konsultasjoner og Datatilsynet, og står svakere [K1211].
+- **Mangel på politisk fantasi:** både ufaglærte og kunnskapsarbeidere i Norge ser sjelden KI som noe det kan forhandles om. Diskusjonen handler om hvordan teknologien skal tas i bruk, ikke om den bør det [K1211].
+- **KI kommer uten at noen velger det:** ny KI-funksjonalitet rulles ut i programvare som allerede brukes, uten at brukeren velger tjenesten selv [K1213] ([[OKO-07]]).
+
 ### F Intensjon eller forpliktelse?
 
 - KI-avtalen er et godt signal, men ikke bindende. Hva skjer når produktivitetsmålet kolliderer med arbeidsmiljømålet?
@@ -82,3 +86,5 @@ sist_endret: 2026-10-21
 ### H Nyanse
 
 - **Økende organisasjonsgrad** kan være et tegn på at folk søker kollektivt vern i usikre tider – også mot KI.
+
+- **Regjeringen ser modellen som et fortrinn:** «konsekvensene [bestemmes] ikke av teknologien alene, men av hvordan vi velger å ta den i bruk», og samarbeidsmodellen er et norsk fortrinn [K1212].

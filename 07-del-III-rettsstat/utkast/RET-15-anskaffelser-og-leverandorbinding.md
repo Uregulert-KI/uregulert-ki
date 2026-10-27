@@ -4,7 +4,7 @@ tittel: Offentlige anskaffelser og leverandørbinding
 del: Del III – Rettsstat og forvaltning
 status: kandidat
 risikotype: ikke vurdert
-sist_endret: 2026-10-25
+sist_endret: 2026-10-27
 ---
 
 # RET-15 Offentlige anskaffelser og leverandørbinding
@@ -86,6 +86,9 @@ sist_endret: 2026-10-25
 ### H Bestillerkompetanse i små kommuner
 
 - Små kommuner kjøper systemer de ikke kan vurdere [K0237] ([[TVG-05]]). Kompetanseorganet fra [[RET-14]], avsnitt H, kan også hjelpe kommunene som bestillere.
+
+- **Leverandøren bør ta ansvaret:** retningslinjene NSM har sluttet seg til, sier at brukerne sjelden har innsyn og kompetanse til å vurdere risikoen i KI-systemer de kjøper, og at leverandøren bør ta ansvar for sikkerheten nedover i kjeden [K1202].
+- **Skolene:** Udir ber skoleeiere sikre bestillerkompetanse og unngå gratis språkmodeller [K1223]. Datatilsynet fant at digitale læringsverktøy ofte velges av rektor eller den enkelte lærer, uten at kommunen har vurdert dem [K1218] ([[LIV-02]]).
 
 ### I Norsk forankring
 

@@ -4,7 +4,7 @@ tittel: Propaganda og desinformasjon
 del: Del II – Demokrati, offentlighet og kunnskap
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-25
+sist_endret: 2026-10-27
 ---
 
 # DEM-02 Propaganda og desinformasjon
@@ -80,6 +80,8 @@ sist_endret: 2026-10-25
 
 - **Motargumentet:** etter «valgåret» 2024 fant flere gjennomganger lite som tydet på at KI-generert desinformasjon endret valgresultater [K0684]. Forskere har advart mot overdreven frykt: flaskehalsen var aldri produksjon, men spredning og etterspørsel [K0685]. Tas med i [[MOT-01]].
 - **Svaret:** spredningsflaskehalsen løses nå av nettverk som lever lenge (D) og av modellene selv (A3). Og den største skaden er ikke ett vippet valg, men at sannheten drukner (avsnitt I).
+
+- **Valgåret 2024:** ekspertgruppen for KI og valg fant at «tradisjonelle» metoder for påvirkning var vel så viktige som KI-baserte, og at KI først og fremst effektiviserer og forsterker eksisterende trusler [K1217].
 
 ### F Norsk forankring
 

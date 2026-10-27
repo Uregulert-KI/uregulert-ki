@@ -4,12 +4,12 @@ tittel: Språk og kultur
 del: Del II – Demokrati, offentlighet og kunnskap
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-23
+sist_endret: 2026-10-27
 ---
 
 # DEM-06 Språk og kultur
 
-> Påstander: DEM-06.P01–DEM-06.P15 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: DEM-06.P01–DEM-06.P16 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -92,6 +92,10 @@ sist_endret: 2026-10-23
 ### G Norsk forankring
 
 - Språkrådet [K0084], Nasjonalbiblioteket [K0085], NorwAI [K0086], språklova [K0735]. Samisk språkteknologi [K0087] står i [[DEM-16]].
+
+- **Regjeringen ser problemet:** språkmodellene som brukes i dag, har «ofte begrenset språklig kvalitet og kulturelle skjevheter», er utviklet av store selskaper i USA og Kina, og det er «usikkert i hvilken grad opphavsrettslige hensyn er ivaretatt ved trening av modellene» [K1219].
+- **Nasjonalbibliotekets samlinger:** pliktavlevert materiale kan brukes til tekst- og datautvinning i forskning, men ikke til kommersielle formål [K1219].
+- **Etterlyst i 2019:** Språkrådet ba om en plan for norsk språkteknologi og tilgang til språkdata, og pekte på at store deler av staten ikke oppfyller kravene i målloven [K1241].
 
 ### H Regulering og hull
 

@@ -4,12 +4,12 @@ tittel: Opphavsrett og kreative yrker
 del: Del IV – Økonomi, arbeid og solidaritet
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-23
+sist_endret: 2026-10-27
 ---
 
 # OKO-06 Opphavsrett og kreative yrker
 
-> Påstander: OKO-06.P01–OKO-06.P11 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: OKO-06.P01–OKO-06.P13 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -62,8 +62,15 @@ sist_endret: 2026-10-23
 
 ### C Norsk og europeisk rett
 
-- Åndsverkloven [K0018]. EU tillater tekst- og datautvinning, men rettighetshaverne kan reservere seg [K1063] (sjekk norsk gjennomføring). KI-forordningen krever et sammendrag av treningsdataene [K0001].
+- Åndsverkloven [K0018]. EU tillater tekst- og datautvinning, men rettighetshaverne kan reservere seg [K1063]. Norsk gjennomføring er foreslått i Prop. 41 LS (2025–2026) [K1219], se under. KI-forordningen krever et sammendrag av treningsdataene [K0001].
 - **Nasjonalbiblioteket** har avtaler med rettighetshavere om norske språkmodeller [K0156] – en lisensmodell, ikke tyveri. Kollektiv forvaltning: Kopinor [K0157] og TONO [K0158].
+
+- **Gjennomføringen i Norge:** Prop. 41 LS (2025–2026) foreslår nye §§ 50 d–50 f i åndsverkloven. Alle kan gjøre tekst- og datautvinning på lovlig tilgjengelige verk så lenge opphaveren ikke har reservert seg, mens forsknings- og kulturarvinstitusjoner kan gjøre det uten reservasjonsrett [K1219].
+- **KI-trening er omfattet:** «Etter dette er det ikke tvil om at reglene om tekst- og datautvinning omfatter trening av KI» [K1219].
+- **Reservasjon, ikke samtykke:** rettighetshaverne mener ordningen snur opphavsretten «på hodet». Departementet viser til at direktivet ikke åpner for et krav om samtykke [K1219].
+- **Robots.txt er ingen sperre:** filen «utgjør ikke en teknisk sperre for tilgang». Roboter som ignorerer den, begår et opphavsrettsinngrep som bare kan avdekkes i nettstedets logger [K1219] ([[REG-04]]).
+- **Ingen kompensasjon:** det innføres ingen ny ordning. Avtalelisens kan brukes, men avtaler med hver enkelt rettighetshaver er «vanskelig – eller tilnærmet umulig» [K1219].
+- **KI-generert innhold:** om det har opphavsrett, er det etter departementets syn «for tidlig å konkludere på» [K1219].
 
 ### D Forslag: amnesti mot åpenhet
 

@@ -4,12 +4,12 @@ tittel: Eldre og omsorg
 del: Del I – Mennesket gjennom livsløpet
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-13
+sist_endret: 2026-10-27
 ---
 
 # LIV-10 Eldre og omsorg
 
-> Påstander: LIV-10.P01–LIV-10.P18 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: LIV-10.P01–LIV-10.P19 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -58,7 +58,7 @@ sist_endret: 2026-10-13
   - Noen studier finner at eldre i mindre grad oppfatter ansikter som upålitelige (Castle mfl., 2012) [K0492]. Brukes forsiktig.
 - **Norsk forankring:**
   - Politiets advarsler om nødsvindel og «barnebarnsbedrageri» [K0493].
-  - Finanstilsynets svindelstatistikk [K0185] (sjekk tall).
+  - Finanstilsynets svindelstatistikk [K0185]: 962 millioner kroner i 2025, mest gjennom sosial manipulering [K0262].
   - **Et ansvarshull:** når offeret selv har godkjent betalingen, bærer offeret ofte tapet, i motsetning til ved uautoriserte transaksjoner (finansavtaleloven [K0146]; praksis i Finansklagenemnda [K0494], sjekk). Deepfake-svindel er nettopp «autorisert».
 - **Kodeordet:** en kort og unik frase som bare den nærmeste familien kjenner [K0260]. Også FBI har anbefalt et hemmelig ord i familien [K0495] (sjekk). Kodeordet løser ikke problemet, men gir et sekund til å tenke.
 
@@ -90,6 +90,9 @@ sist_endret: 2026-10-13
 ### E Digitalt utenforskap
 
 - Når chatbot blir førstelinje i NAV, banken og kommunen, blir de som ikke behersker den, stående utenfor [K0060]. Kobling til [[TVG-05]].
+
+- **Mange står utenfor:** om lag 20 % av den voksne befolkningen er sårbare i møte med offentlige digitale tjenester [K0307].
+- **Varslet i 2019:** Seniornett anslo at 200 000–400 000 eldre var urolige for personvern og sikkerhet, og ba om at det alltid skal finnes et analogt alternativ [K1231].
 
 ### F Nyanse
 

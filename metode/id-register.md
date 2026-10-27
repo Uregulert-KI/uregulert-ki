@@ -25,7 +25,7 @@ Alle tema-ID-er i prosjektet. ID-er er permanente etiketter. De bestemmer aldri 
 | Type | Format | Hvor | Neste ledige |
 |---|---|---|---|
 | Påstand | <tema-ID>.P<nn>, f.eks. LIV-01.P03 | pastander.md i hver mappe | neste nummer per tema |
-| Kilde | K0001 … | 99-kilder/kilderegister.md | K1201 |
+| Kilde | K0001 … | 99-kilder/kilderegister.md | K1242 |
 | Ekspertuttalelse | U001 … | uttalelser.md i hver mappe | U001 |
 | Endring | E001 … | metode/endringslogg.md | E014 |
 | Ekspert/kontakt | X001 … | kun i ../uregulert-ki-kontakter/kontakter.md | X001 |
@@ -150,4 +150,4 @@ Alle tema-ID-er i prosjektet. ID-er er permanente etiketter. De bestemmer aldri 
 | VED-02 | Kildesystem | 13-vedlegg/utkast/VED-02-kildesystem.md | stikkord | Fra disposisjonen: 13.2 |
 | VED-03 | Dateringsliste – sjekk før publisering | 13-vedlegg/utkast/VED-03-dateringsliste.md (innhold: metode/dateringsliste.md) | stikkord | Fra disposisjonen: 13.3. Innholdet er flyttet til metode/dateringsliste.md (E003) |
 
-Totalt 114 aktive temaer (115 ID-er, hvorav 2 forkastet/sammenslått) og 1069 påstander.
+Totalt 114 aktive temaer (115 ID-er, hvorav 2 forkastet/sammenslått) og 1118 påstander.

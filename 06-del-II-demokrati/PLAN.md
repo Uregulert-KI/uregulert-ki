@@ -19,13 +19,13 @@ Rekkefølgen i tabellen er rekkefølgen i rapporten. ID-ene sier ingenting om pl
 | 3 | DEM-03 | Deepfakes og tillit | [utkast/DEM-03-deepfakes-og-tillit.md](utkast/DEM-03-deepfakes-og-tillit.md) | stikkord | 12 |
 | 4 | DEM-04 | Journalistikk og mediemangfold | [utkast/DEM-04-journalistikk-og-mediemangfold.md](utkast/DEM-04-journalistikk-og-mediemangfold.md) | stikkord | 14 |
 | 5 | DEM-05 | Forskning og kunnskapsallmenningen | [utkast/DEM-05-forskning-og-kunnskapsallmenningen.md](utkast/DEM-05-forskning-og-kunnskapsallmenningen.md) | stikkord | 15 |
-| 6 | DEM-06 | Språk og kultur | [utkast/DEM-06-sprak-og-kultur.md](utkast/DEM-06-sprak-og-kultur.md) | stikkord | 15 |
+| 6 | DEM-06 | Språk og kultur | [utkast/DEM-06-sprak-og-kultur.md](utkast/DEM-06-sprak-og-kultur.md) | stikkord | 16 |
 | 7 | DEM-07 | Utdanningssystemet som samfunnsinstitusjon | [utkast/DEM-07-utdanningssystemet.md](utkast/DEM-07-utdanningssystemet.md) | utkast-høy-prioritet | 10 |
 | 8 | DEM-08 | KI-assistenten som portvokter uten redaktøransvar | [utkast/DEM-08-portvokter-uten-redaktoransvar.md](utkast/DEM-08-portvokter-uten-redaktoransvar.md) | kandidat | 2 |
 | 9 | DEM-09 | Ytringsfrihet – hvem bestemmer hva modellen sier | [utkast/DEM-09-ytringsfrihet-modellens-regler.md](utkast/DEM-09-ytringsfrihet-modellens-regler.md) | kandidat | 11 |
-| 10 | DEM-10 | Forurensning av demokratiets egne kanaler | [utkast/DEM-10-demokratiets-kanaler.md](utkast/DEM-10-demokratiets-kanaler.md) | kandidat | 10 |
+| 10 | DEM-10 | Forurensning av demokratiets egne kanaler | [utkast/DEM-10-demokratiets-kanaler.md](utkast/DEM-10-demokratiets-kanaler.md) | kandidat | 11 |
 | 11 | DEM-11 | Nedkjøling av den offentlige samtalen | [utkast/DEM-11-hets-og-nedkjoling.md](utkast/DEM-11-hets-og-nedkjoling.md) | kandidat | 6 |
-| 12 | DEM-12 | Valg og kampanjer | [utkast/DEM-12-valg-og-kampanjer.md](utkast/DEM-12-valg-og-kampanjer.md) | kandidat | 10 |
+| 12 | DEM-12 | Valg og kampanjer | [utkast/DEM-12-valg-og-kampanjer.md](utkast/DEM-12-valg-og-kampanjer.md) | kandidat | 13 |
 | 13 | DEM-13 | Historie og felles hukommelse | [utkast/DEM-13-historie-og-felles-hukommelse.md](utkast/DEM-13-historie-og-felles-hukommelse.md) | kandidat | 7 |
 | 14 | DEM-14 | Sivilsamfunnet og organisasjons-Norge | [utkast/DEM-14-sivilsamfunnet.md](utkast/DEM-14-sivilsamfunnet.md) | kandidat | 6 |
 | 15 | DEM-15 | Ekspertise og epistemisk avhengighet | [utkast/DEM-15-epistemisk-avhengighet.md](utkast/DEM-15-epistemisk-avhengighet.md) | kandidat | 6 |

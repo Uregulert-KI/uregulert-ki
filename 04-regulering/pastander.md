@@ -15,7 +15,7 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | REG-01.P07 | Harmoniserte standarder gir presumpsjon for samsvar med KI-forordningen og utvikles utenfor demokratiske prosesser | K0303, K0001 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | REG-01.P08 | Store deler av KI-styringen er frivillig (standarder, kodekser, prinsipper) og ikke bindende | K0298, K0301, K0304, K0021 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | REG-01.P09 | Frivillige rammeverk som NIST AI RMF kan endres raskt ved politiske skifter | K0298, K0300 |  |  |  |  |  |  | ikke scoret | 0 | – |
-| REG-02.P01 | Tilsynene mangler kompetanse og ressurser til å håndheve KI-regelverket | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
+| REG-02.P01 | Tilsynene mangler kompetanse og ressurser til å håndheve KI-regelverket | K1218 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | REG-02.P02 | EUs forslag til KI-ansvarsdirektiv ble trukket; det finnes ingen klar produktansvarsregel for KI | K0025 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | REG-02.P03 | Kompanjong-apper og emosjonell manipulasjon er svakt dekket av forbrukervernet | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | REG-02.P04 | Offentlig sektor kjøper inn og bruker KI uten felles minstekrav | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
@@ -33,6 +33,13 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | REG-02.P16 | KI-forordningen unntar militær bruk, forsvar og nasjonal sikkerhet | K0001 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | REG-02.P17 | Harmoniserte standarder med rettsvirkning har vært bak betalingsmur; EU-domstolen tok stilling til tilgangen i 2024 | K0303, K0313 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | REG-02.P18 | Evaluering av KI-modeller gjøres i stor grad av leverandørene selv, og myndighetene mangler uavhengig testkapasitet | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
+| REG-02.P19 | Regjeringen har som mål at alle offentlige virksomheter skal ha tatt i bruk KI innen 2030 | K0307 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| REG-02.P20 | Digitaliseringsstrategien sier at virkningene av KI over tid må prøves ut i praksis fordi de er vanskelige å beskrive | K0307 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| REG-02.P21 | Retningslinjer Norge har sluttet seg til, sier at virksomheten først må være sikker på at KI er den beste løsningen på oppgaven | K1202 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| REG-02.P22 | NSM fikk i de fleste inntrengingstestene i statlige kontorsystemer i 2025 full kontroll over informasjonssystemet | K1216 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| REG-02.P23 | EMD har uttalt at en stat som er pioner i ny teknologi, har et særlig ansvar for å finne riktig balanse | K1224 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| REG-02.P24 | I 2019 ba Datatilsynet om hjemmel til å ta beslag eller kopi av KI-systemer ved tilsyn | K1225 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| REG-02.P25 | Klagene til Datatilsynet fra privatpersoner økte med 105 prosent fra 2024 til 2025 | K1218 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | REG-03.P01 | KI-detektorer slår feil ut mot dem som ikke skriver på morsmålet | K0228 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | REG-03.P02 | Aldersverifisering kan kreve identifisering av hele befolkningen og stenge ute dem uten BankID | K0229, K0230 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | REG-03.P03 | Klientsideskanning av privat kommunikasjon («chat control») griper inn i personvern og ytringsfrihet | K0231, K0095 |  |  |  |  |  |  | ikke scoret | 0 | – |
@@ -54,3 +61,4 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | REG-04.P05 | Volkswagen brukte programvare som kjente igjen testsituasjoner og bare da overholdt utslippskravene | K0630 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | REG-04.P06 | Spillselskaper er bøtelagt for manglende vern av sårbare spillere | K0631 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | REG-04.P07 | DSA gir forskere datatilgang bare hos svært store plattformer | K0635 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| REG-04.P08 | Robots.txt hindrer ikke teknisk at verk høstes til KI-trening | K1219 |  |  |  |  |  |  | ikke scoret | 0 | – |

@@ -15,7 +15,7 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | RET-01.P01 | Moffatt mot Air Canada (2024): selskapet ble holdt ansvarlig for chatbotens løfter | K0102 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-01.P02 | Mata mot Avianca (2023): advokater leverte oppdiktede dommer | K0103 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-01.P03 | Tromsø kommune la fram en rapport med KI-oppdiktede kilder i skolestrukturdebatten (2025) | K0104 |  |  |  |  |  |  | ikke scoret | 0 | – |
-| RET-01.P04 | KI skaper ansvarsgap der ingen kan holdes ansvarlig | K0105, K0106 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| RET-01.P04 | KI skaper ansvarsgap der ingen kan holdes ansvarlig | K0105, K0106, K1211 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-01.P05 | KI-forordningen gir rett til forklaring av enkeltavgjørelser fra høyrisikosystemer og krever menneskelig kontroll | K0811 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-01.P06 | Den som står nærmest maskinen, får ofte skylden, mens systemet og produsenten går fri (moralsk knautsone) | K0812, K0816 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-01.P07 | EU trakk forslaget til eget direktiv om ansvar for KI | K0813 |  |  |  |  |  |  | ikke scoret | 0 | – |
@@ -36,6 +36,7 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | RET-02.P08 | Forvaltningsloven krever ikke at KI-bistand i vedtak opplyses | K0015, K0111 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-02.P09 | Feilaktige KI-forslag gjør fagfolk mindre treffsikre, særlig de uerfarne | K0832 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-02.P10 | Når mange saksbehandlere bruker samme modell, blir feilene korrelerte | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
+| RET-02.P11 | Oslo kommune la i 2019 bort KI i saksbehandling der datagrunnlaget var skjevt eller beslutningen ikke kunne forklares | K1235 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-03.P01 | Amazons rekrutteringsverktøy nedprioriterte kvinner (2018) | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-03.P02 | En helsealgoritme hadde rasemessig skjevhet | K0113 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-03.P03 | Kommersiell ansiktsanalyse har skjevheter («Gender Shades») | K0114 |  |  |  |  |  |  | ikke scoret | 0 | – |
@@ -117,6 +118,7 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | RET-10.P07 | EU-domstolen ga journalister medhold i kravet om innsyn i SMS-er mellom kommisjonspresidenten og Pfizer-sjefen | K0845 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-10.P08 | Norge har ikke et lovpålagt lobbyregister | K0847 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-10.P09 | Frankrike krever åpenhet om reglene bak algoritmiske enkeltvedtak | K0848 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| RET-10.P10 | Arkivverket varslet i 2019 at arkivene ikke var rustet til å dokumentere beslutninger tatt med KI | K1236 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-11.P01 | Domstoler og forvaltning oversvømmes av KI-genererte klager og søksmål | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-11.P02 | Ressurssvake får KI-rettshjelp som kan ta feil, mens ressurssterke får advokater | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-11.P03 | Fri rettshjelp i Norge har lave inntektsgrenser og få saksfelt | K0907, K0906 |  |  |  |  |  |  | ikke scoret | 0 | – |
@@ -148,6 +150,8 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | RET-14.P07 | Riksrevisjonen vurderte statens bruk av KI som ikke tilfredsstillende (2024) | K0917 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-14.P08 | Ingen offentlig instans gjennomgår systematisk algoritmene i statens egne etater | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-14.P09 | Tilsyn uten tilgang til modell, logger og data blir en gjennomgang av selskapets egen dokumentasjon | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
+| RET-14.P10 | Norge ligger under OECD-snittet i å utvikle og beholde digital kompetanse i offentlig sektor | K0307 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| RET-14.P11 | Datatilsynet må nedprioritere tilsyn og veiledning fordi antallet klager har økt kraftig | K1218 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-15.P01 | Offentlig sektor er tett koblet til få skyleverandører | K0236 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-15.P02 | Leverandørbinding gjør at offentlige virksomheter mister evnen til å bytte leverandør og kontrollen over egne data | K0236 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-15.P03 | Små kommuner mangler bestillerkompetanse til å vurdere KI-systemene de kjøper | K0237 |  |  |  |  |  |  | ikke scoret | 0 | – |

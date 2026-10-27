@@ -4,12 +4,12 @@ tittel: Beredskap og avhengighet
 del: Del V – Sikkerhet og beredskap
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-24
+sist_endret: 2026-10-27
 ---
 
 # SIK-07 Beredskap og avhengighet
 
-> Påstander: SIK-07.P01–SIK-07.P07 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: SIK-07.P01–SIK-07.P08 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -72,6 +72,10 @@ sist_endret: 2026-10-24
 - **Totalberedskapskommisjonen** pekte på digitale avhengigheter [K0193]; totalberedskapsmeldingen fulgte opp [K0194] (sjekk nummer og hva den sier om KI).
 - **DSBs nasjonale risikobilde** [K0195].
 - **Nasjonal regnekraft** er en brøkdel av ett privat datasenter ([[OKO-02]]).
+
+- **Skyen svikter også:** driftsforstyrrelser i Microsoft Azure rammet betalingstjenester i norske banker i 2025 [K0262], og Microsoft og Amazon hadde store driftsproblemer i oktober 2025 [K1216].
+- **BankID er et «single point of failure»:** beredskapen holder for korte avbrudd, men ikke for bortfall over flere dager [K0262] ([[LIV-17]]).
+- **Summen er problemet:** «Det er ikke den enkelte anskaffelsen som er problemet, men det er det samlede omfanget som er en nasjonal utfordring» [K1216].
 
 ### E «72 timer uten KI»
 

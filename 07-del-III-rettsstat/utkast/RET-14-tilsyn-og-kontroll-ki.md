@@ -4,12 +4,12 @@ tittel: Tilsynenes kapasitet og statens egen kontroll-KI
 del: Del III – Rettsstat og forvaltning
 status: kandidat
 risikotype: ikke vurdert
-sist_endret: 2026-10-21
+sist_endret: 2026-10-27
 ---
 
 # RET-14 Tilsynenes kapasitet og statens egen kontroll-KI
 
-> Påstander: RET-14.P01–RET-14.P09 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: RET-14.P01–RET-14.P11 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -54,6 +54,8 @@ sist_endret: 2026-10-21
 - **Det finnes for lite kompetanse nasjonalt** til godt tilsyn i alle sektorer slik det står nå. Fem tilsyn med to eksperter hver blir ikke ti eksperter – det blir fem tilsyn uten fagmiljø.
 - **Følgen:** tilsyn som kan lese dokumentasjon, men ikke etterprøve den – og ulik forståelse av samme regelverk.
 
+- **Under OECD-snittet:** Norge ligger under OECD-gjennomsnittet i å utvikle og beholde digital kompetanse i offentlig sektor [K0307].
+
 ### B Hvor mange eksperter kommer?
 
 - **Mangel i 2030:** rundt 40 000 flere IKT-spesialister trengs i 2030 enn i 2019, og avansert kompetanse er mest knapp [K0913] (sjekk). Det vil mangle 4 100 med IKT-sikkerhetskompetanse [K0914] (sjekk).
@@ -65,10 +67,14 @@ sist_endret: 2026-10-21
 - **Ressursene:** noen få fagfolk i tilsynene mot tusenvis av ingeniører i selskapene. Lønnskonkurransen gjør rekruttering vanskelig, teknologien endrer seg raskere enn tilsynet rekker å bygge kompetanse, og fagfolkene går ofte mellom tilsyn og bransje.
 - **Følgen:** tilsynet blir avhengig av selskapets egen forklaring på hvordan systemet virker.
 
+- **Tilsynet drukner i saker:** klagene fra privatpersoner til Datatilsynet økte fra 902 i 2024 til 1 848 i 2025, og mange er skrevet med KI. Tilsynet har 65 ansatte og må allerede nedprioritere tilsyn og målrettet veiledning, noe som «i verste fall» kan føre til brudd på personvernforordningens krav [K1218]. En medarbeider: «Det føles ikke som å hjelpe et menneske, men å hjelpe en maskin» [K1218] ([[DEM-10]]).
+
 ### D Tilsyn krever tilgang
 
 - **Uten tilgang til modell, logger og data** blir tilsynet en gjennomgang av dokumenter selskapet selv har skrevet ([[REG-04]], fra atferd til tilgang).
 - **Tilgang uten kompetanse hjelper lite** (avsnitt A).
+
+- **Etterlyst i 2019:** Datatilsynet hadde ikke hjemmel til å ta beslag eller en kopi av systemet som undersøkes, og viste til at Konkurransetilsynet og det britiske datatilsynet har slike hjemler [K1225]. NAV ba om at et tilsyn skulle kunne kreve innsyn og ta beslag hos tredjeparter [K1238]. Om hjemmelen er gitt, er ikke avklart (sjekk).
 
 ### E Hvem kontrollerer kontrolløren?
 

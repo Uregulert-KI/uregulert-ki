@@ -4,12 +4,12 @@ tittel: Sabotasje, hybride angrep og kritisk infrastruktur
 del: Del V – Sikkerhet og beredskap
 status: kandidat
 risikotype: misbruk
-sist_endret: 2026-10-24
+sist_endret: 2026-10-27
 ---
 
 # SIK-17 Sabotasje, hybride angrep og kritisk infrastruktur
 
-> Påstander: SIK-17.P01–SIK-17.P12 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: SIK-17.P01–SIK-17.P15 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -63,9 +63,13 @@ sist_endret: 2026-10-24
 
 ### B Kritisk infrastruktur – sårbar driftsteknologi
 
-- **Bremanger (2025):** angripere åpnet en ventil ved en demning; PST har knyttet hendelsen til prorussiske aktører [K0068] (sjekk). Ikke et KI-angrep – men det viser hvor sårbar driftsteknologien er.
+- **Bremanger (2025):** en prorussisk hacktivistgruppe fikk tilgang via fjernaksess og åpnet ventilene ved en demning. De sto åpne i fire timer og slapp ut om lag 500 liter vann i sekundet [K1216]. PST har knyttet hendelsen til prorussiske aktører [K0068]. Ikke et KI-angrep – men det viser hvor sårbar driftsteknologien er.
 - **KI senker terskelen** for å finne og utnytte slike systemer ([[SIK-05]], avsnitt C). Små kommuner og vannverk har minst kapasitet til å sikre seg.
 - **En ny type tjenestenektangrep:** svermer av KI-agenter som etterligner mennesker og kommer forbi CAPTCHA, kan overbelaste tjenester på en måte som er vanskelig å skille fra vanlig trafikk ([[LIV-17]], avsnitt D).
+
+- **Myndighetene venter KI-angrep:** «Både NSM og PST forventer at norske virksomheter i løpet av 2026 blir utsatt for cyberoperasjoner hvor KI-verktøy spiller en viktig rolle», og mindre kompetente aktører får evne til operasjoner som før krevde høy teknisk kompetanse [K1216].
+- **Risikonivået er hevet:** 27. oktober 2026 hevet NSM det nasjonale cyberrisikonivået til HØYT, etter en tredobling av vellykkede cyberoperasjoner mot norske virksomheter det siste halvåret. NSM knytter ikke tredoblingen til KI, men vurderer KI i cyberoperasjoner som en alvorlig risiko som trekker vurderingen opp [K1201].
+- **Kommunene er utsatt:** regjeringen skriver selv at kommunal sektor er «stadig mer utsatt for digitale angrep» [K0307].
 
 ### C Hybrid sabotasje og engangsagenter
 
@@ -75,7 +79,7 @@ sist_endret: 2026-10-24
 
 ### D Bryteren ligger hos andre
 
-- **Innebygd sabotasjeevne:** utstyr som fjernoppdateres eller styres fra skyen, kan stanses av leverandøren – eller staten bak den. Ruters test av elbusser (2025) viste at produsenten kunne fjernstyre eller stanse bussene ([[SIK-07]]); det er rapportert om uforklarlige kommunikasjonsenheter i kinesiske solcelle-invertere [K0217] (sjekk).
+- **Innebygd sabotasjeevne:** utstyr som fjernoppdateres eller styres fra skyen, kan stanses av leverandøren – eller staten bak den. Ruters test av elbusser (2025) viste at produsenten kunne fjernstyre eller stanse bussene ([[SIK-07]]); det er funnet udokumentert kommunikasjonsutstyr i kinesiske solcelle-invertere og batterier i USA, og det er gjort funn i strømnettet i Danmark [K0217] [K1216].
 - **Det samme gjelder KI-tjenester i skyen** ([[SIK-07]], [[SIK-15]], [[OKO-02]]).
 
 ### E Integritetsangrep – det som ser normalt ut
@@ -94,14 +98,17 @@ sist_endret: 2026-10-24
 - **Utholdenhet uten kostnad:** et autonomt system i en løkke med nok regnekraft gir seg ikke før målet er nådd. Det prøver nye varianter av phishing, nye konfigurasjoner og nye innganger – døgnet rundt, i årevis – uten å bli trett, kjede seg eller gi opp.
 - **Asymmetrien skjerpes:** angriperen trenger ett treff, forsvareren må holde hele tiden. Før satte angriperens tid og tålmodighet en grense. Nå blir den grensen en strømregning.
 - **Til slutt et kappløp om ressurser:** når begge sider automatiserer, avgjøres mye av hvem som har mest regnekraft og lengst utholdenhet. Regnekraft blir en sikkerhetsressurs, ikke bare en økonomisk ressurs ([[OKO-02]], avsnitt E).
-- **Presisering:** dette handler om utholdende prøving og feiling mot mennesker og systemer – ikke om å knekke sterk kryptering, som holder også mot mye regnekraft. Svakhetene ligger i konfigurasjon, mennesker og eldre systemer, og det er der utholdenheten lønner seg.
+- **Presisering:** dette handler om utholdende prøving og feiling mot mennesker og systemer – ikke om å knekke sterk kryptering, som holder også mot mye vanlig regnekraft. Forbeholdet er kvantedatamaskiner: amerikanske myndigheter anslår at de kan knekke dagens kryptering rundt 2030, og data som stjeles i dag, kan dekrypteres senere («harvest now, decrypt later») [K0307] [K0262]. Svakhetene ligger i konfigurasjon, mennesker og eldre systemer, og det er der utholdenheten lønner seg.
 - **Forsvaret må også automatiseres** – med KI som overvåker og reagerer kontinuerlig. Men det gjør forsvaret avhengig av de samme få leverandørene ([[SIK-07]]).
+
+- **Varslet i 2019:** FFI skrev at det utvikles systemer «der programvare søker etter svakheter og går til angrep i overmenneskelig hastighet» [K1230].
+- **Nå bekreftet av myndighetene:** NSM skriver at KI «finner sårbarheter raskere enn det mennesker har vært i stand til» [K1201]. Finanstilsynet skriver at tiden fra en sårbarhet oppdages til den utnyttes, er «vesentlig kortere enn tidligere», og at sårbarhetsstyring som bygger på manuell prioritering, kanskje ikke gir nok beskyttelse [K0262]. NSM viser til den første cyberoperasjonen «tilnærmet fullstendig orkestrert av kunstig intelligens» (2025) [K1216].
 
 ### H Reguleringshull
 
 - **Gråsonen** faller mellom politi og forsvar.
 - **KI-forordningen** unntar nasjonal sikkerhet og forsvar [K0001].
-- **Digitalsikkerhetsloven og sikkerhetsloven** dekker virksomheter [K1150] [K0010], ikke utstyr som kjøpes inn fritt (sjekk status for NIS2 og direktivet om kritiske enheters motstandsdyktighet, CER, i EØS).
+- **Digitalsikkerhetsloven og sikkerhetsloven** dekker virksomheter [K1150] [K0010], ikke utstyr som kjøpes inn fritt. Digitalsikkerhetsloven trådte i kraft i oktober 2025, omfatter også driftsteknologi og krever varsling innen 24 timer [K1216] (sjekk status for NIS2 og direktivet om kritiske enheters motstandsdyktighet, CER, i EØS).
 
 ### I Kandidater til [[ANB-01]]
 
@@ -116,10 +123,12 @@ sist_endret: 2026-10-24
 - **Mest sabotasje er fortsatt lavteknologisk,** og KI sin rolle er så langt mest indirekte. Det er svært vanskelig å si sikkert hvem som står bak et angrep.
 - **Alarmisme svekker tilliten** – som er Norges viktigste beredskapsressurs ([[DEM-03]]).
 
+- **Ikke dokumentert i Norge ennå:** NSM vurderer KI i cyberoperasjoner som en alvorlig risiko, men skriver at slik bruk ikke er dokumentert i Norge [K1201].
+
 ### Fra SIK-11 (slått sammen 2026-10-24, E013)
 
 *Innholdet i SIK-11 «Angrep på kritisk infrastruktur og driftssystemer» står ordrett her. Det er bearbeidet inn i avsnitt B over. Påstandene SIK-11.P01–P02 beholder ID-ene.*
 
-- **Angrep på kritisk infrastruktur og driftssystemer:** demningen i Bremanger (2025) – angripere åpnet en ventil; PST har knyttet hendelsen til prorussiske aktører (sjekk) [K0068]. Ikke et KI-angrep, men viser sårbar driftsteknologi; KI senker terskelen.
+- **Angrep på kritisk infrastruktur og driftssystemer:** demningen i Bremanger (2025) – angripere åpnet en ventil; PST har knyttet hendelsen til prorussiske aktører [K0068] [K1216]. Ikke et KI-angrep, men viser sårbar driftsteknologi; KI senker terskelen.
 
 *Merknad ved oppsett (2026-10-13):* Sabotasje i bredere forstand – hybride angrep, innebygd sabotasjeevne og integritetsangrep – behandles i [[SIK-17]]. Her: det konkrete infrastruktureksempelet.

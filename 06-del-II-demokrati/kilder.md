@@ -292,3 +292,15 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0738 | DEM-06 | Bakgrunn – antall registrerte dialekter |
 | K1199 | DEM-06 | Bakgrunn – modellene svarer dårligere på stedsavhengige juridiske spørsmål |
 | K1200 | DEM-11 | Bakgrunn – KI-verktøy for kartlegging av motstandere |
+| K1217 | DEM-02 | Bakgrunn i materialet etter gjennomgang |
+| K0307 | DEM-03 | Bakgrunn i materialet etter gjennomgang |
+| K1217 | DEM-04 | Bakgrunn i materialet etter gjennomgang |
+| K1219 | DEM-06 | Belegg for DEM-06.P16 (Regjeringen skriver at språkmodellene ofte har begrenset språklig kvalitet og kulturelle skjevheter) |
+| K1241 | DEM-06 | Bakgrunn i materialet etter gjennomgang |
+| K1217 | DEM-07 | Bakgrunn i materialet etter gjennomgang |
+| K1222 | DEM-07 | Belegg for DEM-07.P10 (Mange skoler mangler tydelige strategier for KI-arbeidet, og skoleledere etterlyser kompetanse og tydelige føringer); DEM-07.P06 (Lærestedene endrer eksamensformer etter generativ KI, med flere skoleeksamener og muntlige prøver) |
+| K1218 | DEM-10 | Belegg for DEM-10.P11 (Mange klager til Datatilsynet skrives nå med KI, noe som øker volumet og saksbehandlingstiden) |
+| K1217 | DEM-12 | Belegg for DEM-12.P11 (ChatGPT og Snapchats MyAI oppga feil dato for stortingsvalget 2025); DEM-12.P01 (Chatboter gir feil valginformasjon) |
+| K0307 | DEM-12 | Bakgrunn i materialet etter gjennomgang |
+| K0262 | DEM-03 | Bakgrunn i materialet etter gjennomgang |
+| K1219 | DEM-04 | Bakgrunn i materialet etter gjennomgang |

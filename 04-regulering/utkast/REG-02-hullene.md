@@ -4,7 +4,7 @@ tittel: Hullene
 del: Kap. 4 – Reguleringslandskapet og hullene
 status: stikkord
 risikotype: ikke relevant
-sist_endret: 2026-10-21
+sist_endret: 2026-10-27
 ---
 
 # REG-02 Hullene
@@ -19,6 +19,13 @@ sist_endret: 2026-10-21
 - **«Verdens mest digitaliserte land»:** regjeringens mål [K0310] fra digitaliseringsstrategien *Fremtidens digitale Norge* (2024) [K0307] måler tempo og utbredelse, ikke motstandskraft. Mer digitalisering betyr større angrepsflate, flere enkeltpunkter som kan feile ([[TVG-06]]), og at umoden teknologi tas i bruk i kritiske funksjoner uten at risikoen er vurdert ([[SIK-18]]).
 - **Rollekonflikt:** Digitaliseringsdepartementet skal både drive digitaliseringen framover og eie KI-loven [K0014], og Nkom – som er pekt ut som KI-tilsyn – ligger under samme departement. Den som har ansvaret for å få farten opp, har også ansvaret for bremsene.
 - **Ingen eier et samlet KI-risikobilde:** DSB [K0195], NSM [K0176] og Datatilsynet ser hver sin bit. Det finnes ikke noe nasjonalt register over KI-hendelser og nestenulykker (jf. OECD AI Incidents Monitor [K0281] og tiltaket i [[ANB-01]]). Vi vet ikke hva vi ikke vet.
+
+- **Målet er fart, ikke trygghet:** strategien har som mål at 80 % av offentlige virksomheter skal ha tatt i bruk KI i 2025 og alle innen 2030. Offentlig sektor og næringslivet skal «tørre å teste ut og ta i bruk KI raskt», og det forutsetter «risikovilje» [K0307].
+- **Uviss virkning gir utprøving, ikke føre var:** strategien skriver at hvilke effekter KI vil ha over tid, «er vanskelig å beskrive i dag. Derfor må det prøves ut i praksis» [K0307].
+- **To statlige signaler i hver sin retning:** NSM har sluttet seg til internasjonale retningslinjer som sier at virksomheten først må være sikker på at oppgaven faktisk løses best med KI [K1202]. Målet om KI i alle offentlige virksomheter snur rekkefølgen.
+- **Hvordan, ikke om:** forskning på norsk arbeidsliv finner at diskusjonen handler om hvordan KI skal innføres, ikke om den bør tas i bruk ([[OKO-19]]) [K1211]. Samme mønster går igjen i strategien og i retningslinjene ([[TVG-03]]).
+- **En pionerstat har et særlig ansvar:** NIM viste allerede i 2019 til EMD, som har uttalt at en stat som tar «a pioneer role in the development of new technologies bears special responsibility for striking the right balance» [K1224]. Målet om å bli verdens mest digitaliserte land gjør det ansvaret større.
+- **Grunnsikringen svikter:** i NSMs inntrengingstester i statlige kontorsystemer i 2025 fikk NSM «i de aller fleste tilfellene» full kontroll over virksomhetens informasjonssystem [K1216] ([[SIK-02]]).
 
 ### 2 Ansvar og jurisdiksjon
 
@@ -71,3 +78,7 @@ sist_endret: 2026-10-21
 - Offentlig sektor: innkjøp og bruk uten felles minstekrav. *(disposisjonen)* Se [[RET-15]].
 - **Den enkeltes rettsmidler:** det er vanskelig å vite at man er rammet av en KI-beslutning, og enda vanskeligere å klage. Gruppesøksmål [K0314] er lite brukt i Norge.
 - **Kunnskapsgrunnlaget:** evalueringen av KI-modeller gjøres i stor grad av leverandørene selv. Myndighetene har ingen uavhengig testkapasitet.
+
+- **Advart om i 2019, fortsatt åpent:** i innspillene til den første KI-strategien ba Datatilsynet om hjemmel til å ta beslag eller kopi av KI-systemer og kalte en lovendring «nærmest avgjørende» for tilsyn med KI [K1225]. NAV og Forbrukerrådet ba om det samme [K1238] [K1227]. Flere ba om samordnet tilsyn [K1227] [K1233] og om et etisk råd eller dataombud [K1231] [K1228]. Strategien fra 2024 vil fortsatt bare *utrede* et dataetisk råd [K0307] ([[RET-14]]).
+- **Tilsynet henger ikke med:** Datatilsynet fikk 1 848 klager fra privatpersoner i 2025, mot 902 året før, og mange er skrevet med KI. Tilsynet må allerede nedprioritere tilsyn og veiledning [K1218] ([[RET-14]], [[DEM-10]]).
+- **Etiske retningslinjer kan skjule makt:** frivillige etiske prinsipper kan brukes til å begrunne selvregulering. Forskningen kaller det «etisk hvitvasking» [K1211].

@@ -112,7 +112,7 @@ KI endrer seg raskere enn noe annet rapporten omtaler. Denne lista samler alt so
 | [[LIV-17]] | Finanstilsynets ROS 2026 om BankID-angrep; eIDAS 2 og EØS-status | K0262, K0261 |  |  |
 | [[RET-16]] | Kriminalomsorgens egen bruk av KI; innsatte i Finland (2023) | K0265, K0266 |  |  |
 | [[OKO-18]] | Egen pensjonskonto (årstall); påstanden om at KI beregner pensjon (uverifisert) | K0267, K0268 |  |  |
-| [[OKO-19]] | Hovedavtalens kapittelnummer; KI-avtalen 2. oktober 2026; NITOs høringssvar; regjeringens rapport om KI og medbestemmelse | K0139, K0269, K0270, K0271 |  |  |
+| [[OKO-19]] | Hovedavtalens kapittelnummer; KI-avtalen 2. oktober 2026; NITOs høringssvar; regjeringens rapport om KI og medbestemmelse | K0139, K0269, K0270, K1211 |  |  |
 | [[SIK-18]] | Statnett og Avinor; turisme-oppslagene (2025) | K0257, K0258, K0259 |  |  |
 | [[TVG-05]] | Lavterskelordninger: KI-genererte falske kvitteringer (2025), norske tall; registerdata: EHDS og EØS-status | K0278, K0275 |  |  |
 | [[SIK-04]] | I-XRAY-demonstrasjonen (2024) | K0280 |  |  |
@@ -220,3 +220,8 @@ KI endrer seg raskere enn noe annet rapporten omtaler. Denne lista samler alt so
 | [[SIK-15]] | NSM Risiko 2026 (feb. 2026); Nasjonal sky på pause (april 2026) | K1163, K1164 |  |  |
 | [[SIK-19]] | International AI Safety Report (2025/2026); britisk nudify-forbud | K0012, K1167 |  |  |
 | [[SIK-08]] | CAIS (2023); International AI Safety Report (2025, 2026); Narayanan og Kapoor (2025) | K0196, K0012, K0197 |  |  |
+| [[REG-02]] | Løfter i digitaliseringsstrategien (2024) med utgått frist: 80 % KI-bruk i offentlige virksomheter innen 2025, strategi mot desinformasjon (våren 2025), melding om trygg digital oppvekst (høsten 2024), dataetisk råd (utredning), krav om etiske KI-prinsipper i digitaliseringsrundskrivet, nasjonal sikker sky, vurdering av aldersgrense for sosiale medier. Sjekk hva som skjedde | K0307 |  |  |
+| [[REG-02]] | Har Datatilsynet fått hjemmel til å ta beslag eller kopi av KI-systemer ved tilsyn (etterlyst i 2019, ikke nevnt i årsrapporten for 2025)? | K1225, K1218 |  |  |
+| [[OKO-06]] | Er Prop. 41 LS (2025–2026) om tekst- og datautvinning vedtatt, og når trer §§ 50 d–50 f i kraft? | K1219 |  |  |
+| [[OKO-12]] | Wolt-saken (Borgarting lagmannsrett, februar 2026): er den anket eller rettskraftig? | K1211 |  |  |
+| [[SIK-17]] | NSMs nasjonale cyberrisikonivå (HØYT fra 27.10.2026) kan endres | K1201 |  |  |

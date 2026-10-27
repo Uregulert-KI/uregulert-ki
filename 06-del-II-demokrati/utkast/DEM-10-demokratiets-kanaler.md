@@ -4,12 +4,12 @@ tittel: Forurensning av demokratiets egne kanaler
 del: Del II – Demokrati, offentlighet og kunnskap
 status: kandidat
 risikotype: ikke vurdert
-sist_endret: 2026-10-18
+sist_endret: 2026-10-27
 ---
 
 # DEM-10 Forurensning av demokratiets egne kanaler
 
-> Påstander: DEM-10.P01–DEM-10.P10 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: DEM-10.P01–DEM-10.P11 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -61,6 +61,8 @@ sist_endret: 2026-10-18
 - **Folk ser ikke forskjell:** KI-genererte kommentarer sendt til en amerikansk høring kunne ikke skilles fra ekte [K0761].
 - **Politikere svarer likt:** amerikanske lovgivere svarte omtrent likt på KI-skrevne og menneskeskrevne brev [K0762].
 - **Ensretting også uten svindel:** når organisasjonene skriver høringssvarene med de samme modellene, blir språket og argumentene likere – selv om alt er ekte. Den særegne stemmen forsvinner ([[DEM-04]], avsnitt A).
+
+- **Det skjer allerede i et norsk tilsyn:** mange av klagene til Datatilsynet skrives nå med KI. De blir flere, lengre og mer komplekse, og tar lengre tid å behandle. En medarbeider: «Det føles ikke som å hjelpe et menneske, men å hjelpe en maskin» [K1218]. Det samme kan skje med høringssvar.
 
 ### C KI ut – når makten oppsummerer med KI
 

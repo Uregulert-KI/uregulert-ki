@@ -4,7 +4,7 @@ tittel: Langsiktig og katastrofal risiko
 del: Del V – Sikkerhet og beredskap
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-25
+sist_endret: 2026-10-27
 ---
 
 # SIK-08 Langsiktig og katastrofal risiko
@@ -71,6 +71,8 @@ sist_endret: 2026-10-25
 
 - **Få spaker, men noen:** internasjonalt samarbeid; oljefondet som eier ([[OKO-09]]); E-tjenestens og FHIs vurderinger; norske forskningsmiljøer.
 - **Det nasjonale risikobildet:** DSB kan ta inn KI-scenarier med lav sannsynlighet og høy konsekvens (sjekk om det er gjort).
+
+- **Foreslått i 2019:** Effektiv altruisme Norge ba om en stortingsmelding om ondsinnet bruk av KI, en analysegruppe i etterretningstjenesten og et risikorammeverk forankret i nasjonale verdier [K1229]. Det er ikke kjent at forslagene er fulgt opp (sjekk).
 
 ### E Reguleringshull
 

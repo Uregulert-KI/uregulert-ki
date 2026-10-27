@@ -4,12 +4,12 @@ tittel: Distrikts-Norge og regional ulikhet
 del: Del IV – Økonomi, arbeid og solidaritet
 status: kandidat
 risikotype: ikke vurdert
-sist_endret: 2026-10-23
+sist_endret: 2026-10-27
 ---
 
 # OKO-13 Distrikts-Norge og regional ulikhet
 
-> Påstander: OKO-13.P01–OKO-13.P07 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: OKO-13.P01–OKO-13.P08 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -61,6 +61,8 @@ sist_endret: 2026-10-23
 ### C Gevinstene samles i byene
 
 - KI-kompetansen, selskapene og kapitalen ligger i Oslo og de store byene. Effektiviseringen skjer i distriktene, men gevinsten havner sentralt – og i utlandet ([[OKO-04]]).
+
+- **KI-bruken følger samme mønster:** i 2024 brukte 50 % av foretakene i Oslo KI, mot 31 % i Akershus, 26 % i Rogaland, 16–24 % i de fleste andre fylker og 13 % i Østfold [K1209].
 
 ### D Datasentrene – distriktenes kraft, få jobber, store forventninger
 

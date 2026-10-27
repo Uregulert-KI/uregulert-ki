@@ -4,7 +4,7 @@ tittel: Kognitiv offloading og kompetanseforvitring
 del: Del I – Mennesket gjennom livsløpet
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-13
+sist_endret: 2026-10-27
 ---
 
 # LIV-03 Kognitiv offloading og kompetanseforvitring
@@ -70,6 +70,8 @@ sist_endret: 2026-10-13
 - **Aldri lært** (*never-skilling*): nye i yrket får aldri trent opp ferdigheten ([[LIV-06]], [[OKO-01]]).
 - **Feillært** (*mis-skilling*): man lærer KI-ens feil som om de var riktige. Begrepene brukes i medisinsk litteratur [K0382] (sjekk).
 - **Luftfarten** har lenge kjent problemet: flygere som mister manuelle ferdigheter, og anbefalinger om mer manuell flyging [K0383] (sjekk). «Ironies of automation» (Bainbridge) [K0253] står i [[SIK-18]].
+
+- **Programmererne:** Arbeidstilsynet gjengir en studie der programmerere som bruker KI fullt ut, jobber raskere, men lærer mindre og blir dårligere til å oppdage og forstå feil [K1213] (sjekk originalstudien). Se også effektivitetsparadokset i [[OKO-16]].
 
 ### E Vi merker det ikke selv – metakognisjon
 

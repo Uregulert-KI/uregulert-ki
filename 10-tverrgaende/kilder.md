@@ -76,3 +76,10 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0006 | TVG-09 | Bakgrunn i materialet etter gjennomgang |
 | K0116 | TVG-09 | Bakgrunn i materialet etter gjennomgang |
 | K0010 | TVG-09 | Bakgrunn i materialet etter gjennomgang |
+| K0307 | TVG-03 | Bakgrunn i materialet etter gjennomgang |
+| K1202 | TVG-03 | Bakgrunn i materialet etter gjennomgang |
+| K1211 | TVG-03 | Bakgrunn i materialet etter gjennomgang |
+| K1217 | TVG-03 | Bakgrunn i materialet etter gjennomgang |
+| K1237 | TVG-03 | Bakgrunn i materialet etter gjennomgang |
+| K1204 | TVG-05 | Bakgrunn i materialet etter gjennomgang |
+| K0307 | TVG-05 | Bakgrunn i materialet etter gjennomgang |

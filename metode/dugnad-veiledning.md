@@ -20,9 +20,9 @@ Reglene under gjelder for alle oppgavene.
 2. **Tall, datoer, navn på saker og artikkelnummer** tas fra kilden, ikke fra hukommelsen.
 3. **Skill mellom anklage, tiltale og dom**, og mellom vedtatt, i kraft, foreslått og trukket.
 4. **Merk preprints, bransjerapporter og selskapers egne tall** som det de er.
-5. **Privatpersoner navngis aldri**, heller ikke ofre eller gjerningspersoner. Offentlige personer i offentlig rolle, forskere og selskaper er greit.
+5. **Privatpersoner i privat rolle navngis aldri**, heller ikke ofre eller gjerningspersoner. Offentlige personer i offentlig rolle, forskere og fagpersoner som uttaler seg offentlig i fagrollen sin, kan navngis og siteres. Det samme gjelder selskaper.
 6. **Sensitive temaer** (vold, overgrep, terror, våpen, cyberangrep, svindel) omtales overordnet, uten framgangsmåter.
-7. **Korte sitater:** maks 25 ord, ellers parafrase.
+7. **Korte sitater:** maks 25 ord fra forskning, journalistikk, bøker og andre verk, ellers parafrase. **Unntak:** lover, forskrifter, rettsavgjørelser og vedtak, og utredninger og uttalelser fra offentlige organer og offentlig oppnevnte utvalg, kan siteres lengre. De har ikke opphavsrettslig vern (åndsverkloven § 14). Sitér likevel ikke mer enn poenget krever.
 8. **Teksten i temaene endres ikke direkte.** Foreslå endringer; redaktøren vurderer og legger inn.
 9. **Uenig?** Si fra. Rapporten skal tåle motstand. Det er derfor motargumentene er en egen del.
 

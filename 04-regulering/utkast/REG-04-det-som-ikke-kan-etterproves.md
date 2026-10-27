@@ -4,7 +4,7 @@ tittel: Det som ikke kan etterprøves
 del: Kap. 4 – Reguleringslandskapet og hullene
 status: kandidat
 risikotype: ikke relevant
-sist_endret: 2026-10-25
+sist_endret: 2026-10-27
 ---
 
 # REG-04 Det som ikke kan etterprøves
@@ -46,6 +46,9 @@ sist_endret: 2026-10-25
 - **DSA gir forskere tilgang til data fra svært store plattformer** [K0635] – men ikke fra et lite selskap på en øy.
 - **Tilsyn bygger på at det som testes, er det brukerne får.** Det forutsetter en etterprøvbarhet som ikke finnes her.
 - **Jurisdiksjon:** selskapet er utenfor rekkevidde ([[REG-02]], kategori 2).
+
+- **Frivillig binder ingen:** retningslinjene for sikker KI-utvikling som NSM har sluttet seg til, er frivillige og har ingen sanksjoner [K1202].
+- **Robots.txt er ingen sperre:** departementet skriver at filen som skal reservere verk mot KI-trening, «ikke utgjør en teknisk sperre for tilgang». Roboter som ignorerer den, kan bare avsløres i loggene [K1219] ([[OKO-06]]).
 
 ### E Fra atferd til tilgang
 

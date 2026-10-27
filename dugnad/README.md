@@ -55,7 +55,7 @@ Scoren din er et forslag. Minst ett annet menneske i prosjektet ser over den fø
 De felles reglene står i [dugnadsveiledningen](../metode/dugnad-veiledning.md#regler) og tar to minutter å lese. De viktigste er:
 - **Aldri dikt opp.** Finner du ikke kilden, skriv «ikke funnet». Det er et nyttig svar.
 - **Tall, datoer og navn tas fra kilden**, ikke fra hukommelsen.
-- **Privatpersoner navngis aldri.**
+- **Privatpersoner i privat rolle navngis aldri.** Forskere og fagpersoner som uttaler seg offentlig i fagrollen sin, kan navngis.
 
 ## Om KI i dugnaden
 

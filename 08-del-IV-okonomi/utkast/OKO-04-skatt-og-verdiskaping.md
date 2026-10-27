@@ -4,12 +4,12 @@ tittel: Skatt og verdiskaping
 del: Del IV – Økonomi, arbeid og solidaritet
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-21
+sist_endret: 2026-10-27
 ---
 
 # OKO-04 Skatt og verdiskaping
 
-> Påstander: OKO-04.P01–OKO-04.P08 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: OKO-04.P01–OKO-04.P10 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -59,9 +59,12 @@ sist_endret: 2026-10-21
 ### C Datasentrene – mange byggejobber, få varige jobber
 
 - **Løftene gjelder byggefasen:** utbygging lover mange jobber, men når anlegget er ferdig, er det få igjen.
-- **Norske tall:** rundt 80 faste personer på et anlegg på 16,5 MW [K0983] og 77 på 7 MW [K0984]. Bransjen oppgir rundt 400 egne årsverk, men rundt 4 400 med innleide og underleverandører – mye knyttet til byggefasen [K0986]. Rundt halvparten av arbeidskraften i byggefasen kan være utenlandsk [K0985] (sjekk).
+- **Norske tall:** rundt 80 faste personer på et anlegg på 16,5 MW [K0983] og 77 på 7 MW [K0984]. Bransjen oppgir rundt 400 egne årsverk, men rundt 4 400 med innleide og underleverandører – mye knyttet til byggefasen [K0986]. SSB fant 677 sysselsatte i kommersielle datasentre i 2024, hvorav 333 innleide [K1206]. Rundt halvparten av arbeidskraften i byggefasen kan være utenlandsk [K0985] (sjekk).
 - **Internasjonalt:** i Georgia var det 28 350 byggejobber mot 5 471 faste driftsjobber; et typisk anlegg har rundt 50 faste ansatte, halvparten innleid [K0988]. Nyere, mer automatiserte anlegg kan gi færre faste jobber per megawatt [K0987] (sjekk).
-- **Regnestykket for Norge:** få varige jobber sammenlignet med hvor mye norsk kraft, areal og nettkapasitet anleggene bruker ([[OKO-02]], avsnitt B) – og overskuddet går ut av landet. Hvor mange jobber gir en TWh i datasentre, sammenlignet med en TWh i annen kraftkrevende industri (sjekk)?
+- **Regnestykket for Norge:** få varige jobber sammenlignet med hvor mye norsk kraft, areal og nettkapasitet anleggene bruker ([[OKO-02]], avsnitt B) – og overskuddet går ut av landet. Hvor mange jobber gir en TWh i datasentre, sammenlignet med en TWh i annen kraftkrevende industri? SSB fant i snitt 2,36 ansatte per MW, og 829 kroner i verdiskaping per MWh mot 912 i tradisjonell kraftintensiv industri [K1206].
+
+- **SSBs tall (2026):** kommersielle datasentre sysselsatte 677 personer i 2024, hvorav 344 egne ansatte og 333 innleide, og skapte 1,2 milliarder kroner i direkte verdier. De har i snitt 2,36 ansatte per MW. Det ofte siterte anslaget på 18 arbeidsplasser per MW blander byggefase, driftsfase og indirekte sysselsetting [K1206].
+- **Mindre verdi per kilowattime:** datasentrene skapte 829 kroner per MWh i 2024, mot 912 i tradisjonell kraftintensiv industri [K1206].
 
 ### D Der verdien skapes, men ikke skattlegges
 

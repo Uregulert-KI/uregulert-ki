@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Takk for at du bidrar! Du trenger ikke score noe selv, og du trenger ikke vite nøyaktig hvor bidraget passer. Det tar forfatteren seg av.
-        Les gjerne [oppgavebeskrivelsen](../blob/main/dugnad/1-nye-pastander-og-bekymringer.md) og de [felles reglene](../blob/main/metode/dugnad-veiledning.md#regler) først. **Ikke navngi privatpersoner**, og omtal sensitive temaer overordnet.
+        Les gjerne [oppgavebeskrivelsen](../blob/main/dugnad/1-nye-pastander-og-bekymringer.md) og de [felles reglene](../blob/main/metode/dugnad-veiledning.md#regler) først. **Ikke navngi privatpersoner i privat rolle** (forskere og fagpersoner som uttaler seg offentlig, er greit), og omtal sensitive temaer overordnet.
   - type: dropdown
     id: type
     attributes:

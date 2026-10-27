@@ -191,3 +191,28 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0001 | SIK-08 | Belegg for SIK-08.P09 (KI-forordningen krever evaluering, motstandstesting og hendelsesrapportering for modeller med systemisk risiko) |
 | K1146 | SIK-08 | Bakgrunn i materialet etter gjennomgang |
 | K1171 | SIK-08 | Bakgrunn i materialet etter gjennomgang |
+| K0307 | SIK-01 | Belegg for SIK-01.P15 (Personvernkommisjonen fant en gjennomgående tendens til at digitaliseringen skjer på bekostning av personvernet) |
+| K1218 | SIK-01 | Belegg for SIK-01.P05 (Meta startet trening på europeiske brukeres data, og Datatilsynet rådet folk til å protestere (2025)) |
+| K1227 | SIK-01 | Bakgrunn i materialet etter gjennomgang |
+| K0262 | SIK-02 | Belegg for SIK-02.P09 (Finanstilsynet peker på at skygge-KI gir risiko for datalekkasje og manglende sporbarhet) |
+| K1222 | SIK-02 | Belegg for SIK-02.P10 (Alle skoler bruker KI-verktøy i en eller annen grad, også der ledelsen har oppgitt at de ikke brukes) |
+| K1216 | SIK-02 | Bakgrunn i materialet etter gjennomgang |
+| K1202 | SIK-03 | Bakgrunn i materialet etter gjennomgang |
+| K0262 | SIK-05 | Belegg for SIK-05.P09 (Sosial manipulering er den vanligste svindelformen i Norge); SIK-05.P03 (KI senker terskelen for svindel og dataangrep) |
+| K1216 | SIK-05 | Belegg for SIK-05.P03 (KI senker terskelen for svindel og dataangrep) |
+| K0307 | SIK-05 | Bakgrunn i materialet etter gjennomgang |
+| K0262 | SIK-07 | Belegg for SIK-07.P08 (Driftsforstyrrelser hos globale skyleverandører rammet norske banktjenester i 2025) |
+| K1216 | SIK-07 | Belegg for SIK-07.P08 (Driftsforstyrrelser hos globale skyleverandører rammet norske banktjenester i 2025) |
+| K1202 | SIK-12 | Bakgrunn i materialet etter gjennomgang |
+| K1202 | SIK-14 | Bakgrunn i materialet etter gjennomgang |
+| K0262 | SIK-15 | Bakgrunn i materialet etter gjennomgang |
+| K1201 | SIK-15 | Bakgrunn i materialet etter gjennomgang |
+| K1216 | SIK-15 | Belegg for SIK-15.P05 (NSM advarte i 2026 mot konsentrasjonsrisiko i skytjenester og anbefalte reserveløsninger) |
+| K1216 | SIK-17 | Belegg for SIK-17.P13 (NSM og PST forventer at norske virksomheter i 2026 blir utsatt for cyberoperasjoner der KI-verktøy spiller en viktig rolle); SIK-17.P06 (Importert utstyr kan ha innebygd evne til fjernstyring eller stans (bl.a. rapporter om kommunikasjonsenheter i kinesiske solcelle-invertere)) |
+| K1201 | SIK-17 | Belegg for SIK-17.P14 (NSM hevet det nasjonale cyberrisikonivået til HØYT i oktober 2026 etter en tredobling av vellykkede cyberoperasjoner) |
+| K0307 | SIK-17 | Bakgrunn i materialet etter gjennomgang |
+| K1230 | SIK-17 | Bakgrunn i materialet etter gjennomgang |
+| K0262 | SIK-17 | Belegg for SIK-17.P15 (KI gjør at tiden fra en sårbarhet oppdages til den utnyttes, er vesentlig kortere enn før) |
+| K1229 | SIK-08 | Bakgrunn i materialet etter gjennomgang |
+| K0307 | SIK-02 | Bakgrunn i materialet etter gjennomgang |
+| K1216 | SIK-11 | Belegg for SIK-11.P01 (Angripere åpnet en ventil ved en demning i Bremanger (2025); PST har knyttet hendelsen til prorussiske aktører) |

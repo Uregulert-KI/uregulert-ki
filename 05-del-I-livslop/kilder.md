@@ -449,3 +449,17 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0074 | LIV-02 | Belegg for LIV-02.P23 (Filtrering av personopplysninger gir ingen garanti mot at samtaler bevares eller blir tilgjengelige for statlige aktører) |
 | K0171 | LIV-02 | Belegg for LIV-02.P23 (Filtrering av personopplysninger gir ingen garanti mot at samtaler bevares eller blir tilgjengelige for statlige aktører) |
 | K1194 | LIV-02 | Bakgrunn – nasjonale råd om KI i skolen (2026) |
+| K1221 | LIV-02 | Belegg for LIV-02.P24 (90 prosent av ungdomsskolene og de videregående skolene og 65 prosent av barneskolene bruker KI-verktøy i opplæringen (2025)) |
+| K1203 | LIV-02 | Bakgrunn i materialet etter gjennomgang |
+| K1204 | LIV-02 | Bakgrunn i materialet etter gjennomgang |
+| K1222 | LIV-02 | Belegg for LIV-02.P25 (Skoleledere er bekymret for at KI forsterker forskjeller mellom elever) |
+| K1220 | LIV-02 | Belegg for LIV-02.P26 (Udir anbefaler at elever på 1.–7. trinn i hovedsak ikke får tilgang til generativ KI) |
+| K1218 | LIV-02 | Belegg for LIV-02.P27 (Datatilsynet fant at hundrevis av digitale læringsverktøy ikke vurderes godt nok før de tas i bruk) |
+| K1223 | LIV-02 | Bakgrunn i materialet etter gjennomgang |
+| K1213 | LIV-03 | Bakgrunn i materialet etter gjennomgang |
+| K0307 | LIV-10 | Belegg for LIV-10.P19 (Om lag 20 prosent av den voksne befolkningen er sårbare i møte med offentlige digitale tjenester); LIV-10.P04 (Deler av befolkningen har svak digital kompetanse) |
+| K1231 | LIV-10 | Bakgrunn i materialet etter gjennomgang |
+| K0307 | LIV-17 | Belegg for LIV-17.P22 (Nær én million mennesker i Norge kan ikke skaffe seg eID på høyt sikkerhetsnivå) |
+| K1216 | LIV-17 | Bakgrunn i materialet etter gjennomgang |
+| K0262 | LIV-10 | Bakgrunn i materialet etter gjennomgang |
+| K0746 | LIV-02 | Bakgrunn i materialet etter gjennomgang |

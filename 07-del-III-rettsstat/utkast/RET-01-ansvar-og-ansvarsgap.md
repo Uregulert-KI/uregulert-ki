@@ -4,7 +4,7 @@ tittel: Ansvar og ansvarsgap
 del: Del III – Rettsstat og forvaltning
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-19
+sist_endret: 2026-10-27
 ---
 
 # RET-01 Ansvar og ansvarsgap
@@ -53,6 +53,10 @@ sist_endret: 2026-10-19
 - **Teorien:** når en maskin lærer og handler selv, har ingen full kontroll – og ingen får fullt ansvar (Matthias) [K0105]. Ansvarsgapet har flere former [K0106].
 - **«Moralsk knautsone»:** den som står nærmest maskinen – sikkerhetssjåføren, saksbehandleren – får skylden, mens systemet og produsenten går fri [K0812]. Da blir «menneske i løkka» et gummistempel.
 - **EU trakk forslaget til eget direktiv om KI-ansvar** [K0813] (sjekk). Det nye produktansvarsdirektivet regner programvare og KI som produkter [K0109] (sjekk frist og norsk gjennomføring). Gapet er delvis tettet, ikke lukket.
+
+- **Ansvar for å gjøre, ikke for resultatet:** forskningen skiller mellom ansvar for å utføre en oppgave og ansvar for resultatet. Algoritmer kan ta det første, men ikke holdes ansvarlige for det andre [K1211].
+- **Varslet i 2019:** Advokatforeningen ba om at det må gjøres tydelig «når mennesker skal overta og gjøre skjønnsmessige vurderinger og hvem som til syvende og sist har ansvaret» [K1226]. NENT ba myndighetene stille krav om at ansvaret kan lokaliseres når et KI-system gjør feil [K1237].
+- **Leverandøren bør bære mer:** retningslinjene NSM har sluttet seg til, sier at brukerne sjelden har innsyn og kompetanse til å vurdere risikoen, og at leverandøren derfor bør ta ansvar for sikkerheten nedover i kjeden [K1202] ([[RET-15]]).
 
 ### B Kartlegging – hvor ansvaret kan komme opp
 

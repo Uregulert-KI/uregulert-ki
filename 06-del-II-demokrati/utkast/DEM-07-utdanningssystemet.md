@@ -4,7 +4,7 @@ tittel: Utdanningssystemet som samfunnsinstitusjon
 del: Del II – Demokrati, offentlighet og kunnskap
 status: utkast-høy-prioritet
 risikotype: ikke vurdert
-sist_endret: 2026-10-18
+sist_endret: 2026-10-27
 ---
 
 # DEM-07 Utdanningssystemet som samfunnsinstitusjon
@@ -53,10 +53,14 @@ sist_endret: 2026-10-18
 - Å klare seg *selv*, *sammen med andre* og *med teknologien*. KI flytter vekten mot det siste – ofte på bekostning av de to første.
 - Formålsparagrafen [K0004] og overordnet del [K0009] handler om danning og demokratisk dømmekraft, ikke bare arbeidsmarkedsrelevans. Ludvigsen-utvalget beskrev kompetansene for fremtidens skole [K0742].
 
+- **Demokratisk beredskap:** ekspertgruppen for KI og valg mener det er særlig bekymringsfullt at norsk ungdom, tross stor oppslutning om demokratiske verdier, i mindre grad gjenkjenner trusler mot demokratiet [K1217].
+
 ### B Vitnemålets verdi og eksamensformene
 
 - Når oppgaver, hjemmeeksamen og masteroppgaver kan skrives av KI, hva bekrefter en karakter? Lærestedene sier selv at det med KI kan være vanskelig å se hva studentene har lært [K0090] – og det rammer tilliten hos arbeidsgivere og opptak.
 - Institusjonene svarer med flere skoleeksamener og muntlige prøver – UiT har droppet skriftlig ex.phil.-eksamen for om lag 1700 studenter [K0743]. Det er dyrt, og kan premiere andre evner. Juks og KI-detektorer: [[LIV-02]], avsnitt F.
+
+- **Vurderingen endres allerede:** nesten alle skoleledere opplever at KI har endret vurderingspraksis. Det gis færre hjemmeoppgaver, mer muntlig vurdering og flere prøver uten nettilgang [K1222].
 
 ### C Hvem definerer god læring?
 

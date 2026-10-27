@@ -10,7 +10,7 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | SIK-01.P02 | Samsung-ansatte lekket kildekode via ChatGPT (2023) | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-01.P03 | Delte ChatGPT-samtaler dukket opp i Google-søk (2025) | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-01.P04 | En domstol påla OpenAI å bevare ChatGPT-logger i NYT-saken (2025) | K0074 |  |  |  |  |  |  | ikke scoret | 0 | – |
-| SIK-01.P05 | Meta startet trening på europeiske brukeres data, og Datatilsynet rådet folk til å protestere (2025) | K0175 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| SIK-01.P05 | Meta startet trening på europeiske brukeres data, og Datatilsynet rådet folk til å protestere (2025) | K0175, K1218 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-01.P06 | Amerikansk lovgivning (CLOUD Act, FISA 702) gir myndighetene tilgang til data hos amerikanske leverandører | K0171, K0172 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-01.P07 | EU-domstolen underkjente grunnlaget for dataoverføring til USA i Schrems II (2020) | K0173 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-01.P08 | Anthropic gikk i 2025 over til å trene på forbrukersamtaler med mindre brukeren reserverer seg | K1087 |  |  |  |  |  |  | ikke scoret | 0 | – |
@@ -20,6 +20,7 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | SIK-01.P12 | Informasjon kan undertrykkes i en trent modell, men dataene har allerede formet modellen | K1096 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-01.P13 | EU–US Data Privacy Framework ble opprettholdt av EU-domstolens underrett i 2025, men kan ankes | K1091, K0174 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-01.P14 | Nordmenn kunne bare protestere mot Metas KI-trening på eget innhold, ikke på bilder andre har lagt ut | K1093 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| SIK-01.P15 | Personvernkommisjonen fant en gjennomgående tendens til at digitaliseringen skjer på bekostning av personvernet | K0307 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-02.P01 | Flere land forbød DeepSeek på offentlige enheter (2025) | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-02.P02 | Ansatte tar med egne KI-verktøy på jobb | K0177 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-02.P03 | Ansatte i staten bruker ikke-godkjente KI-verktøy og limer inn sensitive opplysninger | K0176 |  |  |  |  |  |  | ikke scoret | 0 | – |
@@ -28,6 +29,8 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | SIK-02.P06 | Tekster lagt inn i en gratis oversettelsestjeneste ble søkbare på nett, blant dem dokumenter fra Statoil | K1114 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-02.P07 | Amerikanske myndigheter kan kreve tilgang til data hos amerikanske KI-leverandører, også fra allierte land | K0171, K0172 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-02.P08 | Flere land har forbudt DeepSeek på offentlige enheter | K1116 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| SIK-02.P09 | Finanstilsynet peker på at skygge-KI gir risiko for datalekkasje og manglende sporbarhet | K0262 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| SIK-02.P10 | Alle skoler bruker KI-verktøy i en eller annen grad, også der ledelsen har oppgitt at de ikke brukes | K1222 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-03.P01 | EchoLeak var en «null-klikk»-sårbarhet i Microsoft 365 Copilot (2025) | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-03.P02 | KI-assistenter kan styres av skjulte instrukser i innholdet de leser (indirekte prompt injection) | K0179, K0180 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-03.P03 | Språkmodeller kan ikke skille sikkert mellom brukerens instrukser og instrukser skjult i innholdet de leser | K0179, K0180 |  |  |  |  |  |  | ikke scoret | 0 | – |
@@ -48,12 +51,14 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | SIK-04.P11 | Kommersielle appdata har vært brukt til å avsløre helse, religion og legning | K1104, K1102, K1103 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-05.P01 | Arup ble svindlet for rundt 25 mill. dollar via et deepfake-videomøte i Hongkong (2024) | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-05.P02 | KI er brukt til datautpressing | K0182 |  |  |  |  |  |  | ikke scoret | 0 | – |
-| SIK-05.P03 | KI senker terskelen for svindel og dataangrep | K0183, K0184, K0185 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| SIK-05.P03 | KI senker terskelen for svindel og dataangrep | K0183, K0184, K0185, K1216, K0262 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-05.P04 | De store generelle modellene skriver brukbart, men ikke feilfritt norsk; svært overbevisende norsk svindel krever fortsatt ekstra arbeid | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-05.P05 | Eldre og sårbare lar seg lettere overbevise av svindel på godt norsk enn av svindel på dårlig norsk | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-05.P06 | Stemmekloning krever bare sekunder med lyd | K1136 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-05.P07 | En ansatt i Arup overførte rundt 25 millioner dollar etter et videomøte der de andre deltakerne var deepfakes | K0490 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-05.P08 | KI-agenter er brukt gjennom hele dataangrep, fra rekognosering til utpressing | K0182, K1137 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| SIK-05.P09 | Sosial manipulering er den vanligste svindelformen i Norge | K0262 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| SIK-05.P10 | Samlet svindel i Norge var 614 millioner kroner i 2022, 929 i 2023, 1 227 i 2024 og 962 i 2025 | K0262 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-06.P01 | KI-systemene Lavender og Gospel brukes i målutvelgelse i Gaza | K0186 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-06.P02 | Droneutviklingen i Ukraina driver fram autonome våpen | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-06.P03 | Det forhandles om regulering av autonome våpen i FN/CCW | K0187 |  |  |  |  |  |  | ikke scoret | 0 | – |
@@ -70,6 +75,7 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | SIK-07.P05 | Datasenter eller skyregion i Norge sikrer ikke at tjenesten virker når leverandøren stanser den | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-07.P06 | Norske KI-modeller kan også få nedetid, og løser derfor ikke behovet for en manuell reserve | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-07.P07 | DSB oppfordrer husholdningene til å kunne klare seg selv i 72 timer | K1157 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| SIK-07.P08 | Driftsforstyrrelser hos globale skyleverandører rammet norske banktjenester i 2025 | K0262, K1216 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-08.P01 | KI kan senke terskelen for biologiske og kjemiske våpen | K0012 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-08.P02 | Tap av kontroll over svært kapable KI-systemer er en reell risiko | K0196, K0012 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-08.P03 | KI er en «normal teknologi» og bør ikke behandles som eksistensiell risiko (motvekt) | K0197 |  |  |  |  |  |  | ikke scoret | 0 | – |
@@ -94,7 +100,7 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | SIK-10.P06 | Mange angrep avverges fordi gjerningspersonen forteller andre om planen (lekkasje) | K0201, K0580 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-10.P07 | Forordningen om terrorinnhold gjelder publisert innhold, ikke private samtaler med chatboter | K1144 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-10.P08 | Samtaler med en språkmodell har redusert konspirasjonstro varig | K0064 |  |  |  |  |  |  | ikke scoret | 0 | – |
-| SIK-11.P01 | Angripere åpnet en ventil ved en demning i Bremanger (2025); PST har knyttet hendelsen til prorussiske aktører | K0068 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| SIK-11.P01 | Angripere åpnet en ventil ved en demning i Bremanger (2025); PST har knyttet hendelsen til prorussiske aktører | K0068, K1216 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-11.P02 | KI senker terskelen for angrep på driftsteknologi | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-12.P01 | Skjulte bakdører i modeller kan overleve sikkerhetstrening | K0199 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-12.P02 | En bakdør i en språkmodell kan overleve vanlig sikkerhetstrening | K0199 |  |  |  |  |  |  | ikke scoret | 0 | – |
@@ -120,7 +126,7 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | SIK-15.P02 | KI-leverandører har ingen beredskapsplikt tilsvarende kraft og tele | K0010 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-15.P03 | Nasjonal sky har vært utredet siden 2021 uten å bli besluttet, og ble satt på pause igjen i 2026 | K1164 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-15.P04 | En nasjonal sky ble ikke vurdert da Forsvaret valgte skyløsning, fordi den ikke fantes | K1165 |  |  |  |  |  |  | ikke scoret | 0 | – |
-| SIK-15.P05 | NSM advarte i 2026 mot konsentrasjonsrisiko i skytjenester og anbefalte reserveløsninger | K1163 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| SIK-15.P05 | NSM advarte i 2026 mot konsentrasjonsrisiko i skytjenester og anbefalte reserveløsninger | K1163, K1216 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-15.P06 | Innlåsing i KI ligger mer i plattformen KI-en bakes inn i enn i selve modellen | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-16.P01 | Mange enkeltaktører røper planene sine til andre på forhånd («leakage») | K0201, K0204 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-16.P02 | Unabomberen ble identifisert fordi broren kjente igjen skrivestilen i manifestet | K0202 |  |  |  |  |  |  | ikke scoret | 0 | – |
@@ -136,13 +142,16 @@ Påstandene er hentet fra disposisjonen (nøkkeleksempler og kildefestede påsta
 | SIK-17.P03 | Rørledninger og kabler i Østersjøen ble skadet i 2022–2024 (Nord Stream, kabel- og rørskader) | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-17.P04 | Statlige aktører rekrutterer lavterskel-utøvere via nett til sabotasje i Europa | K0218 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-17.P05 | KI kan automatisere kartlegging av mål og rekruttering og manipulering av sabotører | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
-| SIK-17.P06 | Importert utstyr kan ha innebygd evne til fjernstyring eller stans (bl.a. rapporter om kommunikasjonsenheter i kinesiske solcelle-invertere) | K0217 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| SIK-17.P06 | Importert utstyr kan ha innebygd evne til fjernstyring eller stans (bl.a. rapporter om kommunikasjonsenheter i kinesiske solcelle-invertere) | K0217, K1216 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-17.P07 | Integritetsangrep på data som KI-systemer bygger på, er vanskeligere å oppdage enn bortfall og kan gi feil beslutninger uten at noen merker det | K0176 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-17.P08 | Autonome KI-systemer kan prøve angrep kontinuerlig og i årevis, slik at angriperens tålmodighet ikke lenger setter en grense | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-17.P09 | Når både angriper og forsvarer automatiserer, blir regnekraft en sikkerhetsressurs | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-17.P10 | Integritetsangrep der data endres litt, kan gi feil beslutninger som ser normale ut | K0176 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-17.P11 | Statlige aktører har rekruttert lavterskel-utøvere via nett til sabotasje i Europa | K0218 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-17.P12 | Kabler og rør under havet har vært skadet i Norden og Østersjøen (2022–2024) | K1148, K1149 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| SIK-17.P13 | NSM og PST forventer at norske virksomheter i 2026 blir utsatt for cyberoperasjoner der KI-verktøy spiller en viktig rolle | K1216 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| SIK-17.P14 | NSM hevet det nasjonale cyberrisikonivået til HØYT i oktober 2026 etter en tredobling av vellykkede cyberoperasjoner | K1201 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| SIK-17.P15 | KI gjør at tiden fra en sårbarhet oppdages til den utnyttes, er vesentlig kortere enn før | K0262, K1201 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-18.P01 | Automatisering svekker operatørenes ferdigheter, samtidig som de forventes å gripe inn når systemet feiler («ironies of automation») | K0253, K0122 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-18.P02 | Komplekse, tett koblede systemer gir ulykker som ikke kan unngås helt («normal accidents») | K0254 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | SIK-18.P03 | Samspill mellom mange KI-agenter kan gi kaskadefeil ingen har forutsett | K0255, K0256 |  |  |  |  |  |  | ikke scoret | 0 | – |

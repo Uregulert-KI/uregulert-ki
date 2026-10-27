@@ -13,7 +13,7 @@ Rekkefølgen i tabellen er rekkefølgen i rapporten. ID-ene sier ingenting om pl
 | Rekkefølge | ID | Tittel | Fil | Status | Påstander |
 |---|---|---|---|---|---|
 | 1 | LIV-01 | Tidlig barndom og foreldreskap | [utkast/LIV-01-tidlig-barndom.md](utkast/LIV-01-tidlig-barndom.md) | kandidat | 21 |
-| 2 | LIV-02 | Barn, skole og læring | [utkast/LIV-02-barn-skole-og-laering.md](utkast/LIV-02-barn-skole-og-laering.md) | stikkord | 23 |
+| 2 | LIV-02 | Barn, skole og læring | [utkast/LIV-02-barn-skole-og-laering.md](utkast/LIV-02-barn-skole-og-laering.md) | stikkord | 27 |
 | 3 | LIV-03 | Kognitiv offloading og kompetanseforvitring | [utkast/LIV-03-kognitiv-offloading.md](utkast/LIV-03-kognitiv-offloading.md) | stikkord | 15 |
 | 4 | LIV-04 | Oppmerksomhet og den utviklende hjernen | [utkast/LIV-04-oppmerksomhet.md](utkast/LIV-04-oppmerksomhet.md) | kandidat | 12 |
 | 5 | LIV-05 | Pubertet, kropp og seksualitet | [utkast/LIV-05-pubertet-kropp-seksualitet.md](utkast/LIV-05-pubertet-kropp-seksualitet.md) | kandidat | 12 |
@@ -21,14 +21,14 @@ Rekkefølgen i tabellen er rekkefølgen i rapporten. ID-ene sier ingenting om pl
 | 7 | LIV-07 | Ensomme og sårbare – KI som venn, kjæreste og samtalepartner | [utkast/LIV-07-ensomme-og-sarbare.md](utkast/LIV-07-ensomme-og-sarbare.md) | stikkord | 25 |
 | 8 | LIV-08 | Psykisk helse | [utkast/LIV-08-psykisk-helse.md](utkast/LIV-08-psykisk-helse.md) | stikkord | 15 |
 | 9 | LIV-09 | Identitet, sorg og minne | [utkast/LIV-09-identitet-sorg-og-minne.md](utkast/LIV-09-identitet-sorg-og-minne.md) | kandidat | 24 |
-| 10 | LIV-10 | Eldre og omsorg | [utkast/LIV-10-eldre-og-omsorg.md](utkast/LIV-10-eldre-og-omsorg.md) | stikkord | 18 |
+| 10 | LIV-10 | Eldre og omsorg | [utkast/LIV-10-eldre-og-omsorg.md](utkast/LIV-10-eldre-og-omsorg.md) | stikkord | 19 |
 | 11 | LIV-11 | Kropp og fysisk helse | [utkast/LIV-11-kropp-og-fysisk-helse.md](utkast/LIV-11-kropp-og-fysisk-helse.md) | kandidat | 16 |
 | 12 | LIV-12 | Funksjonsnedsettelse og nevrodivergens | [utkast/LIV-12-funksjonsnedsettelse.md](utkast/LIV-12-funksjonsnedsettelse.md) | kandidat | 15 |
 | 13 | LIV-13 | Handlingsevne og forvitring av beslutningsevnen | [utkast/LIV-13-handlingsevne.md](utkast/LIV-13-handlingsevne.md) | kandidat | 18 |
 | 14 | LIV-14 | Produktiv motstand og kreativitet | [utkast/LIV-14-produktiv-motstand.md](utkast/LIV-14-produktiv-motstand.md) | kandidat | 11 |
 | 15 | LIV-15 | Generasjoner, tradisjon og moral | [utkast/LIV-15-generasjoner.md](utkast/LIV-15-generasjoner.md) | kandidat | 10 |
 | 16 | LIV-16 | Seksualisert KI-vold og utpressing | [utkast/LIV-16-seksualisert-ki-vold.md](utkast/LIV-16-seksualisert-ki-vold.md) | kandidat | 24 |
-| 17 | LIV-17 | Digital identitet og syntetisk etterligning | [utkast/LIV-17-digital-identitet.md](utkast/LIV-17-digital-identitet.md) | kandidat | 20 |
+| 17 | LIV-17 | Digital identitet og syntetisk etterligning | [utkast/LIV-17-digital-identitet.md](utkast/LIV-17-digital-identitet.md) | kandidat | 22 |
 
 ## Avhengigheter
 

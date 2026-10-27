@@ -56,7 +56,6 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0270 | OKO-19 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
 | K0161 | OKO-19 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
 | K0137 | OKO-19 | Belegg for OKO-19.P02 (KI kommer inn via programvareabonnementer og innkjøp uten at tillitsvalgte involveres) |
-| K0271 | OKO-19 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
 | K0934 | OKO-01 | Belegg for OKO-01.P06 (Opplæring av nyansatte via KI koblet til personalhåndbøker kan gi en illusjon av læring); OKO-01.P07 (Taus kunnskap kan ikke skrives ned fullt ut og læres gjennom deltakelse i fellesskap) |
 | K0935 | OKO-01 | Belegg for OKO-01.P06 (Opplæring av nyansatte via KI koblet til personalhåndbøker kan gi en illusjon av læring); OKO-01.P07 (Taus kunnskap kan ikke skrives ned fullt ut og læres gjennom deltakelse i fellesskap) |
 | K0936 | OKO-01 | Belegg for OKO-01.P08 (Nyansattes tilpasning avhenger av sosial inkludering på arbeidsplassen) |
@@ -247,3 +246,27 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K1195 | OKO-01 | Bakgrunn – Skatteetaten bruker ikke søknadsbrev (graduate) |
 | K1196 | OKO-02 | Belegg – kablene var ventet å øke strømprisene |
 | K1197 | OKO-02 | Belegg – Statnetts anslag for prisvirkningen av kablene |
+| K0307 | OKO-01 | Belegg for OKO-01.P14 (Regjeringen skriver i digitaliseringsstrategien at mange jobber vil bli borte) |
+| K1205 | OKO-01 | Belegg for OKO-01.P13 (SSB anslår automatiseringspotensialet ved generativ KI i Norge til 16,8 prosent av arbeidstiden); OKO-01.P01 (Store deler av arbeidsstyrken har oppgaver som er eksponert for språkmodeller) |
+| K1234 | OKO-01 | Bakgrunn i materialet etter gjennomgang |
+| K0307 | OKO-02 | Belegg for OKO-02.P11 (Regjeringen skriver at maktkonsentrasjon hos få teknologiaktører kan være en trussel for demokrati og samfunn); OKO-02.P03 (Noen få selskaper kontrollerer modeller, regnekraft og sky) |
+| K1227 | OKO-02 | Bakgrunn i materialet etter gjennomgang |
+| K1216 | OKO-02 | Bakgrunn i materialet etter gjennomgang |
+| K1206 | OKO-04 | Belegg for OKO-04.P09 (Kommersielle datasentre i Norge sysselsatte 677 personer i 2024); OKO-04.P10 (Datasentre skaper mindre verdi per MWh enn tradisjonell kraftintensiv industri); OKO-04.P04 (Datasentre gir mange jobber i byggefasen, men få varige jobber i drift) |
+| K1206 | OKO-05 | Belegg for OKO-05.P09 (Datasentrenes andel av strømforbruket økte fra om lag 0,5 prosent i 2022 til rundt 2 prosent i 2025); OKO-05.P02 (Datasentre øker strømforbruket og konkurrerer om kraft og nett) |
+| K1219 | OKO-06 | Belegg for OKO-06.P12 (Regjeringen legger til grunn at reglene om tekst- og datautvinning omfatter trening av KI); OKO-06.P13 (Rettighetshavere må selv reservere seg mot at verkene brukes til KI-trening) |
+| K1211 | OKO-07 | Belegg for OKO-07.P08 (Algoritmisk ledelse kan gi økt arbeidspress og mindre autonomi for ansatte) |
+| K1212 | OKO-07 | Belegg for OKO-07.P08 (Algoritmisk ledelse kan gi økt arbeidspress og mindre autonomi for ansatte) |
+| K1213 | OKO-07 | Bakgrunn i materialet etter gjennomgang |
+| K1232 | OKO-07 | Bakgrunn i materialet etter gjennomgang |
+| K1214 | OKO-07 | Belegg for OKO-07.P10 (Arbeidstilsynet skrev i 2025 at teknologi som bistår arbeidstakeren, er utelukkende positivt, men nyanserte dette i 2026) |
+| K1211 | OKO-12 | Belegg for OKO-12.P10 (Plattformselskapene endret ikke kontraktstypene etter den nye arbeidstakerdefinisjonen i 2024) |
+| K1209 | OKO-13 | Belegg for OKO-13.P08 (I 2024 brukte halvparten av foretakene i Oslo KI, mot 13 prosent i Østfold) |
+| K1210 | OKO-16 | Belegg for OKO-16.P09 (Andelen norske foretak som bruker KI, økte fra 11 prosent i 2021 til nesten 50 prosent i 2026) |
+| K1208 | OKO-16 | Belegg for OKO-16.P10 (77 prosent av foretakene som ikke bruker KI, oppgir at de mangler relevant kompetanse); OKO-16.P02 (Små foretak tar i bruk KI langt sjeldnere enn store, og gapet øker (Sverige 2025: 31 % mot 72 %; Norge 2026: om lag 40 % mot 80 %)) |
+| K1207 | OKO-16 | Belegg for OKO-16.P09 (Andelen norske foretak som bruker KI, økte fra 11 prosent i 2021 til nesten 50 prosent i 2026); OKO-16.P02 (Små foretak tar i bruk KI langt sjeldnere enn store, og gapet øker (Sverige 2025: 31 % mot 72 %; Norge 2026: om lag 40 % mot 80 %)) |
+| K1215 | OKO-18 | Belegg for OKO-18.P04 (Finansiell rådgivning fra KI-chatboter er ikke underlagt kravene til tillatelse, god rådgivning og ansvar som gjelder for menneskelige rådgivere) |
+| K1211 | OKO-19 | Belegg for OKO-19.P08 (Tyske bedriftsråd har lovfestet medbestemmelse over KI og rett til eksperthjelp betalt av arbeidsgiver) |
+| K1213 | OKO-19 | Bakgrunn i materialet etter gjennomgang |
+| K1212 | OKO-19 | Bakgrunn i materialet etter gjennomgang |
+| K1206 | OKO-13 | Belegg for OKO-13.P06 (Datasentre gir få faste lokale jobber sammenlignet med byggefasen) |

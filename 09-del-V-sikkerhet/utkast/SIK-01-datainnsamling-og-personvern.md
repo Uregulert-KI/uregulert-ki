@@ -4,12 +4,12 @@ tittel: Datainnsamling og personvern
 del: Del V – Sikkerhet og beredskap
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-23
+sist_endret: 2026-10-27
 ---
 
 # SIK-01 Datainnsamling og personvern
 
-> Påstander: SIK-01.P01–SIK-01.P14 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: SIK-01.P01–SIK-01.P15 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -76,6 +76,13 @@ sist_endret: 2026-10-23
 - Meta begynte i mai 2025 å trene på offentlige innlegg fra Facebook og Instagram. Datatilsynet mente samtykke var mer naturlig enn reservasjon, fikk en strøm av henvendelser, og mange kom ikke gjennom til protestskjemaene [K1093] [K0175].
 - **Bare eget innhold:** du kunne protestere på det du selv har lagt ut, ikke på bilder andre har lagt ut av deg.
 - Forbrukerrådet klaget inn Meta sammen med noyb [K1094]. Endelig vedtak er ikke funnet (sjekk).
+
+- **Regjeringen innrømmer presset:** strategien gjengir Personvernkommisjonen: «Det er en gjennomgående tendens til at digitaliseringen av samfunnet skjer på bekostning av personvernet» [K0307].
+- **Summen av små inngrep:** «Selv om personvernbelastningen ved et enkelt tiltak anses som liten, kan summen av tiltak innebære et stort inngrep i privatlivet» [K0307] ([[SIK-04]]).
+- **Data om borgerne til trening:** strategien vil utrede bruk av offentlige data og Lovdata til trening av språkmodeller, gjøre helsedata lettere tilgjengelig og nevner gjenbruk av personopplysninger til «trening av algoritmer for KI» som en utfordring for personvernet [K0307].
+- **Verdikonflikten i regjeringens egne ord:** handlingsrommet i personvernforordningen skal brukes slik at det «ikke virker unødvendig hemmende for innovasjon, næringsutvikling og effektivisering av offentlig sektor» [K0307].
+- **Sosiale medier trener på brukerne:** i 2025 begynte Facebook, Instagram og LinkedIn å trene KI-assistentene sine på brukernes innhold [K1218].
+- **Varslet i 2019:** Forbrukerrådet advarte mot et «kappløp mot bunnen» der aktørene samler inn mest mulig data for å få konkurransefortrinn [K1227].
 
 ### F Reguleringshull
 

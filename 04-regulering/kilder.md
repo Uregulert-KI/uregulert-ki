@@ -127,3 +127,17 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0635 | REG-04 | Belegg for REG-04.P07 (DSA gir forskere datatilgang bare hos svært store plattformer) |
 | K0484 | REG-04 | Bakgrunn i materialet etter gjennomgang |
 | K0634 | REG-04 | Bakgrunn i materialet etter gjennomgang |
+| K1202 | REG-02 | Belegg for REG-02.P21 (Retningslinjer Norge har sluttet seg til, sier at virksomheten først må være sikker på at KI er den beste løsningen på oppgaven) |
+| K1211 | REG-02 | Bakgrunn i materialet etter gjennomgang |
+| K1224 | REG-02 | Belegg for REG-02.P23 (EMD har uttalt at en stat som er pioner i ny teknologi, har et særlig ansvar for å finne riktig balanse) |
+| K1216 | REG-02 | Belegg for REG-02.P22 (NSM fikk i de fleste inntrengingstestene i statlige kontorsystemer i 2025 full kontroll over informasjonssystemet) |
+| K1225 | REG-02 | Belegg for REG-02.P24 (I 2019 ba Datatilsynet om hjemmel til å ta beslag eller kopi av KI-systemer ved tilsyn) |
+| K1238 | REG-02 | Bakgrunn i materialet etter gjennomgang |
+| K1227 | REG-02 | Bakgrunn i materialet etter gjennomgang |
+| K1233 | REG-02 | Bakgrunn i materialet etter gjennomgang |
+| K1231 | REG-02 | Bakgrunn i materialet etter gjennomgang |
+| K1228 | REG-02 | Bakgrunn i materialet etter gjennomgang |
+| K1218 | REG-02 | Belegg for REG-02.P25 (Klagene til Datatilsynet fra privatpersoner økte med 105 prosent fra 2024 til 2025); REG-02.P01 (Tilsynene mangler kompetanse og ressurser til å håndheve KI-regelverket) |
+| K1202 | REG-04 | Bakgrunn i materialet etter gjennomgang |
+| K1219 | REG-04 | Belegg for REG-04.P08 (Robots.txt hindrer ikke teknisk at verk høstes til KI-trening) |
+| K1219 | REG-01 | Bakgrunn i materialet etter gjennomgang |

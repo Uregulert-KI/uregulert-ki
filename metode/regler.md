@@ -83,6 +83,7 @@ Alle sentrale påstander registreres i mappens `pastander.md` og scores etter `m
 
 ## 6 Ekspertuttalelser
 
+- Gjelder uttalelser gitt direkte til prosjektet. Publiserte uttalelser i media eller rapporter er kilder og føres i kilderegisteret som vanlig (2026-10-27).
 - Uttalelser føres i `uttalelser.md` i mappen der de brukes, med U-ID og kontaktens X-ID.
 - **Ingen uttalelse brukes i rapporten før samtykke og sitatsjekk er registrert som godkjent.**
 - Bare godkjent ordlyd brukes.

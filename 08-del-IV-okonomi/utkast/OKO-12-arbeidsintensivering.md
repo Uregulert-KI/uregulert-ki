@@ -4,12 +4,12 @@ tittel: Arbeidsintensivering
 del: Del IV – Økonomi, arbeid og solidaritet
 status: kandidat
 risikotype: ikke vurdert
-sist_endret: 2026-10-22
+sist_endret: 2026-10-27
 ---
 
 # OKO-12 Arbeidsintensivering
 
-> Påstander: OKO-12.P01–OKO-12.P09 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
+> Påstander: OKO-12.P01–OKO-12.P10 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
 ## Fenomen
 
@@ -82,6 +82,8 @@ sist_endret: 2026-10-22
 ### G Plattformarbeid og algoritmisk styring
 
 - Arbeid fordeles av algoritmer, og stillinger brytes opp i oppdrag. EUs plattformdirektiv har regler for algoritmisk styring [K0948] (sjekk for Norge). Overvåkingen står i [[OKO-07]].
+
+- **Norske saker:** Foodora-budene streiket fram tariffavtale i 2019. I februar 2026 tapte Wolt-budene i Borgarting lagmannsrett i saken om fast ansettelse. Plattformene endret ikke kontraktstypene etter den nye arbeidstakerdefinisjonen i arbeidsmiljøloven § 1-8 (2024), men tilpasset seg for ikke å bli regnet som arbeidsgivere [K1211].
 
 ### H Heltidskulturen
 
