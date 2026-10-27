@@ -31,7 +31,7 @@ sist_endret: 2026-10-18
 - **Bærebjelkene er nå og nær.** Fjern får korte, tydelig merkede avsnitt og bærer aldri et hovedargument alene.
 - **Utsyn:** det som er fjernt, samles i et kort eget kapittel, [[TVG-10]] «Utsyn – mulige farer framover» – så det verken blir borte eller tar over.
 - **Anbefalingene** ([[ANB-01]]) rettes mot nå og nær. For fjern brukes betinget form: «dersom dette skjer, anbefaler organ X …» (som i [[SIK-08]]).
-- **Ikke det samme som A i scoringen:** A (aktualitet) måler hvor fersk og sjekket kilden er – horisonten måler hvor nær faren er. De holdes adskilt.
+- **Ikke det samme som A i scoringen:** A (aktualitet) måler om kunnskapen fortsatt er gyldig – horisonten måler hvor nær faren er. De holdes adskilt.
 
 ### Tre gjennomgående forbehold
 

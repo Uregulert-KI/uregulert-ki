@@ -15,7 +15,7 @@ Rapporten spenner fra barnehage og psykisk helse til forvaltningsrett, kraftsyst
 
 ## Slik gjør du det
 
-1. **Avtal tema med forfatteren.** Finn temaet (eller undertemaet) i `PLAN.md` i delen, og avtal med forfatteren at du tar det. Temaet merkes som tatt i en issue med bare tema-ID og fagområde, **aldri navn**, så ikke flere kontakter de samme folkene.
+1. **Avtal tema med forfatteren.** Finn temaet (eller undertemaet) i `PLAN.md` i delen, og avtal med forfatteren at du tar det. Temaet merkes som tatt i [fordelingslisten](fordeling.md) med ditt kallenavn, **aldri navn på fagfolk**, så ikke flere kontakter de samme folkene.
 2. **Last ned malen og lagre den lokalt:** [`mal-fagfolk-kartlegging.csv`](mal-fagfolk-kartlegging.csv). Den kan åpnes i Excel, LibreOffice eller Google Regneark. Se personvernreglene under.
 3. **Fyll inn** én rad per fagperson:
 

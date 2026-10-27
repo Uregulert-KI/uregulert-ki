@@ -45,7 +45,7 @@ KI endrer seg raskere enn noe annet rapporten omtaler. Denne lista samler alt so
 ## 2 Generelt
 
 - [ ] Alle kilder i `99-kilder/kilderegister.md` har status `ikke verifisert` og må verifiseres.
-- [ ] Alle påstander som skal stå i rapporten, har A-score sjekket de siste 12 månedene (se `scoring.md`).
+- [ ] Alle påstander som skal stå i rapporten, er sjekket de siste 12 månedene («Sist sjekket» i `pastander.md`), og A-scoren er vurdert på nytt (se `scoring.md`).
 - [ ] README-statustabellen er oppdatert.
 
 ## 3 Fra disposisjonens 13.3

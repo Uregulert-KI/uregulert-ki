@@ -2,7 +2,7 @@
 
 **Mål:** teste påstandene mot de beste innvendingene, slik at det som står igjen, tåler kritikk.
 
-Denne delen av dugnaden kommer **sist**, etter at kildene er sjekket og påstandene er scoret. Da vet vi hvilke påstander rapporten faktisk bygger på, og det er dem som skal utfordres.
+I første runde gjøres motevidens **tema for tema**, parallelt med kilde- og påstandssjekken. Prioriter påstandene temaet bygger mest på, for det er dem som skal utfordres. Se hvilke temaer som er ledige i [fordelingslisten](fordeling.md).
 
 ## Hva du kan bidra med
 

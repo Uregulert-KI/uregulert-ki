@@ -1,6 +1,6 @@
-1# Scoringssystem for påstander
+# Scoringssystem for påstander
 
-Versjon 1.1 · innført 2026-10-12 (E008), kriterierekkefølge endret 2026-10-13 (E010). Terskler og vekting kan justeres her. Endringer i systemet logges ikke i innfasingsperioden (se `regler.md` §9).
+Versjon 1.2 · innført 2026-10-12 (E008), kriterierekkefølge endret 2026-10-13 (E010), A (aktualitet) omdefinert til gyldighet 2026-10-27. Terskler og vekting kan justeres her. Endringer i systemet logges ikke i innfasingsperioden (se `regler.md` §9).
 
 ## Kriterier (ENUVA)
 
@@ -12,7 +12,9 @@ Hver påstand scores på fem kriterier, 0–3 poeng hver. Kriteriene står i rek
 | N | Norsk relevans | Ingen | Indirekte/overførbar | Norsk kontekst omtalt | Norske data, saker eller institusjoner |
 | U | Uavhengige kilder | 0 | 1 | 2 | 3 eller flere |
 | V | Verdikobling | Ingen | Svak | Tydelig kobling til én verdi i [[INN-03]] | Sentral for en verdi i [[INN-03]] |
-| A | Aktualitet | Utdatert eller uverifisert | Eldre enn 3 år, ikke sjekket | Sjekket siste 12 mnd | Sjekket siste 3 mnd og stabil |
+| A | Aktualitet | Utdatert eller uverifisert: motbevist eller erstattet av nyere forskning, loven er endret, eller kilden er ikke sjekket | Usikker gyldighet: feltet har endret seg mye siden (f.eks. studier av eldre KI-modeller, lovforslag under behandling), eller nyere forskning trekker i ulike retninger | Gyldig: ingen kjent nyere forskning eller endring sier noe annet, uansett hvor gammel kilden er | Gyldig og fersk, eller bekreftet: kilden gjelder dagens situasjon (gjeldende lov, siste tall, nyere studier av dagens teknologi), eller nyere forskning bekrefter funnet |
+
+**A måler om kunnskapen fortsatt er gyldig, ikke når den sist ble sjekket.** Når påstanden sist ble sjekket, står i «Sist sjekket» og følges opp i dateringslisten. A teller heller ikke kilder (det gjør U): bekreftelse fra nyere forskning kan føres i kommentaren uten å bli en egen kilde. Eksempler: et klassisk funn som er gjentatt i mange senere studier, får 3; en eldre studie uten kjent oppfølging får 2; en studie fra 2023 av en KI-modell som er erstattet, får 1; et lovforslag som er trukket, får 0.
 
 ## Regler
 

@@ -8,7 +8,9 @@ Rapporten samler farene ved uregulert KI for Norge. Den har over tusen påstande
 2. **[Bredde](../dugnad/2-bredde.md)**: kilder, norske eksempler og argumenter som gjør evidensbanken større og sterkere.
 3. **[Fagfolk](../dugnad/3-fagfolk.md)**: ta ansvar for et tema, kartlegge fagfolk, sende ut følere og følge opp uttalelser og fagfellevurderinger, etter en mal som lagres lokalt.
 4. **[Kilde- og påstandssjekk](../dugnad/4-kilde-og-pastandssjekk.md)**: verifisere kilder, vurdere påstander og sjekke dateringslista.
-5. **[Motevidens](../dugnad/5-motevidens.md)**: etter scoringen. Forskning og argumenter som trekker i motsatt retning.
+5. **[Motevidens](../dugnad/5-motevidens.md)**: forskning og argumenter som trekker i motsatt retning.
+
+Hvordan dugnaden er organisert akkurat nå, og hvilke oppgaver som er i gang, står i [dugnad/README.md](../dugnad/README.md).
 
 Reglene under gjelder for alle oppgavene.
 

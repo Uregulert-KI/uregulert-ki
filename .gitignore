@@ -8,6 +8,7 @@ fagfolk-kartlegging*
 !00-styring/maler/
 00-styring/verktoy/temadata/
 00-styring/verktoy/eksistenssjekk/
+node_modules/
 
 # Agentinstrukser
 .claude/

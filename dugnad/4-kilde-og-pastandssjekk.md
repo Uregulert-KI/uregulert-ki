@@ -17,6 +17,12 @@ En påstand kan ha riktig kilde og likevel si mer enn kilden gjør. Det er ofte 
 
 *Usikker på om du har det som trengs, men vil gjerne bidra? Ta kontakt (se [README](../README.md#forfatter-og-kontakt)). Vi finner en oppgave som passer, eller går gjennom de første kildene sammen.*
 
+## Enklest: ta en sjekkpakke
+
+Hvert tema har en ferdig **sjekkpakke**: et regneark med alle påstandene i temaet, kildene deres med lenke og det rapporten sier. Du fyller inn status på kilden, scoring og kommentarer, og sender arket tilbake. Se hvilke temaer som er ledige i [fordelingslisten](fordeling.md). Veiledningen står i arket «Les meg».
+
+Resten av denne siden forklarer hva sjekken går ut på, og hvordan du gjør det direkte i registrene hvis du er vant til GitHub.
+
 ## Hva du kan bidra med
 
 | Del | Hva det er | Hvor | Passer for |
@@ -47,7 +53,7 @@ En påstand kan ha riktig kilde og likevel si mer enn kilden gjør. Det er ofte 
 
 ## Slik sender du inn
 
-Som en pull request med endringene i registeret, eller som en issue her på GitHub. Forslag til endringer i selve temateksten sendes som issue. Forfatteren vurderer og legger inn.
+En utfylt sjekkpakke sendes på e-post til forfatteren eller legges ved en pull request. Endringer direkte i registeret sendes som pull request eller som en issue her på GitHub. Forslag til endringer i selve temateksten sendes som issue. Forfatteren vurderer og legger inn.
 
 ## Føringer
 

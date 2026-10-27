@@ -1,0 +1,9 @@
+{
+  "name": "uregulert-ki-verktoy",
+  "private": true,
+  "description": "Verktøy for registrene og dugnaden i Uregulert KI",
+  "license": "MIT",
+  "dependencies": {
+    "exceljs": "4.4.0"
+  }
+}

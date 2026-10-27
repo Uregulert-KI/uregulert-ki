@@ -58,7 +58,7 @@ Dugnaden har fem oppgaver, omtrent i den rekkefølgen de trengs:
 2. **[Bredde](dugnad/2-bredde.md).** Legg inn kilder, norske eksempler og argumenter som gjør evidensbanken større, sterkere og vanskeligere å avfeie.
 3. **[Fagfolk](dugnad/3-fagfolk.md).** Ta ansvar for et tema: kartlegg fagfolk på tvers av disipliner, send ut følere og følg opp til du har en uttalelse eller fagfellevurdering. Oppgaven innebærer personopplysninger og avtales med forfatteren først.
 4. **[Kilde- og påstandssjekk](dugnad/4-kilde-og-pastandssjekk.md).** Sjekk at kildene finnes, at opplysningene om dem er riktige, og at de faktisk sier det påstandene hevder.
-5. **[Motevidens](dugnad/5-motevidens.md).** Etter scoringen: finn forskning og argumenter som trekker i motsatt retning, slik at det som står igjen, tåler kritikk.
+5. **[Motevidens](dugnad/5-motevidens.md).** Finn forskning og argumenter som trekker i motsatt retning, slik at det som står igjen, tåler kritikk.
 
 Hver lenke har detaljer og føringer for oppgaven. Reglene som gjelder for alle oppgavene, står i [dugnadsveiledningen](metode/dugnad-veiledning.md). Du trenger ikke ta mye: ett tema har typisk 15–20 kilder, og mange små bidrag er like verdifulle som noen få store.
 
