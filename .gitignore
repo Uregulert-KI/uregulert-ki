@@ -27,3 +27,6 @@ desktop.ini
 
 # Lokale lesekopier (opphavsrettsbeskyttede PDF-er)
 Lesestoff/
+
+# Låsefiler fra regnearkprogrammer (LibreOffice o.l.)
+.~lock.*#

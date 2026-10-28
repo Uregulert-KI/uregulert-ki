@@ -38,7 +38,7 @@ Resten av denne siden forklarer hva sjekken går ut på, og hvordan du gjør det
 1. Finn kilden i kilderegisteret (K-ID, f.eks. `K0123`). «Brukt i» viser hvilke temaer som bruker den.
 2. Finn originalen. Primærkilden går foran omtaler av den.
 3. Les det som er relevant, og sammenlign med påstanden(e) som bruker kilden.
-4. Fyll inn: eksakt tittel (fjern [klammer]), forfattere, år, utgiver, DOI/URL, fagfellevurdert (`ja` / `nei` / `preprint`) og «Dato lest».
+4. Fyll inn: eksakt tittel (fjern [klammer]), forfattere, år, utgiver, DOI/URL, fagfellevurdert (`ja` / `nei` / `preprint`, tomt hvis det ikke er relevant, for eksempel for lov, dom eller nyhet) og «Dato lest».
 5. Sett **Status** (definisjonene står øverst i kilderegisteret): `verifisert` · `delvis` · `sekundær` · `ikke funnet` · `feil`
 6. Er status `verifisert` eller `delvis`: oppgi hvor i kilden det står. Side (rapport, bok, artikkel), § og ledd (lov), artikkel og nummer (EU-rett), avsnitt (dom) eller overskrift (nettside).
 7. Skriv i «Merknad» hvis noe avviker, ligger bak betalingsmur eller er uventet.

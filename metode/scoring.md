@@ -1,6 +1,6 @@
 # Scoringssystem for påstander
 
-Versjon 1.2 · innført 2026-10-12 (E008), kriterierekkefølge endret 2026-10-13 (E010), A (aktualitet) omdefinert til gyldighet 2026-10-27. Terskler og vekting kan justeres her. Endringer i systemet logges ikke i innfasingsperioden (se `regler.md` §9).
+Versjon 1.3 · innført 2026-10-12 (E008), kriterierekkefølge endret 2026-10-13 (E010), A (aktualitet) omdefinert til gyldighet 2026-10-27, dokumenterte hendelser og N i sammenhengen 2026-10-28. Terskler og vekting kan justeres her. Endringer i systemet logges ikke i innfasingsperioden (se `regler.md` §9).
 
 ## Kriterier (ENUVA)
 
@@ -15,6 +15,10 @@ Hver påstand scores på fem kriterier, 0–3 poeng hver. Kriteriene står i rek
 | A | Aktualitet | Utdatert eller uverifisert: motbevist eller erstattet av nyere forskning, loven er endret, eller kilden er ikke sjekket | Usikker gyldighet: feltet har endret seg mye siden (f.eks. studier av eldre KI-modeller, lovforslag under behandling), eller nyere forskning trekker i ulike retninger | Gyldig: ingen kjent nyere forskning eller endring sier noe annet, uansett hvor gammel kilden er | Gyldig og fersk, eller bekreftet: kilden gjelder dagens situasjon (gjeldende lov, siste tall, nyere studier av dagens teknologi), eller nyere forskning bekrefter funnet |
 
 **A måler om kunnskapen fortsatt er gyldig, ikke når den sist ble sjekket.** Når påstanden sist ble sjekket, står i «Sist sjekket» og følges opp i dateringslisten. A teller heller ikke kilder (det gjør U): bekreftelse fra nyere forskning kan føres i kommentaren uten å bli en egen kilde. Eksempler: et klassisk funn som er gjentatt i mange senere studier, får 3; en eldre studie uten kjent oppfølging får 2; en studie fra 2023 av en KI-modell som er erstattet, får 1; et lovforslag som er trukket, får 0.
+
+**Dokumenterte hendelser.** Når påstanden bare slår fast at noe har skjedd eller er sagt, og primærdokumentet er verifisert, gir det E = 3 og U = 3. Andre kilder ville bare gjengitt dokumentet. Eksempler: et søksmål er anlagt, en lov er vedtatt, en rapport er publisert, en myndighet har uttalt noe. Primærdokumentet kan være et rettsdokument, en lovtekst, et vedtak eller utgiverens egen publikasjon. Unntaket gjelder ikke påstander om utfall, årsaker, virkninger eller om det dokumentet hevder er sant. «NYT saksøkte OpenAI» er omfattet. «OpenAI har brutt opphavsretten» er ikke omfattet.
+
+**N vurderes i sammenhengen.** Norsk relevans vurderes ut fra hvordan påstanden brukes i temaet, ikke bare ut fra ordlyden. En utenlandsk sak som temaet knytter til en norsk sak, lov eller institusjon, gir 2.
 
 ## Regler
 

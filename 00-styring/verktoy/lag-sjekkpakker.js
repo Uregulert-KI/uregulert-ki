@@ -124,6 +124,7 @@ function lesMeg(ws, t) {
   rad('2', 'Åpne lenken og finn originalen. Primærkilden går foran omtaler av den. Mangler lenken, eller peker den feil, så søk opp kilden og lim inn riktig lenke.');
   rad('3', 'Les det som er relevant, og sammenlign med «Rapporten sier». Sett «Status», og skriv i «Avvik» hvis noe avviker, ligger bak betalingsmur eller er uventet.');
   rad('', 'Er status «verifisert» eller «delvis», skriv i «Hvor i kilden» hvor det står: side (rapport, bok, artikkel), § og ledd (lov), artikkel og nummer (EU-rett), avsnitt (dom) eller overskrift (nettside). Da kan neste person slå rett opp.');
+  rad('', '«Fagfellevurdert»: ja, nei eller preprint. La den stå tom hvis det ikke er relevant, for eksempel for lov, dom, rettsdokument, offentlig dokument eller nyhet.');
   rad('4', 'Scor påstanden på E, N, U, V og A (0–3) hvis du føler deg trygg. Du kan la scoren stå tom og bare sjekke kilden.');
   rad('5', 'Skriv nyanser, innvendinger eller bedre formuleringer i «Kommentar». Det er like verdifullt som scoren.');
   rad('6', `Lagre fila og send den til ${KONTAKT}, eller legg den ved en pull request. Gi beskjed hvis du ikke blir ferdig, så pakken kan gå videre.`);
