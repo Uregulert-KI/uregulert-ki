@@ -1,6 +1,6 @@
 # Ordliste
 
-Regel: norsk der det finnes en god norsk term, engelsk der det ikke finnes en god oversettelse – i tråd med gjeldende akademisk praksis. Engelske termer kursiveres første gang de brukes i hvert kapittel. Termene under er hentet fra disposisjonen. Der disposisjonen bruker flere varianter, er valget merket «avklares».
+Regel: norsk der det finnes en god norsk term, engelsk der det ikke finnes en god oversettelse – i tråd med gjeldende akademisk praksis. Engelske termer kursiveres første gang de brukes i hvert kapittel. Der rapporten bruker flere varianter, er valget merket «avklares».
 
 | Norsk term | Engelsk term | Brukes | Kort definisjon |
 |---|---|---|---|
@@ -10,7 +10,7 @@ Regel: norsk der det finnes en god norsk term, engelsk der det ikke finnes en go
 | språkmodell | large language model (LLM) | språkmodell; LLM som forkortelse | Modell trent på store tekstmengder for å forstå og generere språk. |
 | flaggskipmodell | frontier/flagship model | flaggskipmodell | De mest avanserte kommersielle modellene fra de største leverandørene. |
 | KI-agent | AI agent | KI-agent | System som handler på vegne av brukeren, f.eks. med tilgang til e-post, dokumenter og systemer. |
-| KI-forordningen | AI Act | avklares – disposisjonen bruker begge | Forordning (EU) 2024/1689 om kunstig intelligens. |
+| KI-forordningen | AI Act | avklares – begge brukes | Forordning (EU) 2024/1689 om kunstig intelligens. |
 | personvernforordningen | GDPR | GDPR | EUs personvernforordning, gjennomført i personopplysningsloven. |
 | smiger | sycophancy | smiger (*sycophancy*) | Modellens tendens til å gi brukeren rett og bekrefte i stedet for å korrigere. |
 | engasjementsoptimalisering | engagement optimisation | engasjementsoptimalisering | Design som maksimerer tid og bruk, ofte på bekostning av brukerens interesser. |
@@ -37,7 +37,7 @@ Regel: norsk der det finnes en god norsk term, engelsk der det ikke finnes en go
 | ansvarspulverisering | diffusion of responsibility | ansvarspulverisering | Ingen har ansvaret når mange er involvert. |
 | automasjonsbias | automation bias | automasjonsbias | Tendensen til å stole for mye på automatiserte systemer. |
 | menneske i løkken | human in the loop | «human in the loop» – avklares | Krav om at et menneske godkjenner eller overvåker systemets beslutninger. |
-| kognitiv avlastning | cognitive offloading | avklares – disposisjonen bruker både «kognitiv offloading» ([[LIV-03]]) og «kognitiv avlastning» ([[TVG-04]]) | Å overlate tankearbeid til et eksternt hjelpemiddel. |
+| kognitiv avlastning | cognitive offloading | avklares – rapporten bruker både «kognitiv offloading» ([[LIV-03]]) og «kognitiv avlastning» ([[TVG-04]]) | Å overlate tankearbeid til et eksternt hjelpemiddel. |
 | kompetanseforvitring | deskilling | kompetanseforvitring | Tap av ferdigheter som ikke lenger brukes. |
 | hallusinasjon | hallucination | hallusinasjon | Når modellen produserer overbevisende, men feilaktig innhold. |
 | stedfortredervariabel | proxy variable | stedfortredervariabel | Variabel (f.eks. postnummer, navn) som indirekte representerer en beskyttet egenskap. |

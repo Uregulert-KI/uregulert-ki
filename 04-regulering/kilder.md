@@ -7,21 +7,21 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K-ID | Tema-ID | Brukes til |
 |---|---|---|
 | K0002 | REG-01 | Belegg for REG-01.P01 (GDPR art. 22 regulerer automatiserte avgjørelser) |
-| K0005 | REG-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0005 | REG-01 | Bakgrunn – bruken avklares ved lesing |
 | K0001 | REG-01 | Belegg for REG-01.P02 (AI Act er risikobasert: forbudte praksiser, høyrisiko, åpenhetskrav og regler for grunnmodeller) |
 | K0014 | REG-01 | Belegg for REG-01.P03 (Nkom er pekt ut som tilsynsmyndighet for KI i Norge) |
-| K0015 | REG-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0010 | REG-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0004 | REG-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0016 | REG-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0017 | REG-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0018 | REG-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0015 | REG-01 | Bakgrunn – bruken avklares ved lesing |
+| K0010 | REG-01 | Bakgrunn – bruken avklares ved lesing |
+| K0004 | REG-01 | Bakgrunn – bruken avklares ved lesing |
+| K0016 | REG-01 | Bakgrunn – bruken avklares ved lesing |
+| K0017 | REG-01 | Bakgrunn – bruken avklares ved lesing |
+| K0018 | REG-01 | Bakgrunn – bruken avklares ved lesing |
 | K0019 | REG-01 | Belegg for REG-01.P04 (Norge har signert Europarådets rammekonvensjon om KI) |
-| K0020 | REG-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0021 | REG-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0022 | REG-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0023 | REG-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0024 | REG-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0020 | REG-01 | Bakgrunn – bruken avklares ved lesing |
+| K0021 | REG-01 | Bakgrunn – bruken avklares ved lesing |
+| K0022 | REG-01 | Bakgrunn – bruken avklares ved lesing |
+| K0023 | REG-01 | Bakgrunn – bruken avklares ved lesing |
+| K0024 | REG-01 | Bakgrunn – bruken avklares ved lesing |
 | K0025 | REG-02 | Belegg for REG-02.P02 (EUs forslag til KI-ansvarsdirektiv ble trukket; det finnes ingen klar produktansvarsregel for KI) |
 | K0228 | REG-03 | Belegg for REG-03.P01 (KI-detektorer slår feil ut mot dem som ikke skriver på morsmålet) |
 | K0231 | REG-03 | Belegg for REG-03.P03 (Klientsideskanning av privat kommunikasjon («chat control») griper inn i personvern og ytringsfrihet) |

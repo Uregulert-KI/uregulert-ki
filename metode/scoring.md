@@ -51,7 +51,7 @@ Hver påstand scores på fem kriterier, 0–3 poeng hver. Kriteriene står i rek
 
 ## Kobling til evidensgraderingen i teksten (veiledende)
 
-Disposisjonens minstestandard krever at evidensstyrke merkes i teksten som *sterk*, *moderat* eller *svak/tidlig*. Veiledende kobling: E = 3 → sterk, E = 2 → moderat, E = 1 → svak/tidlig. Skalaen forklares i [[INN-04]].
+Minstestandarden er at evidensstyrke merkes i teksten som *sterk*, *moderat* eller *svak/tidlig*. Veiledende kobling: E = 3 → sterk, E = 2 → moderat, E = 1 → svak/tidlig. Skalaen forklares i [[INN-04]].
 
 ## Fremgangsmåte
 

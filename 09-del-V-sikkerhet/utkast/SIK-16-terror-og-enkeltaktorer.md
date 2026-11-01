@@ -46,7 +46,7 @@ sist_endret: 2026-10-24
 *Utvidet 2026-10-24 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
 
 - **Kjerne:** to veier til lavere terskel – teknisk hjelp og bekreftelse. Evidensen tyder så langt på at den tekniske hjelpen er begrenset, men økende, og at bekreftelsen er det farligste for enkeltaktører.
-- **Avgrensning:** radikalisering, lekkasje og varsling i [[SIK-10]]; biologiske og kjemiske våpen og katastrofal risiko i [[SIK-08]]; statlige aktører og hybride angrep i [[SIK-17]]; åpne modeller i [[SIK-19]]. *Skrives overordnet, uten framgangsmåter. Saken omtales som «22. juli» og «gjerningspersonen», i tråd med norsk praksis.*
+- **Avgrensning:** radikalisering, lekkasje og varsling i [[SIK-10]]; biologiske og kjemiske våpen og katastrofal risiko i [[SIK-08]]; statlige aktører og hybride angrep i [[SIK-17]]; åpne modeller i [[SIK-19]]. *Omtales overordnet, uten framgangsmåter. Saken omtales som «22. juli» og «gjerningspersonen», i tråd med norsk praksis.*
 
 ### A Enkeltaktøren – 22. juli som referansepunkt
 

@@ -79,8 +79,3 @@ Menneskeverd og likeverd, barns beste, personvern og likestilling går igjen gje
 
 Del I er ikke et argument mot teknologien. Gjennom hele delen finnes eksempler på KI som hjelper: regulert digital terapi, hjelpemidler som gir blinde og døve mer frihet, fallalarmer, opptak av besteforeldres fortellinger. Skillet går mellom KI som verktøy mennesket selv velger og styrer, og KI som erstatter mennesket uten at noen har valgt det.
 
-## Til senere
-
-- Teksten må kortes og skrives som rapportprosa når temaene er ferdige.
-- Vurder om mekanismene skal nummereres og brukes som henvisninger i temaene («se mekanisme 6 i innledningen»).
-- Sjekk mot [[TVG-03]] (mønstre som går igjen) og [[RAM-01]] (risikotyper), så innledningen ikke dobler dem.

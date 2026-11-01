@@ -6,7 +6,7 @@ Mappe: `06-del-II-demokrati/` · Prefiks: `DEM` · Sist endret: 2026-10-13
 
 Delens poeng: demokratiet forutsetter en felles virkelighet og tillit til informasjon. KI gjør manipulasjon billig, skalerbar og personlig, og undergraver økonomien bak kvalitetsinformasjon.
 
-**Tverrgående tråd:** «Generativ virkelighet på forespørsel» ([[TVG-01]]) stod under Del II i disposisjonen, men ligger nå i `10-tverrgaende/` fordi den spenner over [[DEM-01]], [[DEM-02]] og [[DEM-03]] og kobles til [[TVG-04]]. Kan bli en av rapportens bærende tanker.
+**Tverrgående tråd:** «Generativ virkelighet på forespørsel» ([[TVG-01]]) ligger i `10-tverrgaende/` fordi den spenner over [[DEM-01]], [[DEM-02]] og [[DEM-03]] og kobles til [[TVG-04]].
 
 ## Underkapitler og status
 

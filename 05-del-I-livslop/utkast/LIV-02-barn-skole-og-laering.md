@@ -45,7 +45,7 @@ sist_endret: 2026-10-27
 
 *Utvidet 2026-10-13 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
 
-- **Kjerne:** Kompetanse, kvalitet og integritet faller når teknologibruken øker. Det må knyttes til den forskningen som allerede finnes om teknologi i skolen. KI brukt riktig kan være fantastisk, men det er for lett å lure seg selv til å tro at man lærer når KI-en gir en svaret. Passiv læring er dårlig læring.
+- **Kjerne:** Kompetanse, kvalitet og integritet faller når teknologibruken øker. Det henger sammen med forskningen som allerede finnes om teknologi i skolen. KI brukt riktig kan være fantastisk, men det er for lett å lure seg selv til å tro at man lærer når KI-en gir en svaret. Passiv læring er dårlig læring.
 - **Skoleeksempelet:** Bastani mfl. (2025) [K0029]: elever med fri tilgang til GPT-4 gjorde det bedre på øvingsoppgavene, men dårligere på prøven etterpå. Med en versjon som hadde innebygde sperrer og veiledet i stedet for å gi svaret, forsvant det meste av skaden.
 - **De to bærende avsnittene** er B (KI har ingen fasit) og C (læringsillusjonen). Sammen forklarer de *hvorfor* læringen svekkes, ikke bare *at* den gjør det.
 

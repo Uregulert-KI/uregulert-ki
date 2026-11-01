@@ -131,4 +131,3 @@ sist_endret: 2026-10-27
 
 - **Angrep på kritisk infrastruktur og driftssystemer:** demningen i Bremanger (2025) – angripere åpnet en ventil; PST har knyttet hendelsen til prorussiske aktører [K0068] [K1216]. Ikke et KI-angrep, men viser sårbar driftsteknologi; KI senker terskelen.
 
-*Merknad ved oppsett (2026-10-13):* Sabotasje i bredere forstand – hybride angrep, innebygd sabotasjeevne og integritetsangrep – behandles i [[SIK-17]]. Her: det konkrete infrastruktureksempelet.

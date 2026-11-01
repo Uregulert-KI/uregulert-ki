@@ -6,7 +6,7 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 
 | K-ID | Tema-ID | Brukes til |
 |---|---|---|
-| K0026 | LIV-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0026 | LIV-01 | Bakgrunn – bruken avklares ved lesing |
 | K0027 | LIV-01 | Belegg for LIV-01.P01 (Mer hud-mot-hud-kontakt hos for tidlig fødte gir bedre nevroutvikling ved 1 år; små økninger ga store utslag) |
 | K0028 | LIV-01 | Belegg for LIV-01.P02 (Kenguruomsorg har positive effekter for for tidlig fødte) |
 | K0029 | LIV-02 | Belegg for LIV-02.P01 (Generativ KI uten sikringer kan skade læring) |
@@ -14,7 +14,7 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0031 | LIV-02 | Belegg for LIV-02.P04 (Digitalisering i skolen (før genAI) har påvirket læringsresultater) |
 | K0032 | LIV-02 | Belegg for LIV-02.P04 (Digitalisering i skolen (før genAI) har påvirket læringsresultater) |
 | K0033 | LIV-02 | Belegg for LIV-02.P06 (Karakterene har falt etter at genAI ble tilgjengelig (krever egne tall og årsaksdrøfting)) |
-| K0034 | LIV-02 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0034 | LIV-02 | Bakgrunn – bruken avklares ved lesing |
 | K0035 | LIV-02 | Belegg for LIV-02.P05 (Lesing på skjerm og papir gir ulik leseforståelse (metaanalyser)) |
 | K0036 | LIV-03 | Belegg for LIV-03.P01 (Endoskopister oppdaget færre forstadier til kreft etter en periode med KI-støtte) |
 | K0037 | LIV-03 | Belegg for LIV-03.P02 (Kognitiv avlastning kan hindre læring når den erstatter egen bearbeiding) |
@@ -30,15 +30,15 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0047 | LIV-07 | Belegg for LIV-07.P05 (FTC undersøkte KI-kompanjonger og barn (2025)) |
 | K0048 | LIV-07 | Belegg for LIV-07.P06 (Emosjonell bruk av chatboter henger sammen med ensomhet) |
 | K0049 | LIV-07 | Belegg for LIV-07.P07 (Mange tenåringer bruker KI-kompanjonger) |
-| K0050 | LIV-07 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0050 | LIV-07 | Bakgrunn – bruken avklares ved lesing |
 | K0051 | LIV-07 | Belegg for LIV-07.P08 (Ensomhet er utbredt i Norge, også blant unge) |
 | K0052 | LIV-07 | Belegg for LIV-07.P08 (Ensomhet er utbredt i Norge, også blant unge) |
 | K0053 | LIV-08 | Belegg for LIV-08.P02 (Illinois forbød KI-terapi uten fagperson (2025)) |
 | K0054 | LIV-08 | Belegg for LIV-08.P03 (Chatboter kan forsterke vrangforestillinger («KI-psykose»)) |
-| K0056 | LIV-08 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0056 | LIV-08 | Bakgrunn – bruken avklares ved lesing |
 | K0057 | LIV-08 | Belegg for LIV-08.P04 (LLM-er som terapeuter innebærer risiko) |
 | K0058 | LIV-10 | Belegg for LIV-10.P03 (Mangel på helsepersonell skaper automatiseringspress i omsorgen) |
-| K0059 | LIV-10 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0059 | LIV-10 | Bakgrunn – bruken avklares ved lesing |
 | K0060 | LIV-10 | Belegg for LIV-10.P04 (Deler av befolkningen har svak digital kompetanse) |
 | K0016 | LIV-10 | Belegg for LIV-10.P06 (Samtykkekompetanse reguleres i pasient- og brukerrettighetsloven kap. 4) |
 | K0061 | LIV-10 | Belegg for LIV-10.P05 (Robotomsorg reiser spørsmål om eldres verdighet) |
@@ -46,7 +46,7 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0240 | LIV-16 | Belegg for LIV-16.P03 (Det er uklart om dagens straffebud gir tilstrekkelig vern mot seksualiserte deepfakes) |
 | K0241 | LIV-16 | Belegg for LIV-16.P03 (Det er uklart om dagens straffebud gir tilstrekkelig vern mot seksualiserte deepfakes) |
 | K0247 | LIV-16 | Belegg for LIV-16.P04 (Stortinget ba i mars 2026 regjeringen utrede forbud mot seksualiserte deepfakes) |
-| K0246 | LIV-16 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
+| K0246 | LIV-16 | Bakgrunn – bruken avklares ved lesing |
 | K0243 | LIV-16 | Belegg for LIV-16.P02 (Grok genererte om lag 3 millioner seksualiserte bilder på under to uker i januar 2026) |
 | K0244 | LIV-16 | Belegg for LIV-16.P05 (USA har innført TAKE IT DOWN Act (2025), og Danmark har foreslått opphavsrett til egen stemme og eget ansikt) |
 | K0245 | LIV-16 | Belegg for LIV-16.P05 (USA har innført TAKE IT DOWN Act (2025), og Danmark har foreslått opphavsrett til egen stemme og eget ansikt) |

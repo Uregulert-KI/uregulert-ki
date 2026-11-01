@@ -12,9 +12,9 @@ sist_endret: 2026-10-27
 
 ## Stikkord og materiale
 
-*Utvidet 2026-10-25 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
+*Utvidet 2026-10-25 etter gjennomgang.*
 
-- **Kjerne:** ryggraden i rapporten. Mønstrene som går igjen på tvers av delene, samlet i fem familier – slik at leseren ser at de mange farene springer ut av noen få mekanismer. De sju mønstrene fra disposisjonen er fordelt i familiene.
+- **Kjerne:** ryggraden i rapporten. Mønstrene som går igjen på tvers av delene, samlet i fem familier – slik at leseren ser at de mange farene springer ut av noen få mekanismer.
 - **Avgrensning:** konkrete scenarioer der farene forsterker hverandre i [[TVG-04]]; monokultur i dybden i [[TVG-06]]; leie, ikke eie i [[TVG-07]]; de tre forbeholdene i [[RAM-02]] (henvisning, ikke kopi).
 
 ### A Menneske og maskin

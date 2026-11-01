@@ -9,52 +9,52 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0133 | OKO-01 | Belegg for OKO-01.P01 (Store deler av arbeidsstyrken har oppgaver som er eksponert for språkmodeller) |
 | K0134 | OKO-01 | Belegg for OKO-01.P02 (Unge i KI-utsatte yrker rammes først) |
 | K0135 | OKO-01 | Belegg for OKO-01.P03 (De makroøkonomiske produktivitetsgevinstene av KI kan bli beskjedne) |
-| K0136 | OKO-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0137 | OKO-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0138 | OKO-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0139 | OKO-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0136 | OKO-01 | Bakgrunn – bruken avklares ved lesing |
+| K0137 | OKO-01 | Bakgrunn – bruken avklares ved lesing |
+| K0138 | OKO-01 | Bakgrunn – bruken avklares ved lesing |
+| K0139 | OKO-01 | Bakgrunn – bruken avklares ved lesing |
 | K0140 | OKO-02 | Belegg for OKO-02.P03 (Noen få selskaper kontrollerer modeller, regnekraft og sky) |
 | K0141 | OKO-02 | Belegg for OKO-02.P03 (Noen få selskaper kontrollerer modeller, regnekraft og sky) |
-| K0142 | OKO-02 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0143 | OKO-02 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0142 | OKO-02 | Bakgrunn – bruken avklares ved lesing |
+| K0143 | OKO-02 | Bakgrunn – bruken avklares ved lesing |
 | K0144 | OKO-03 | Belegg for OKO-03.P02 (Kredittvurdering baseres på uforklarlige data) |
-| K0145 | OKO-03 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0146 | OKO-03 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0145 | OKO-03 | Bakgrunn – bruken avklares ved lesing |
+| K0146 | OKO-03 | Bakgrunn – bruken avklares ved lesing |
 | K0147 | OKO-03 | Belegg for OKO-03.P01 (Individuell KI-prising undergraver forsikring som felles risikodeling) |
 | K0148 | OKO-04 | Belegg for OKO-04.P01 (Verdiskaping fra KI flyttes til utenlandske plattformer og beskattes lite i Norge) |
-| K0149 | OKO-04 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0150 | OKO-04 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0149 | OKO-04 | Bakgrunn – bruken avklares ved lesing |
+| K0150 | OKO-04 | Bakgrunn – bruken avklares ved lesing |
 | K0151 | OKO-05 | Belegg for OKO-05.P02 (Datasentre øker strømforbruket og konkurrerer om kraft og nett) |
 | K0152 | OKO-05 | Belegg for OKO-05.P02 (Datasentre øker strømforbruket og konkurrerer om kraft og nett) |
 | K0153 | OKO-05 | Belegg for OKO-05.P02 (Datasentre øker strømforbruket og konkurrerer om kraft og nett) |
-| K0154 | OKO-05 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0154 | OKO-05 | Bakgrunn – bruken avklares ved lesing |
 | K0155 | OKO-06 | Belegg for OKO-06.P01 (Forfattere og Anthropic inngikk forlik (Bartz, 2025)) |
 | K0156 | OKO-06 | Belegg for OKO-06.P02 (Nasjonalbiblioteket har avtaler med rettighetshavere om språkmodeller) |
-| K0157 | OKO-06 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0158 | OKO-06 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0159 | OKO-06 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0160 | OKO-06 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0018 | OKO-06 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0157 | OKO-06 | Bakgrunn – bruken avklares ved lesing |
+| K0158 | OKO-06 | Bakgrunn – bruken avklares ved lesing |
+| K0159 | OKO-06 | Bakgrunn – bruken avklares ved lesing |
+| K0160 | OKO-06 | Bakgrunn – bruken avklares ved lesing |
+| K0018 | OKO-06 | Bakgrunn – bruken avklares ved lesing |
 | K0001 | OKO-06 | Belegg for OKO-06.P04 (AI Act stiller åpenhetskrav om treningsdata) |
 | K0161 | OKO-07 | Belegg for OKO-07.P01 (Algoritmisk ledelse og overvåking svekker medbestemmelsen) |
 | K0162 | OKO-07 | Belegg for OKO-07.P01 (Algoritmisk ledelse og overvåking svekker medbestemmelsen) |
-| K0163 | OKO-07 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0163 | OKO-07 | Bakgrunn – bruken avklares ved lesing |
 | K0164 | OKO-08 | Belegg for OKO-08.P01 (OpenAI brukte lavtlønnede kenyanske innholdsmoderatorer (2023)) |
 | K0165 | OKO-08 | Belegg for OKO-08.P02 (KI bygger på skjult, lavtlønnet dataarbeid med psykiske belastninger) |
-| K0166 | OKO-08 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0166 | OKO-08 | Bakgrunn – bruken avklares ved lesing |
 | K0167 | OKO-09 | Belegg for OKO-09.P02 (KI-boomen gir boblerisiko og flokkatferd i algoritmisk handel) |
 | K0168 | OKO-09 | Belegg for OKO-09.P02 (KI-boomen gir boblerisiko og flokkatferd i algoritmisk handel) |
 | K0169 | OKO-09 | Belegg for OKO-09.P02 (KI-boomen gir boblerisiko og flokkatferd i algoritmisk handel) |
 | K0170 | OKO-10 | Belegg for OKO-10.P01 (RealPage ble saksøkt for algoritmisk prissamordning av husleier (2024)) |
 | K0141 | OKO-10 | Belegg for OKO-10.P02 (Felles prisalgoritmer gir «karteller uten kartellmøter») |
-| K0161 | OKO-12 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0161 | OKO-12 | Bakgrunn – bruken avklares ved lesing |
 | K0267 | OKO-18 | Belegg for OKO-18.P01 (Robotrådgivere og chatboter styrer folks valg i egen pensjonskonto) |
 | K0268 | OKO-18 | Belegg for OKO-18.P03 (NAVs pensjonsberegning er regelbasert, ikke KI-basert) |
 | K0144 | OKO-18 | Belegg for OKO-18.P01 (Robotrådgivere og chatboter styrer folks valg i egen pensjonskonto) |
 | K0139 | OKO-19 | Belegg for OKO-19.P01 (Hovedavtalen gir tillitsvalgte rett til informasjon og medvirkning når ny teknologi innføres) |
 | K0269 | OKO-19 | Belegg for OKO-19.P03 (Regjeringen og hovedorganisasjonene inngikk en KI-avtale for 2026–2029 (2. oktober 2026)) |
-| K0270 | OKO-19 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
-| K0161 | OKO-19 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
+| K0270 | OKO-19 | Bakgrunn – bruken avklares ved lesing |
+| K0161 | OKO-19 | Bakgrunn – bruken avklares ved lesing |
 | K0137 | OKO-19 | Belegg for OKO-19.P02 (KI kommer inn via programvareabonnementer og innkjøp uten at tillitsvalgte involveres) |
 | K0934 | OKO-01 | Belegg for OKO-01.P06 (Opplæring av nyansatte via KI koblet til personalhåndbøker kan gi en illusjon av læring); OKO-01.P07 (Taus kunnskap kan ikke skrives ned fullt ut og læres gjennom deltakelse i fellesskap) |
 | K0935 | OKO-01 | Belegg for OKO-01.P06 (Opplæring av nyansatte via KI koblet til personalhåndbøker kan gi en illusjon av læring); OKO-01.P07 (Taus kunnskap kan ikke skrives ned fullt ut og læres gjennom deltakelse i fellesskap) |

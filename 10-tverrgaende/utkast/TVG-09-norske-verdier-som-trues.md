@@ -12,7 +12,7 @@ sist_endret: 2026-10-25
 
 ## Stikkord og materiale
 
-*Utvidet 2026-10-25 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
+*Utvidet 2026-10-25 etter gjennomgang.*
 
 - **Kjerne:** rapportens svar på tittelen. [[INN-03]] er målestokken i starten; her samles det til slutt – hvilke norske verdier trues, hvor og hvor sterkt.
 - **Avgrensning:** verditabellen og forankringen i [[INN-03]]; mønstrene i [[TVG-03]]; velferdsstaten i [[TVG-05]].
@@ -54,7 +54,7 @@ sist_endret: 2026-10-25
 | Nynorsk og dialekter | Språklig mangfold er normalt | [[DEM-06]], [[DEM-16]] |
 | Normalitetsprinsippet | Også innsatte er en del av fellesskapet | [[RET-16]] |
 
-### D Hvor sterkt? – foreløpig vurdering *(erstattes av verdisjekken)*
+### D Hvor sterkt? – foreløpig vurdering
 
 - **Mest truet:** tillit, et fritt og mangfoldig ordskifte, likeverd og spleiselaget – truet fra mange temaer samtidig, og nesten alt med horisont nå eller nær.
 - **Sterkt truet på enkeltområder:** personvern, barns beste, åpenhet.

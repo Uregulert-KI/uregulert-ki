@@ -45,7 +45,8 @@ sist_endret: 2026-10-23
 
 *Utvidet 2026-10-18 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
 
-- **Kjerne:** urfolks rett til representasjon. Det finnes modeller som prøver, men det er særlig vanskelig å få til god representasjon med så lite datagrunnlag.- **Avgrensning:** dialektene og norsk språk generelt står i [[DEM-06]] (der argumentet om at full representasjon kan være umulig, står); den eldre historien om fornorskingen i [[DEM-13]], avsnitt A. Her: samisk, kvensk og de nasjonale minoritetene – rettighetene, dataene og risikoen for en ny, stille assimilering.
+- **Kjerne:** urfolks rett til representasjon. Det finnes modeller som prøver, men det er særlig vanskelig å få til god representasjon med så lite datagrunnlag.
+- **Avgrensning:** dialektene og norsk språk generelt står i [[DEM-06]] (der argumentet om at full representasjon kan være umulig, står); den eldre historien om fornorskingen i [[DEM-13]], avsnitt A. Her: samisk, kvensk og de nasjonale minoritetene – rettighetene, dataene og risikoen for en ny, stille assimilering.
 
 ### A Retten til representasjon – og hvorfor den er vanskelig å innfri
 

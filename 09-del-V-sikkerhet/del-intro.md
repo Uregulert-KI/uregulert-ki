@@ -1,6 +1,6 @@
 # Del V – Sikkerhet og beredskap: innledning til delen
 
-## Mekanismer notert underveis
+## Mekanismene som går igjen
 
 - **Samtalen som dataskatt** – samtaleloggen viser hvordan du tenker, ikke bare hva du lurer på; fire veier ut (trening, rettslig pålegg, myndighetstilgang, uhell); det som er trent inn, kan dempes, men ikke fjernes ([[SIK-01]]).
 - **Analysekapasitet uten analytikere** – å modellere og sammenstille data krever nå i hovedsak regnekraft; ett åpent spor kobles mot posisjons- og atferdsdata, og hvem som helst kan kartlegges – voldsutsatte, kilder, ansatte, soldater ([[SIK-04]]).

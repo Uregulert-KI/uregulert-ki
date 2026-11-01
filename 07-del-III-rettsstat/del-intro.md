@@ -1,6 +1,6 @@
 # Del III – Rettsstat og forvaltning: innledning til delen
 
-## Mekanismer notert underveis
+## Mekanismene som går igjen
 
 - **Her har Norge mest kontroll:** statens og kommunenes egen KI-bruk kan reguleres fullt ut – retten til å vite, begrunnelse, rett til et menneske og klage. Del III kan vise hva som *kan* gjøres ([[RET-00]]).
 - **Kolts tre roller:** KI som rettssubjekt i praksis, som bruker av retten og som produsent og håndhever av retten ([[RET-00]]).

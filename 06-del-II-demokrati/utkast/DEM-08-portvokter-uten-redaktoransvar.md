@@ -41,7 +41,7 @@ sist_endret: 2026-10-18
 
 ---
 
-## Stikkord og materiale fra disposisjonen
+## Stikkord og materiale
 
 - **KI-assistenten som portvokter uten redaktøransvar:** ett svar i stedet for ti lenker og ti avsendere; modellen gjør redaksjonelle valg uten redaktør, Redaktørplakat [K0093] eller ansvar etter medieansvarsloven [K0094]. Særnorsk vinkling.
 
@@ -49,4 +49,3 @@ sist_endret: 2026-10-18
 
 - **Det meste er dekket andre steder:** ensretting av narrativer og at KI-svar ikke er pålitelige som nyhetskilde står i [[DEM-04]], avsnitt A–B; kildekravet som bare gjelder mennesker i [[DEM-05]], avsnitt A; verdiene i modellene i [[DEM-01]].
 - **Det eneste som er eget her – hvem klager du til?** Når en avis tar feil om deg, kan du klage til Pressens Faglige Utvalg etter Vær Varsom-plakaten [K0747], og redaktøren har ansvar etter medieansvarsloven [K0094] og Redaktørplakaten [K0093]. Når en chatbot tar feil om deg, finnes ingen tilsvarende ordning. Eksempel: ChatGPT fremstilte en norsk mann som barnemorder, og saken måtte gå som personvernklage til Datatilsynet [K0099] ([[RET-00]]).
-- **Til trimmingen:** kandidat til sammenslåing med [[DEM-04]], der klageordningspoenget kan stå som eget avsnitt.

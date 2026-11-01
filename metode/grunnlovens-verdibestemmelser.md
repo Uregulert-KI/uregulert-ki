@@ -1,6 +1,6 @@
 # Grunnlovens verdibestemmelser
 
-Utdrag av Kongeriket Norges grunnlov med de bestemmelsene rapportens verdier bygger på. Ordlyden er gjengitt ordrett fra [Lovdata](https://lovdata.no/dokument/NL/lov/1814-05-17) (bokmål), hentet 2026-10-26. Siste endring av Grunnloven på det tidspunktet: 21.05.2024. Sjekk Lovdata før ordlyden siteres i rapporten.
+Utdrag av Kongeriket Norges grunnlov med de bestemmelsene rapportens verdier bygger på. Ordlyden er gjengitt ordrett fra [Lovdata](https://lovdata.no/dokument/NL/lov/1814-05-17) (bokmål), hentet 2026-10-26. § 2 og § 16 er gjengitt i utdrag (markert med …). Siste endring av Grunnloven på det tidspunktet: 21.05.2024. Sjekk Lovdata før ordlyden siteres i rapporten.
 
 Verdiene står i [INN-03](../02-innledning/utkast/INN-03-norske-verdier.md). Kolonnen «Verdi i rapporten» viser hvordan bestemmelsen brukes, og om verdien mangler i verditabellen i dag.
 
@@ -27,11 +27,11 @@ Verdiene står i [INN-03](../02-innledning/utkast/INN-03-norske-verdier.md). Kol
 
 ### § 2
 
-> Verdigrunnlaget forblir vår kristne og humanistiske arv. Denne Grunnlov skal sikre demokratiet, rettsstaten og menneskerettighetene.
+> … Denne Grunnlov skal sikre demokratiet, rettsstaten og menneskerettighetene.
 
 ### § 16
 
-> Alle innbyggere i riket har fri religionsutøvelse. Den norske kirke, en evangelisk-luthersk kirke, forblir Norges folkekirke og understøttes som sådan av staten. Nærmere bestemmelser om Kirkens ordning fastsettes ved Lov. Alle tros- og livssynssamfunn skal understøttes på lik linje.
+> Alle innbyggere i riket har fri religionsutøvelse. … Alle tros- og livssynssamfunn skal understøttes på lik linje.
 
 ### § 49
 

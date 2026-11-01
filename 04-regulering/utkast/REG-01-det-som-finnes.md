@@ -9,11 +9,11 @@ sist_endret: 2026-10-13
 
 # REG-01 Det som finnes
 
-## Stikkord og materiale fra disposisjonen
+## Stikkord og materiale
 
 ### Reguleringslandskapet i lag
 
-*Lagt til 2026-10-13. Ikke fra disposisjonen. Kildene er ikke verifisert. «Sjekk» i kolonnen «Gjelder i Norge?» betyr at EØS-status eller norsk gjennomføring må bekreftes – det er nettopp her EØS-etterslepet ([[REG-02]]) blir synlig.*
+*Kildene er ikke verifisert. «Sjekk» i kolonnen «Gjelder i Norge?» betyr at EØS-status eller norsk gjennomføring må bekreftes – det er nettopp her EØS-etterslepet ([[REG-02]]) blir synlig.*
 
 Lagene skiller det som **er lov** fra det som bare er **anbefalt praksis**. Uten det skillet ser landskapet tettere regulert ut enn det er. Hullene selv står i [[REG-02]].
 
@@ -100,7 +100,7 @@ Lagene skiller det som **er lov** fra det som bare er **anbefalt praksis**. Uten
 | Utredning av forbud mot seksualiserte deepfakes [K0247] | utredning (Norge) | venter | [[LIV-16]] |
 | USA: delstatslover som Colorado AI Act [K0308] og California SB 53 [K0309], mens føderal politikk går i motsatt retning [K0300] | utenlandsk lov | – (men treffer leverandørene) | [[OKO-02]], [[REG-02]] |
 
-### Fra disposisjonen
+### Kort oversikt
 
 - **GDPR / personopplysningsloven** – særlig art. 22 om automatiserte avgjørelser. [K0002] [K0005]
 - **EUs KI-forordning (AI Act)** – risikobasert: forbudte praksiser, høyrisiko, åpenhetskrav, regler for grunnmodeller. Sjekk tidsplanen for når de ulike delene gjelder, og om EU har utsatt noe. [K0001]
@@ -108,7 +108,7 @@ Lagene skiller det som **er lov** fra det som bare er **anbefalt praksis**. Uten
 - **Sektorlover** – forvaltningsloven [K0015], sikkerhetsloven [K0010], opplæringsloven [K0004], pasient- og brukerrettighetsloven [K0016], markedsføringsloven [K0017], åndsverkloven [K0018].
 - **Internasjonalt** – Europarådets rammekonvensjon om KI (Norge har signert – sjekk ratifisering) [K0019], DSA [K0020], OECDs KI-prinsipper [K0021].
 
-**Kilder for kapitlet (disposisjonens 4.3):**
+**Kilder for kapitlet:**
 
 - Digitaliseringsdepartementet / regjeringen.no: KI-lov [K0014], nasjonal KI-strategi [K0022].
 - Datatilsynet: regulatorisk sandkasse for KI (sluttrapporter). [K0023]

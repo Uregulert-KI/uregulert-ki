@@ -95,7 +95,7 @@ Oppdateres automatisk (`node 00-styring/verktoy/oppdater-status.js`). Påstander
 | Mappe | Antall temaer | Per status | Påstander inkl. / styrkes / forkastet / ikke scoret |
 |---|---|---|---|
 | [01-sammendrag](01-sammendrag/PLAN.md) | 1 | stikkord: 1 | 0 / 0 / 0 / 0 |
-| [02-innledning](02-innledning/PLAN.md) | 5 | stikkord: 5 | 0 / 0 / 0 / 14 |
+| [02-innledning](02-innledning/PLAN.md) | 5 | stikkord: 5 | 0 / 0 / 0 / 48 |
 | [03-rammeverk](03-rammeverk/PLAN.md) | 2 | stikkord: 2 | 0 / 0 / 0 / 2 |
 | [04-regulering](04-regulering/PLAN.md) | 4 | kandidat: 2, stikkord: 2 | 0 / 0 / 0 / 56 |
 | [05-del-I-livslop](05-del-I-livslop/PLAN.md) | 17 | kandidat: 12, stikkord: 5 | 0 / 0 / 0 / 298 |
@@ -107,6 +107,6 @@ Oppdateres automatisk (`node 00-styring/verktoy/oppdater-status.js`). Påstander
 | [11-motargumenter](11-motargumenter/PLAN.md) | 1 | stikkord: 1 | 0 / 0 / 0 / 3 |
 | [12-anbefalinger](12-anbefalinger/PLAN.md) | 1 | stikkord: 1 | 0 / 0 / 0 / 0 |
 | [13-vedlegg](13-vedlegg/PLAN.md) | 3 | stikkord: 3 | 0 / 0 / 0 / 0 |
-| **Totalt** | 114 | kandidat: 59, stikkord: 53, utkast-høy-prioritet: 2 | 0 / 0 / 0 / 1118 |
+| **Totalt** | 114 | kandidat: 59, stikkord: 53, utkast-høy-prioritet: 2 | 0 / 0 / 0 / 1152 |
 
-Sist oppdatert: 2026-10-27
+Sist oppdatert: 2026-11-01

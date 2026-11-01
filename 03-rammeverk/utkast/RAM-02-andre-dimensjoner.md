@@ -9,7 +9,7 @@ sist_endret: 2026-10-18
 
 # RAM-02 Andre dimensjoner
 
-## Stikkord og materiale fra disposisjonen
+## Stikkord og materiale
 
 - **Tidshorisont:** skjer nå / neste 5 år / langsiktig. *Formalisert 2026-10-25 som horisontsystemet under.*
 - **Hvem bærer risikoen:** individ, gruppe, samfunn, stat. Hvem høster gevinsten? Skjev fordeling er i seg selv et verdispørsmål.
@@ -35,7 +35,7 @@ sist_endret: 2026-10-18
 
 ### Tre gjennomgående forbehold
 
-*Overordnet linse som skal ligge i bakhodet gjennom hele rapporten og etter hvert forme dokumentet. Hvert tema og hvert reguleringsforslag skal vurderes mot alle tre.*
+*Forbeholdene gjelder hele rapporten og brukes som linse i temaene og i reguleringsforslagene.*
 
 1. **Lokale, åpne modeller – så å si umulige å regulere.** Modeller som lastes ned og kjøres lokalt, har ingen leverandør å stille krav til, ingen logger og ingen sperrer som ikke kan fjernes. Her ligger store farer ([[SIK-19]]; [[REG-04]]).
 2. **Kommersielle modeller – eiernes og aksjonærenes interesser.** Modellene er produkter. Eiernes og aksjonærenes meninger, holdninger og forretningsinteresser kan prege hva modellen sier, vektlegger og nekter ([[DEM-01]], avsnitt A; [[OKO-02]]).

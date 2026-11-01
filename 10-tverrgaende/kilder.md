@@ -37,9 +37,9 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0184 | TVG-05 | Belegg for TVG-05.P12 (Forfalskning fører til mer kontroll, som igjen svekker tilliten og gjør spleiselaget dyrere) |
 | K0277 | TVG-05 | Belegg for TVG-05.P12 (Forfalskning fører til mer kontroll, som igjen svekker tilliten og gjør spleiselaget dyrere) |
 | K0276 | TVG-05 | Belegg for TVG-05.P13 («Anonymiserte» registerdata kan ofte reidentifiseres når de kobles med andre kilder) |
-| K0214 | TVG-05 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
-| K0274 | TVG-05 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
-| K0275 | TVG-05 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
+| K0214 | TVG-05 | Bakgrunn – bruken avklares ved lesing |
+| K0274 | TVG-05 | Bakgrunn – bruken avklares ved lesing |
+| K0275 | TVG-05 | Bakgrunn – bruken avklares ved lesing |
 | K0657 | TVG-06 | Belegg for TVG-06.P05 (Når de samme få modellene brukes til å skrive, lese og beslutte, går samfunnets diskurs gjennom samme filter); TVG-06.P06 (Å skrive med en meningssterk språkmodell kan påvirke brukerens egne meninger) |
 | K0556 | TVG-06 | Belegg for TVG-06.P05 (Når de samme få modellene brukes til å skrive, lese og beslutte, går samfunnets diskurs gjennom samme filter); TVG-06.P07 (Skriving med språkmodeller gir mindre variasjon i innholdet) |
 | K1173 | TVG-06 | Belegg for TVG-06.P07 (Skriving med språkmodeller gir mindre variasjon i innholdet) |

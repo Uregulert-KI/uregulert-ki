@@ -73,7 +73,7 @@ sist_endret: 2026-10-21
 
 ### E Et gjennomgående mønster – hvordan vi forholder oss til hverandre
 
-- KI endrer forventningene til andre mennesker. Mønsteret går igjen i [[LIV-01]], [[LIV-05]], LIV-06, [[LIV-07]] og [[LIV-09]]. Det er notert som kandidat til en egen tverrgående tråd («relasjonell forvitring») i 10-tverrgaende sin PLAN.md og tas med de strukturelle merknadene.
+- KI endrer forventningene til andre mennesker. Mønsteret går igjen i [[LIV-01]], [[LIV-05]], LIV-06, [[LIV-07]] og [[LIV-09]]. Mønsteret er samlet i [[TVG-08]].
 
 ### F Midtlivet
 

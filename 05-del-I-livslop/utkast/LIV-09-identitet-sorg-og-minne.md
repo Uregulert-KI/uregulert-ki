@@ -102,7 +102,7 @@ sist_endret: 2026-10-20
 - **Presedens:** brukerne sørget da Replika fjernet funksjoner i 2023 [K0442] ([[LIV-07]]).
 - **Konkurs og oppkjøp:** hva skjer med de døde da? De blir en del av boet – en eiendel som kan selges.
 - **Mørke mønstre og vanskelig oppsigelse:** Forbrukerrådet [K0401] [K0404] og [[LIV-04]].
-- **Mønsteret går igjen:** «leie, ikke eie» er notert som kandidat til tverrgående tråd.
+- **Mønsteret går igjen:** «leie, ikke eie» ([[TVG-07]]).
 
 ### G Rettslige hull
 

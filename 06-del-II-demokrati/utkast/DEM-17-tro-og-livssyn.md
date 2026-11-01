@@ -45,7 +45,7 @@ sist_endret: 2026-10-18
 
 *Utvidet 2026-10-18 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
 
-- **Kjerne:** moral, etikk og alt annet må med. Og **religionsfrihet**: muligheten til at din religion og din personlige tro kan snakkes om med en KI – i stedet for at modellen «resonnerer» rundt troen som en kranglete vitenskapsmann. Skriftemål med taushetsplikt er også en balansegang: vi vil ikke ha masse overvåking, men samtidig må samfunnet kunne avverge f.eks. terror.
+- **Kjerne:** moral, etikk og **religionsfrihet**: muligheten til at din religion og din personlige tro kan snakkes om med en KI – i stedet for at modellen «resonnerer» rundt troen som en kranglete vitenskapsmann. Skriftemål med taushetsplikt er også en balansegang: vi vil ikke ha masse overvåking, men samtidig må samfunnet kunne avverge f.eks. terror.
 - **Avgrensning:** griefbots og etterlivet står i [[LIV-09]]; moral mellom generasjoner i [[LIV-15]], avsnitt C; verdiene i modellene i [[DEM-01]]; radikalisering i [[SIK-10]] og [[SIK-16]]; hets mot trossamfunn i [[DEM-11]]. Her: troen, livssynet og det religiøse fellesskapet.
 
 ### A Religionsfrihet i samtalen

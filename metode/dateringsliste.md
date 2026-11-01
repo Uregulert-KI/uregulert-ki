@@ -48,7 +48,7 @@ KI endrer seg raskere enn noe annet rapporten omtaler. Denne lista samler alt so
 - [ ] Alle påstander som skal stå i rapporten, er sjekket de siste 12 månedene («Sist sjekket» i `pastander.md`), og A-scoren er vurdert på nytt (se `scoring.md`).
 - [ ] README-statustabellen er oppdatert.
 
-## 3 Fra disposisjonens 13.3
+## 3 Generelle sjekkpunkter
 
 - [ ] Status for norsk KI-lov og tilsynsmyndighet – [[REG-01]] (K0014)
 - [ ] Tidsplan for AI Act og eventuelle utsettelser – [[REG-01]] (K0001)
@@ -58,7 +58,7 @@ KI endrer seg raskere enn noe annet rapporten omtaler. Denne lista samler alt so
 - [ ] Ferske tall for karakterer, nasjonale prøver og PISA 2025 – [[LIV-02]] (K0033)
 - [ ] Stortingsvalget 2025 – evalueringer av påvirkning – [[DEM-02]] (K0070, K0071)
 
-## 4 «(sjekk …)»-merknader i disposisjonen
+## 4 «(sjekk …)»-merknader
 
 | Gjelder (ID) | Hva sjekkes | Kilde-ID | Sjekket (dato) | Resultat |
 |---|---|---|---|---|
@@ -90,13 +90,13 @@ KI endrer seg raskere enn noe annet rapporten omtaler. Denne lista samler alt so
 | [[SIK-17]] | Bremanger (2025): PSTs kobling til prorussiske aktører | K0068 |  |  |
 | [[SIK-16]] | Kilder: Gill, Horgan og Deckert (2014); brorens rolle i oppklaringen | K0201, K0202 |  |  |
 | [[TVG-02]] | Kilder: Katrud-Solheim, AI Act art. 4, OWASP, IBM 2025, OECD | K0206, K0001, K0180, K0207, K0208 |  |  |
-| [[TVG-05]] | Kildeforslag fra hukommelsen: Korpi og Palme (1998), Rothstein – tittel, utgiver og funn (lagt til 2026-10-13, ikke fra disposisjonen) | K0210, K0211 |  |  |
+| [[TVG-05]] | Kildeforslag fra hukommelsen: Korpi og Palme (1998), Rothstein – tittel, utgiver og funn (lagt til 2026-10-13) | K0210, K0211 |  |  |
 | [[TVG-05]] | Kommunene: KS-dokument om KI i kommunesektoren må identifiseres; tall for kommuneøkonomi i distriktene | K0216 |  |  |
 | [[TVG-05]] | Helsevesenet – forslag ved oppsett: Helseplattformen (detaljer, ev. Riksrevisjonen); utprøving av KI-journalnotater i norske helseforetak; prioriteringsprinsippene (Meld. St.-nummer) | K0215 |  |  |
 | [[TVG-05]] | Helsevesenet – ordlyd i pasient- og brukerrettighetsloven (likeverdig tilgang) og helsepersonelloven (forsvarlighet) | K0016, K0212 |  |  |
 | [[SIK-17]] | Sabotasje: Svalbard-kabelen (2022), Nord Stream (2022), Østersjø-skadene (2023–24), rekruttering av sabotører via nett, solcelle-invertere (2025); hva PST og E-tjenesten sier om sabotasje | K0068, K0069, K0217, K0218 |  |  |
 
-## 5 Sjekkpunkter per tema (hullanalysen 2026-10-13 og gjennomgangen)
+## 5 Sjekkpunkter per tema
 
 *Denne tabellen skal stå sist i fila: `oppdater-tema.js` legger til en rad her for hvert tema som legges inn med datering.*
 
@@ -225,3 +225,5 @@ KI endrer seg raskere enn noe annet rapporten omtaler. Denne lista samler alt so
 | [[OKO-06]] | Er Prop. 41 LS (2025–2026) om tekst- og datautvinning vedtatt, og når trer §§ 50 d–50 f i kraft? | K1219 |  |  |
 | [[OKO-12]] | Wolt-saken (Borgarting lagmannsrett, februar 2026): er den anket eller rettskraftig? | K1211 |  |  |
 | [[SIK-17]] | NSMs nasjonale cyberrisikonivå (HØYT fra 27.10.2026) kan endres | K1201 |  |  |
+| [[INN-03]] | Norsk Monitor kommer annethvert år (neste 2028): følg likhetsidealet og tilliten. Sjekk om læreplanen i samfunnskunnskap er erstattet. | K1252, K1249 |  |  |
+| [[INN-01]] | KI-forordningen i EØS og norsk KI-lov: følg høringen (frist 11.12.2026) og proposisjonen (mål: våren 2027). Sjekk omnibusens datoer mot EUR-Lex. | K1259, K1258 |  |  |

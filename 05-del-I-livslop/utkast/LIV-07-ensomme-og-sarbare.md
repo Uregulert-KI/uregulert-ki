@@ -130,4 +130,4 @@ sist_endret: 2026-10-20
 #### Norsk forankring
 
 - Elevundersøkelsen om mobbing [K0583] (sjekk tall). Elevenes rett til et trygt skolemiljø og skolens aktivitetsplikt [K0584]. Udirs veileder for alvorlige hendelser [K0585]. PST om radikalisering av unge på nett [K0068].
-- *Skrives på overordnet nivå: ingenting om metoder, våpen eller planlegging. Gjerningspersoner navngis ikke.*
+- *Omtales på overordnet nivå: ingenting om metoder, våpen eller planlegging. Gjerningspersoner navngis ikke.*

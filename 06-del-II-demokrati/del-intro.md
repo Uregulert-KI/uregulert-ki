@@ -79,14 +79,9 @@ Dukker opp i: [[DEM-06]] (nynorsk, dialekter, lokalkunnskap), [[DEM-16]] (samisk
 
 ## Verdiene som trues
 
-Demokrati og rettsstat, ytrings- og informasjonsfrihet, tillit, danning og kritisk tenkning, samenes rettigheter og tros- og livssynsfrihet ([[INN-03]]). Kulturelt mangfold går igjen uten å stå i verditabellen – notert til verdisjekken.
+Demokrati og rettsstat, ytrings- og informasjonsfrihet, tillit, danning og kritisk tenkning, kulturelt mangfold, samenes rettigheter og tros- og livssynsfrihet ([[INN-03]]).
 
 ## Nyansen
 
 Del II er ikke et argument mot teknologien. KI kan gjøre politikk, kunnskap og høringer tilgjengelig for flere, åpne arkivene, styrke små språk og redusere konspirasjonstro. Problemet er ikke at modellene har verdier eller grenser – det er umulig å unngå. Problemet er at noen få eiere velger dem for hele verden, uten innsyn og uten mandat – og at de samme få modellene nå sitter mellom oss og nesten alt vi vet.
 
-## Til senere
-
-- Kortes og skrives som rapportprosa når temaene er ferdige.
-- Sjekk mot [[TVG-03]] (mønstre som går igjen) og [[RAM-01]], så innledningen ikke dobler dem.
-- Mekanismene her og i Del I overlapper delvis (ensretting, smiger, påvirkning). Vurder om noen bør løftes til tverrgående tråder.

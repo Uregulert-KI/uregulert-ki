@@ -9,33 +9,33 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0098 | RET-00 | Belegg for RET-00.P01 (KI-agenter kan få tre roller i rettsordenen: rettssubjekt i praksis, bruker av retten og produsent/håndhever av retten) |
 | K0099 | RET-00 | Belegg for RET-00.P02 (ChatGPT påsto falskt at en nordmann hadde drept barna sine; noyb klaget saken inn for Datatilsynet (2025)) |
 | K0100 | RET-00 | Belegg for RET-00.P03 (Europaparlamentet foreslo «elektronisk personstatus» i 2017) |
-| K0101 | RET-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0101 | RET-01 | Bakgrunn – bruken avklares ved lesing |
 | K0102 | RET-01 | Belegg for RET-01.P01 (Moffatt mot Air Canada (2024): selskapet ble holdt ansvarlig for chatbotens løfter) |
 | K0103 | RET-01 | Belegg for RET-01.P02 (Mata mot Avianca (2023): advokater leverte oppdiktede dommer) |
 | K0104 | RET-01 | Belegg for RET-01.P03 (Tromsø kommune la fram en rapport med KI-oppdiktede kilder i skolestrukturdebatten (2025)) |
 | K0105 | RET-01 | Belegg for RET-01.P04 (KI skaper ansvarsgap der ingen kan holdes ansvarlig) |
 | K0106 | RET-01 | Belegg for RET-01.P04 (KI skaper ansvarsgap der ingen kan holdes ansvarlig) |
-| K0107 | RET-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0108 | RET-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0109 | RET-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0107 | RET-01 | Bakgrunn – bruken avklares ved lesing |
+| K0108 | RET-01 | Bakgrunn – bruken avklares ved lesing |
+| K0109 | RET-01 | Bakgrunn – bruken avklares ved lesing |
 | K0110 | RET-02 | Belegg for RET-02.P02 (Robodebt i Australia ble gransket av en Royal Commission (2023)) |
-| K0015 | RET-02 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0015 | RET-02 | Bakgrunn – bruken avklares ved lesing |
 | K0111 | RET-02 | Belegg for RET-02.P04 (Ny forvaltningslov har regler om automatiserte avgjørelser) |
-| K0112 | RET-02 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0024 | RET-02 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0112 | RET-02 | Bakgrunn – bruken avklares ved lesing |
+| K0024 | RET-02 | Bakgrunn – bruken avklares ved lesing |
 | K0113 | RET-03 | Belegg for RET-03.P02 (En helsealgoritme hadde rasemessig skjevhet) |
 | K0114 | RET-03 | Belegg for RET-03.P03 (Kommersiell ansiktsanalyse har skjevheter («Gender Shades»)) |
 | K0115 | RET-03 | Belegg for RET-03.P04 (Indirekte diskriminering via stedfortredervariabler er vanskelig å bevise for den som rammes) |
-| K0116 | RET-03 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0116 | RET-03 | Bakgrunn – bruken avklares ved lesing |
 | K0001 | RET-04 | Belegg for RET-04.P02 (AI Act art. 5 forbyr visse praksiser, blant annet biometrisk fjernidentifikasjon) |
-| K0117 | RET-04 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0118 | RET-04 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0119 | RET-04 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0117 | RET-04 | Bakgrunn – bruken avklares ved lesing |
+| K0118 | RET-04 | Bakgrunn – bruken avklares ved lesing |
+| K0119 | RET-04 | Bakgrunn – bruken avklares ved lesing |
 | K0120 | RET-05 | Belegg for RET-05.P01 (Epics sepsismodell presterte langt dårligere enn lovet) |
 | K0121 | RET-05 | Belegg for RET-05.P02 (KI-basert medisinsk triage har blindsoner der akutte tilfeller undertriageres) |
 | K0122 | RET-05 | Belegg for RET-05.P03 (Fagfolk utsettes for automasjonsbias) |
-| K0123 | RET-05 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0124 | RET-05 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0123 | RET-05 | Bakgrunn – bruken avklares ved lesing |
+| K0124 | RET-05 | Bakgrunn – bruken avklares ved lesing |
 | K0126 | RET-06 | Belegg for RET-06.P02 (Norge er dømt i flere EMD-saker om barnevern (bl.a. Strand Lobben)) |
 | K0127 | RET-07 | Belegg for RET-07.P01 (SyRI i Nederland ble kjent ulovlig (Haag, 2020, EMK art. 8)) |
 | K0128 | RET-07 | Belegg for RET-07.P01 (SyRI i Nederland ble kjent ulovlig (Haag, 2020, EMK art. 8)) |
@@ -47,8 +47,8 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0132 | RET-12 | Belegg for RET-12.P01 (Det er uavklart om man er bundet av avtaler en KI-agent inngår; avtaleloven er fra 1918) |
 | K0235 | RET-15 | Belegg for RET-15.P05 (PwC evaluerte KI-bruken i Tromsø kommune etter skolestruktursaken (2025)) |
 | K0236 | RET-15 | Belegg for RET-15.P01 (Offentlig sektor er tett koblet til få skyleverandører) |
-| K0232 | RET-15 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
-| K0233 | RET-15 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
+| K0232 | RET-15 | Bakgrunn – bruken avklares ved lesing |
+| K0233 | RET-15 | Bakgrunn – bruken avklares ved lesing |
 | K0234 | RET-15 | Bakgrunn – DFØs veileder for datadrevne anskaffelser (2026) |
 | K0237 | RET-15 | Belegg for RET-15.P03 (Små kommuner mangler bestillerkompetanse til å vurdere KI-systemene de kjøper) |
 | K0265 | RET-16 | Belegg for RET-16.P04 (Det er ukjent om og hvordan Kriminalomsorgen bruker KI i risikovurdering) |

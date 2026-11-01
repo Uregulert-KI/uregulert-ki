@@ -9,7 +9,7 @@ sist_endret: 2026-10-12
 
 # SAM-01 Sammendrag
 
-## Stikkord og materiale fra disposisjonen
+## Stikkord og materiale
 
 Skrives sist. Maks 2–3 sider.
 

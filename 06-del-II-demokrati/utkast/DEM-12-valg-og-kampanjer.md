@@ -45,7 +45,7 @@ sist_endret: 2026-10-27
 
 *Utvidet 2026-10-18 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
 
-- **Kjerne:** desinformasjonskampanjer og påvirkning i stor skala må med, og forgiftning av datagrunnlaget. Og igjen problemet med langvarig bruk: folket sitter kanskje med tre modeller og påvirkes av dem over tid – i verste fall gir det **homogenisering av politiske meninger**. For å unngå å si noe feil velger modellene lett **«trygge» svar** – så selv uten en agenda kan det påvirke hvordan velgerne tenker og hvilke svar de får.
+- **Kjerne:** desinformasjonskampanjer, påvirkning i stor skala og forgiftning av datagrunnlaget. Og igjen problemet med langvarig bruk: folket sitter kanskje med tre modeller og påvirkes av dem over tid – i verste fall gir det **homogenisering av politiske meninger**. For å unngå å si noe feil velger modellene lett **«trygge» svar** – så selv uten en agenda kan det påvirke hvordan velgerne tenker og hvilke svar de får.
 - **Avgrensning:** propaganda og «LLM grooming» generelt står i [[DEM-02]]; meningsmålinger og høringer i [[DEM-10]]; nedkjøling av kandidater i [[DEM-11]]; verdiene i modellene i [[DEM-01]]. Her: valget – velgerne, kampanjene og valginformasjonen.
 
 ### A Valginformasjon – og chatboten som valgomat

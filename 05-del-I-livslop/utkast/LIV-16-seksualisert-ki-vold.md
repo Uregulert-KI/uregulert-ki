@@ -48,7 +48,7 @@ sist_endret: 2026-10-18
 - **Kjerne:** hvordan er det å være offer når det kan genereres hundre nye bilder av deg hver dag? Temaet handler om utnytting og utpressing, forventninger og normalisering av ekstrem sex ([[LIV-05]]), generering av ulovlig innhold, undertrykkelse – og kontroll over egen kropp. I Japan er tegninger så å si alltid unntatt fra forbudene, men hva skjer når «tegningen» er en hyperrealistisk generering fra en diffusjonsmodell?
 - **Kort sagt:** et lekket bilde er én krenkelse. En generator gjør krenkelsen uendelig.
 - **Avgrensning:** unges seksuelle forventninger og normalisering står i [[LIV-05]], hets og tilbaketrekning fra offentligheten i [[DEM-11]], tillit generelt i [[DEM-03]], eierskap til egen likhet i [[LIV-17]]. Grooming og sextortion mot barn står i avsnitt H.
-- *Sensitivt tema: alt skrives på overordnet nivå, uten verktøynavn som kan brukes som oppskrift, og uten detaljer om hvordan materialet lages.*
+- *Sensitivt tema: alt omtales på overordnet nivå, uten verktøynavn som kan brukes som oppskrift, og uten detaljer om hvordan materialet lages.*
 
 ### A Å være offer når det kan lages hundre nye bilder hver dag
 

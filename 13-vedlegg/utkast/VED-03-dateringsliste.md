@@ -11,7 +11,7 @@ sist_endret: 2026-10-25
 
 ## Stikkord og materiale
 
-*Utvidet 2026-10-25 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
+*Utvidet 2026-10-25 etter gjennomgang.*
 
 - **Formål:** vise leseren hva som var riktig *når*. KI, regelverket og selskapenes vilkår endrer seg raskt; det publiserte vedlegget sier hvilke opplysninger som kan ha endret seg siden publisering.
 - **Arbeidslista** ligger i `metode/dateringsliste.md` (rutine, resultatkoder, kritiske datoer). Vedlegget er et utdrag av seksjon 1 der.

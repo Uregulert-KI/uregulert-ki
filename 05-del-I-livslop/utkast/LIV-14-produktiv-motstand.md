@@ -48,7 +48,6 @@ sist_endret: 2026-10-23
 - **Kjerne:** KI fjerner ikke vansker, venting og kjedsomhet – den gjør dem *valgfrie*, nesten uten kostnad (mesteragentens korreksjon). Knyttet til menneskelig kreativitet: det offentlige rom er fullt av KI-genererte plakater, reklame og «kunst», og vi normaliserer og godtar «slop» mens menneskelig mangfold og uttrykk gradvis slettes. Kunst kommer gjerne av kjedsomhet, vansker og motstand – men det kommer ikke ekte kunst hvis svaret er å dykke inn i en slop-generator i stedet for å lære seg å male. Noen vil mene at uttrykket bare utvikler seg til å passe inn i en KI-verden, men normaliseringen fjerner kantene og sletter mangfold. I Norge har vi kunstnerstipender og lignende, og menneskelig uttrykk er godt støttet institusjonelt.
 - **Kort sagt:** kunsten oppstår av motstand. Når motstanden blir valgfri, blir uttrykket valgfritt. Når alle velger det lette, forsvinner kantene.
 - **Avgrensning:** læringsforskningen står i [[LIV-02]], avsnitt C, kjedsomhet og pauser i [[LIV-04]], avsnitt E, økonomi og opphavsrett for kunstnere i [[OKO-06]], språk og kultur i [[DEM-06]], ensretting på systemnivå i [[TVG-06]]. Her: det menneskelige – evnen og viljen til å skape når strevet blir valgfritt.
-- **Merknad til trimmingen:** kreativitet gir LIV-14 et eget innhold. Det taler for å beholde temaet, mens læringsstoffet henvises til LIV-02 og ikke gjentas.
 
 ### A KI gjør friksjon valgfri
 
@@ -83,7 +82,7 @@ sist_endret: 2026-10-23
 - **KORO – Kunst i offentlige rom** [K0563] er statens fagorgan for kunst i offentlige bygg og rom. Det er det direkte motsvaret til poenget om det offentlige rom.
 - **Spørsmål til [[ANB-01]]:** bør det offentlige ha retningslinjer for KI-generert innhold i egne kampanjer og i offentlige rom?
 - **Kulturrådet og KI:** finnes det retningslinjer for KI i søknader og verk? (ikke funnet 2026-10-25)
-- **Verdi:** danning – og kulturelt mangfold, som ikke står i verditabellen i [[INN-03]]. Notert til verdisjekken.
+- **Verdi:** danning og kulturelt mangfold ([[INN-03]]).
 
 ### F Nyanse
 

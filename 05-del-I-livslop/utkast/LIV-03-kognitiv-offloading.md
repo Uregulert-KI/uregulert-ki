@@ -82,7 +82,7 @@ sist_endret: 2026-10-27
 
 ### F Hvor sterk er evidensen?
 
-- Mye av forskningen er ny, liten eller korrelasjonell (Gerlich [K0040]; Kosmyna mfl. [K0041], preprint). Det sterkeste er de eldre funnene om avlastning, navigasjon og automatisering. Det KI-spesifikke er foreløpig svakt eller tidlig – og det bør stå åpent. Det styrker troverdigheten.
+- Mye av forskningen er ny, liten eller korrelasjonell (Gerlich [K0040]; Kosmyna mfl. [K0041], preprint). Det sterkeste er de eldre funnene om avlastning, navigasjon og automatisering. Det KI-spesifikke er foreløpig svakt eller tidlig.
 
 ### G Norsk relevans
 

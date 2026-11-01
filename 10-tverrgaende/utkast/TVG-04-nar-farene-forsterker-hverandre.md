@@ -12,7 +12,7 @@ sist_endret: 2026-10-25
 
 ## Stikkord og materiale
 
-*Utvidet 2026-10-25 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
+*Utvidet 2026-10-25 etter gjennomgang.*
 
 - **Kjerne:** farene kommer ikke én og én. Hvert tema beskriver én fare; folk møter flere samtidig, og de forsterker hverandre. Reguleringen er delt etter sektor og ser bare én om gangen ([[REG-02]]).
 - **Avgrensning:** mønstrene i [[TVG-03]]; velferdsstaten i [[TVG-05]]; utsyn i [[TVG-10]]. *Scenarioene er sammensatte illustrasjoner, ikke beskrivelser av faktiske hendelser. Hvert ledd er dokumentert i sitt tema, og hvert scenario har en horisont ([[RAM-02]]).*
@@ -21,7 +21,7 @@ sist_endret: 2026-10-25
 
 - **Summen er større enn delene:** én fare kan møtes med ett tiltak. Når farene virker sammen, blir summen større – og ingen etat eier helheten ([[REG-02]], avsnitt 1).
 
-### B Fem scenarioer fra disposisjonen
+### B Fem scenarioer
 
 1. **Den ensomme eldre** *(nå)*: følelsesmessig avhengighet ([[LIV-07]]) + svindel med klonet stemme ([[SIK-05]]) + digitalt utenforskap ([[LIV-10]]). Vernet var svakest hos de sårbare ([[TVG-03]]).
 2. **Valgåret** *(nær)*: propaganda ([[DEM-02]]) + deepfakes ([[DEM-03]]) + svekkede redaksjoner ([[DEM-04]]) + kognitiv avlastning ([[LIV-03]]) – og verktøyene for å følge desinformasjon er lagt ned ([[TVG-07]]).

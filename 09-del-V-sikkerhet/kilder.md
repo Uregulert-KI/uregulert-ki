@@ -10,31 +10,31 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0171 | SIK-01 | Belegg for SIK-01.P06 (Amerikansk lovgivning (CLOUD Act, FISA 702) gir myndighetene tilgang til data hos amerikanske leverandører) |
 | K0172 | SIK-01 | Belegg for SIK-01.P06 (Amerikansk lovgivning (CLOUD Act, FISA 702) gir myndighetene tilgang til data hos amerikanske leverandører) |
 | K0173 | SIK-01 | Belegg for SIK-01.P07 (EU-domstolen underkjente grunnlaget for dataoverføring til USA i Schrems II (2020)) |
-| K0174 | SIK-01 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0174 | SIK-01 | Bakgrunn – bruken avklares ved lesing |
 | K0175 | SIK-01 | Belegg for SIK-01.P05 (Meta startet trening på europeiske brukeres data, og Datatilsynet rådet folk til å protestere (2025)) |
 | K0176 | SIK-02 | Belegg for SIK-02.P03 (Ansatte i staten bruker ikke-godkjente KI-verktøy og limer inn sensitive opplysninger) |
 | K0177 | SIK-02 | Belegg for SIK-02.P02 (Ansatte tar med egne KI-verktøy på jobb) |
-| K0010 | SIK-02 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0178 | SIK-02 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0010 | SIK-02 | Bakgrunn – bruken avklares ved lesing |
+| K0178 | SIK-02 | Bakgrunn – bruken avklares ved lesing |
 | K0179 | SIK-03 | Belegg for SIK-03.P02 (KI-assistenter kan styres av skjulte instrukser i innholdet de leser (indirekte prompt injection)) |
 | K0180 | SIK-03 | Belegg for SIK-03.P02 (KI-assistenter kan styres av skjulte instrukser i innholdet de leser (indirekte prompt injection)) |
 | K0010 | SIK-04 | Belegg for SIK-04.P03 (Mange ugraderte opplysninger kan til sammen bli sensitive, og KI gjør sammenstilling triviell) |
 | K0181 | SIK-04 | Belegg for SIK-04.P03 (Mange ugraderte opplysninger kan til sammen bli sensitive, og KI gjør sammenstilling triviell) |
-| K0068 | SIK-04 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0069 | SIK-04 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0068 | SIK-04 | Bakgrunn – bruken avklares ved lesing |
+| K0069 | SIK-04 | Bakgrunn – bruken avklares ved lesing |
 | K0182 | SIK-05 | Belegg for SIK-05.P02 (KI er brukt til datautpressing) |
 | K0183 | SIK-05 | Belegg for SIK-05.P03 (KI senker terskelen for svindel og dataangrep) |
 | K0184 | SIK-05 | Belegg for SIK-05.P03 (KI senker terskelen for svindel og dataangrep) |
 | K0185 | SIK-05 | Belegg for SIK-05.P03 (KI senker terskelen for svindel og dataangrep) |
 | K0186 | SIK-06 | Belegg for SIK-06.P01 (KI-systemene Lavender og Gospel brukes i målutvelgelse i Gaza) |
 | K0187 | SIK-06 | Belegg for SIK-06.P03 (Det forhandles om regulering av autonome våpen i FN/CCW) |
-| K0188 | SIK-06 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0189 | SIK-06 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0190 | SIK-06 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0191 | SIK-06 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0192 | SIK-06 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0188 | SIK-06 | Bakgrunn – bruken avklares ved lesing |
+| K0189 | SIK-06 | Bakgrunn – bruken avklares ved lesing |
+| K0190 | SIK-06 | Bakgrunn – bruken avklares ved lesing |
+| K0191 | SIK-06 | Bakgrunn – bruken avklares ved lesing |
+| K0192 | SIK-06 | Bakgrunn – bruken avklares ved lesing |
 | K0193 | SIK-07 | Belegg for SIK-07.P03 (Samfunnet er sårbart når KI-tjenester faller bort) |
-| K0194 | SIK-07 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0194 | SIK-07 | Bakgrunn – bruken avklares ved lesing |
 | K0195 | SIK-07 | Belegg for SIK-07.P03 (Samfunnet er sårbart når KI-tjenester faller bort) |
 | K0012 | SIK-08 | Belegg for SIK-08.P01 (KI kan senke terskelen for biologiske og kjemiske våpen); SIK-08.P02 (Tap av kontroll over svært kapable KI-systemer er en reell risiko) |
 | K0196 | SIK-08 | Belegg for SIK-08.P02 (Tap av kontroll over svært kapable KI-systemer er en reell risiko) |
@@ -47,7 +47,7 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0201 | SIK-16 | Belegg for SIK-16.P01 (Mange enkeltaktører røper planene sine til andre på forhånd («leakage»)) |
 | K0202 | SIK-16 | Belegg for SIK-16.P02 (Unabomberen ble identifisert fordi broren kjente igjen skrivestilen i manifestet) |
 | K0203 | SIK-16 | Belegg for SIK-16.P03 (22. juli-kommisjonen påviste svikt i beredskap og systemer) |
-| K0068 | SIK-16 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0068 | SIK-16 | Bakgrunn – bruken avklares ved lesing |
 | K0204 | SIK-16 | Belegg for SIK-16.P01 (Mange enkeltaktører røper planene sine til andre på forhånd («leakage»)) |
 | K0068 | SIK-17 | Belegg for SIK-17.P01 (sabotasjetrusselen mot norsk infrastruktur) |
 | K0069 | SIK-17 | Belegg for SIK-17.P01 (sabotasjetrusselen mot norsk infrastruktur) |
@@ -62,7 +62,7 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0255 | SIK-18 | Belegg for SIK-18.P03 (Samspill mellom mange KI-agenter kan gi kaskadefeil ingen har forutsett) |
 | K0256 | SIK-18 | Belegg for SIK-18.P03 (Samspill mellom mange KI-agenter kan gi kaskadefeil ingen har forutsett) |
 | K0257 | SIK-18 | Belegg for SIK-18.P04 (Statnett gir algoritmer og KI en økende rolle i kraftsystemet) |
-| K0258 | SIK-18 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
+| K0258 | SIK-18 | Bakgrunn – bruken avklares ved lesing |
 | K0259 | SIK-18 | Belegg for SIK-18.P05 (KI-genererte reiseråd har sendt turister til farlige eller ikke-eksisterende steder) |
 | K0085 | SIK-19 | Belegg for SIK-19.P03 (Åpne norske modeller (NorMistral, Borealis, NorwAI) er et vilkår for norsk språk og suverenitet i KI) |
 | K0086 | SIK-19 | Belegg for SIK-19.P03 (Åpne norske modeller (NorMistral, Borealis, NorwAI) er et vilkår for norsk språk og suverenitet i KI) |

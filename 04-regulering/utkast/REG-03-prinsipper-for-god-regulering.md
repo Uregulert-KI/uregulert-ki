@@ -11,7 +11,7 @@ sist_endret: 2026-10-18
 
 ## Stikkord og materiale
 
-*Utvidet 2026-10-13 etter gjennomgang: avsnitt A–D, F og bærebjelken er lagt til. ISO-stoffet er flyttet hit fra [[REG-01]]. Det opprinnelige materialet fra hullanalysen står ordrett i avsnitt E. «Sjekk» betyr at detaljer må bekreftes.*
+*Utvidet 2026-10-13 etter gjennomgang. «Sjekk» betyr at detaljer må bekreftes.*
 
 - **Kjerne:** Rapporten argumenterer for *mer* regulering. Vi står i et teknologisk skifte uten sidestykke siden den industrielle revolusjon. Nettopp derfor må reguleringen utformes slik at den ikke skader verdiene den skal beskytte. Dette er et argument for *god* regulering, ikke mot regulering.
 - **Bærebjelke:** KI er en særegen teknologi og kan ikke reguleres som vanlige deterministiske systemer. Det er vrient å regulere statistiske utfallsrom. Men vi regulerer allerede statistiske utfall – legemidler og luftfart. Lærdommen derfra er ikke at KI er umulig å regulere, men at det krever en annen *type* regulering enn vanlig produktregulering.
@@ -71,8 +71,6 @@ sist_endret: 2026-10-18
 - **Norsk inngang:** Standard Norges speilkomité for KI [K0325] (sjekk navn og nummer). Hvem som sitter der, sier noe om hvem som former reguleringen.
 
 ### E Verdikonflikter – når reguleringen selv truer
-
-*Materialet fra hullanalysen, ordrett.*
 
 #### Stikkord
 

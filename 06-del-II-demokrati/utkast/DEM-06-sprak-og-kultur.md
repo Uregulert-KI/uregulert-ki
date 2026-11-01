@@ -45,7 +45,7 @@ sist_endret: 2026-10-27
 
 *Utvidet 2026-10-18 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
 
-- **Kjerne:** poengene fra bloggposten om dialekter [K0219] hører hjemme her – der argumentet er at god representasjon av alle dialekter kan være umulig. I tillegg: anglifiseringen av norsk, ikke bare gjennom massemedia, men nå også gjennom KI som lager uttrykk som **«to fugler med én stein»** (fra engelsk *two birds with one stone*) i stedet for **«to fluer i én smekk»**. Datagrunnlaget må med. Og KI er dårlig på lokalkunnskap – for eksempel regler som varierer fra land til land – noe som knytter an til arv og lokalkunnskap ([[LIV-15]]).
+- **Kjerne:** god representasjon av alle dialekter kan være umulig [K0219]. I tillegg: anglifiseringen av norsk, ikke bare gjennom massemedia, men nå også gjennom KI som lager uttrykk som **«to fugler med én stein»** (fra engelsk *two birds with one stone*) i stedet for **«to fluer i én smekk»**. Datagrunnlaget avgjør. Og KI er dårlig på lokalkunnskap – for eksempel regler som varierer fra land til land – noe som knytter an til arv og lokalkunnskap ([[LIV-15]]).
 - **Kort sagt:** norsk er en dråpe i datagrunnlaget, og modellen tenker på engelsk. Det som kommer ut, er oversettelsesnorsk – og den blir normen.
 - **Avgrensning:** samisk, minoritetsspråk og hvem som bestemmer hva som er «kvalitetsdata», står i [[DEM-16]]; moral og muntlig tradisjon i [[LIV-15]]; språkbarrieren som forsvinner i [[DEM-02]], avsnitt C; utflating i [[DEM-05]], avsnitt E. Her: norsk språk og kultur i modellene – datagrunnlaget, anglifiseringen, nynorsk, dialektene og lokalkunnskapen.
 

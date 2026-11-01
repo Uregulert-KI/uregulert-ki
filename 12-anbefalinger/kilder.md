@@ -8,6 +8,6 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 |---|---|---|
 
 *(Ingen kilder registrert ennå.)*
-| K0281 | ANB-01 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
-| K0282 | ANB-01 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
-| K0001 | ANB-01 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
+| K0281 | ANB-01 | Bakgrunn – bruken avklares ved lesing |
+| K0282 | ANB-01 | Bakgrunn – bruken avklares ved lesing |
+| K0001 | ANB-01 | Bakgrunn – bruken avklares ved lesing |

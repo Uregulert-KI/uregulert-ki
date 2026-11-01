@@ -11,7 +11,7 @@ sist_endret: 2026-10-25
 
 ## Stikkord og materiale
 
-*Utvidet 2026-10-25 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
+*Utvidet 2026-10-25 etter gjennomgang.*
 
 - **Formål:** forklare leseren hvordan hver påstand i rapporten kan spores til en kilde – og hvor sikker den er. Rapporten argumenterer for etterprøvbarhet; da må den selv kunne etterprøves.
 

@@ -12,7 +12,7 @@ sist_endret: 2026-10-25
 
 ## Stikkord og materiale
 
-*Utvidet 2026-10-25 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
+*Utvidet 2026-10-25 etter gjennomgang.*
 
 - **Kjerne:** det fjerne – samlet kort og nøkternt, med varsellamper. Hver mulig fare får tre ting: hva det er, hvor i rapporten den står, og hvilke tegn som ville flyttet den fra *fjern* til *nær*. Utsynet forteller leseren hva det er verdt å følge med på – uten å bli dystopisk.
 - **Avgrensning:** horisontsystemet i [[RAM-02]]; langsiktig og katastrofal risiko i [[SIK-08]]; scenarioene i [[TVG-04]].

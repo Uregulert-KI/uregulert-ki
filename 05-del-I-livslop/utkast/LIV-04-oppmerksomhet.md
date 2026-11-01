@@ -76,7 +76,6 @@ sist_endret: 2026-10-22
 - **Hjernens hvilenettverk** (Raichle mfl., 2001) [K0393]: når hjernen «ikke gjør noe», er den aktiv. Tankevandring henger sammen med kreativitet og problemløsning gjennom inkubasjon (Baird mfl., 2012) [K0394].
 - **Hvile etter læring styrker hukommelsen** (Dewar mfl., 2012) [K0395] – og søvn gjør det samme. Konstant påfyll gir ingen tid til at ting kan «skli inn».
 - **Kjedsomhet kan fremme kreativitet** (Mann og Cadman, 2014) [K0396].
-- **Overlapp merket til trimmingen:** dette ligger tett opp mot [[LIV-14]] (produktiv motstand og kjedsomhet). LIV-04 og LIV-14 er kandidater til sammenslåing.
 
 ### F Norske tall
 

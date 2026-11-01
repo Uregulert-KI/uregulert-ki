@@ -12,9 +12,9 @@ Rekkefølgen i tabellen er rekkefølgen i rapporten. ID-ene sier ingenting om pl
 
 | Rekkefølge | ID | Tittel | Fil | Status | Påstander |
 |---|---|---|---|---|---|
-| 1 | INN-01 | Bakgrunn og problemstilling | [utkast/INN-01-bakgrunn-og-problemstilling.md](utkast/INN-01-bakgrunn-og-problemstilling.md) | stikkord | 1 |
+| 1 | INN-01 | Bakgrunn og problemstilling | [utkast/INN-01-bakgrunn-og-problemstilling.md](utkast/INN-01-bakgrunn-og-problemstilling.md) | stikkord | 12 |
 | 2 | INN-02 | Definisjoner | [utkast/INN-02-definisjoner.md](utkast/INN-02-definisjoner.md) | stikkord | 1 |
-| 3 | INN-03 | Norske verdier – rapportens målestokk | [utkast/INN-03-norske-verdier.md](utkast/INN-03-norske-verdier.md) | stikkord | 12 |
+| 3 | INN-03 | Norske verdier – rapportens målestokk | [utkast/INN-03-norske-verdier.md](utkast/INN-03-norske-verdier.md) | stikkord | 35 |
 | 4 | INN-04 | Metode | [utkast/INN-04-metode.md](utkast/INN-04-metode.md) | stikkord | 0 |
 | 5 | INN-05 | Avgrensning | [utkast/INN-05-avgrensning.md](utkast/INN-05-avgrensning.md) | stikkord | 0 |
 

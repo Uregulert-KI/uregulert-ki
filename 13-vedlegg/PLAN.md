@@ -4,7 +4,7 @@ Mappe: `13-vedlegg/` · Prefiks: `VED` · Sist endret: 2026-10-12
 
 ## Mål
 
-Vedlegg til rapporten. Disposisjonen datert 2026-09-22 ligger i `arkiv/` som referanse, sammen med overføringskontrollen.
+Vedlegg til rapporten.
 
 ## Underkapitler og status
 

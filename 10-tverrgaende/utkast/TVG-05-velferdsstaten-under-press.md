@@ -57,28 +57,26 @@ sist_endret: 2026-10-27
 
 ### Helsevesenet
 
-*Slått sammen fra OKO-17 «Helsevesenet som samfunnsinstitusjon» 2026-10-13 (E012). Påstandene beholder ID-ene OKO-17.P01–P08. Stikkordene merket «forslag ved oppsett» er ikke fra disposisjonen og må sjekkes. Kildene er ikke verifisert.*
+*Helsevesenet (tidligere OKO-17 «Helsevesenet som samfunnsinstitusjon») er slått sammen med dette temaet (E012). Påstandene beholder ID-ene OKO-17.P01–P08. Kildene er ikke verifisert.*
 
 *Avgrensning: dette avsnittet handler om institusjonen. Pasientens møte med KI står i [[LIV-08]] (psykisk helse) og [[LIV-10]] (eldre og omsorg). Feil og automasjonsbias i kliniske beslutninger står i [[RET-05]]. Disse temaene viser hit.*
 
-- **Spleiselaget i praksis:** et felles, offentlig finansiert helsevesen med likeverdig tilgang er den mest konkrete formen for solidaritet i velferdsstaten. Pasient- og brukerrettighetsloven [K0016] har likeverdig tilgang som formål (forslag ved oppsett – sjekk ordlyd). Kobles til [[OKO-03]].
+- **Spleiselaget i praksis:** et felles, offentlig finansiert helsevesen med likeverdig tilgang er den mest konkrete formen for solidaritet i velferdsstaten. Pasient- og brukerrettighetsloven [K0016] har likeverdig tilgang som formål (sjekk ordlyd). Kobles til [[OKO-03]].
 - **Bemanningskrisen som drivkraft:** Helsepersonellkommisjonen (NOU 2023:4) [K0058] er bakgrunnen for automatiseringspresset. KI presenteres som svaret på mangelen på folk. Risikoen: KI blir et sparetiltak og ikke et kvalitetstiltak, og menneskelig kontakt rasjoneres. Se også [[LIV-10]].
 - **Prioritering:** de norske prioriteringsprinsippene – nytte, ressursbruk og alvorlighet [K0215] – forutsetter åpne, begrunnede valg. Hva skjer når KI triagerer eller rangerer pasienter? Jf. blindsonene i KI-basert triage (Mount Sinai [K0121], [[RET-05]]). (Forslag ved oppsett.)
 - **Profesjonsansvar og forsvarlighet:** helsepersonelloven [K0212] krever forsvarlig yrkesutøvelse. Hvem er ansvarlig når KI-forslaget er feil og legen godkjente det? Jf. ansvarsgap ([[RET-01]]), automasjonsbias (Goddard [K0122], [[RET-05]]) og kompetanseforvitring (endoskopi-studien [K0036], [[LIV-03]]). (Forslag ved oppsett.)
 - **KI som medisinsk utstyr:** godkjenning og tilsyn ligger hos Helsedirektoratet [K0123] og DMP [K0124]. Systemer som fungerer i test, men ikke i praksis (Epics sepsismodell [K0120], [[RET-05]]).
 - **Helsedata som råvare:** Norges helseregistre og biobanker er unike og attraktive som treningsdata. Hvem får tilgang, på hvilke vilkår, og hvem eier modellene som trenes? Helseregisterloven [K0214]; personvern og skylagring hos amerikanske leverandører ([[SIK-01]]). (Forslag ved oppsett.)
 - **Journal og taushetsplikt:** KI som lytter i konsultasjonen og skriver journalnotat (tale-til-tekst) – journalkvalitet, taushetsplikt og hvor lydopptakene behandles. Helsepersonelloven [K0212]. (Forslag ved oppsett – sjekk utprøving i norske helseforetak.)
-- **Leverandøravhengighet:** store helse-IT-anskaffelser låser sektoren til få leverandører. Norsk eksempel: Helseplattformen i Midt-Norge (forslag ved oppsett – sjekk detaljer og ev. Riksrevisjonens gjennomgang). Kobles til [[OKO-02]].
+- **Leverandøravhengighet:** store helse-IT-anskaffelser låser sektoren til få leverandører. Norsk eksempel: Helseplattformen i Midt-Norge (sjekk detaljer og ev. Riksrevisjonens gjennomgang). Kobles til [[OKO-02]].
 - **Skjevheter:** helsealgoritmer kan ha systematiske skjevheter (Obermeyer mfl. [K0113], [[RET-03]]). Norsk vinkling: samiske pasienter, minoritetsspråklige og nynorsk/samisk i språkmodeller ([[DEM-06]]). (Forslag ved oppsett.)
 - **Todeling:** private KI-baserte og digitale helsetjenester for dem som kan betale, mens fellesskapet får ventelister. Den samme utmeldingsmekanismen som under «Kjerne og mekanisme». (Forslag ved oppsett.)
 - **Kommunehelsetjenesten:** fastlege, helsestasjon, sykehjem og hjemmetjenester leveres av kommunene – se «Der velferden leveres» over.
-- **Tilsyn og klage:** Pasient- og brukerombudene; Statens helsetilsyn (forslag ved oppsett).
+- **Tilsyn og klage:** Pasient- og brukerombudene; Statens helsetilsyn (sjekk).
 - **Verdier som trues:** særlig menneskeverd og likeverd, solidaritet og likhet, personvern og tillit ([[INN-03]]).
 - **Anbefalinger:** adressat bl.a. Helse- og omsorgsdepartementet ([[ANB-01]]).
 
 ### Tillitssamfunnets lavterskelordninger
-
-*Vinkling fra hullanalysen 2026-10-13. Ikke fra disposisjonen.*
 
 - **Kjerne:** Tillitserosjon gjennom *ordninger*, ikke bare informasjon ([[DEM-03]]). Høy tillit betyr at mye forvaltning hviler på egenerklæringer. Generativ KI gjør det nesten gratis å forfalske dokumentasjon. Det gir en ond sirkel: forfalskning → mer kontroll → mindre tillit → dyrere spleiselag.
 - **Stikkord:** egenmelding, egenerklæringer til NAV, kvitteringer, attester, vitnemål, HMS-dokumentasjon, a-krim.
@@ -86,9 +84,7 @@ sist_endret: 2026-10-27
 - **Kryssreferanser:** [[RET-07]] (kontrollen), [[SIK-05]] (svindelen), [[DEM-07]] (vitnemålets verdi).
 - **Kilder (ikke verifisert):** Økokrims trusselvurderinger [K0184]; a-krimsentrenes årsrapporter [K0277].
 
-### Registerdata og helsedata (venter)
-
-*Vinkling fra hullanalysen 2026-10-13. **Venter** – du leser deg opp. Hører til «Helsevesenet» over.*
+### Registerdata og helsedata
 
 - **Kort forklart:** Norge har nasjonale registre koblet til personnummer (Kreftregisteret, Reseptregisteret, SSB m.fl.). De er blant verdens beste for forskning.
 - **Hvem får verdien?** Data som fellesskapet har bygget opp, kan bli treningsdata for utenlandske selskaper. Et spleiselag som tjener andre.

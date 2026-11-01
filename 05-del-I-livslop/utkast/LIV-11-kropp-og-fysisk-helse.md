@@ -45,7 +45,7 @@ sist_endret: 2026-10-22
 
 *Utvidet 2026-10-13 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
 
-- **Kjerne:** «Er det verdier her som faktisk trues, eller er det mer WALL-E-aktig latskap som er faren?» Latskapssporet er det svakeste: skjermer, sofa og bil har gjort oss inaktive i flere tiår, og vi har ingen data som viser at KI *i seg selv* gjør oss mindre aktive. Temaet vinkles derfor som **kroppen i KI-alderen**, med tre spor: KI som lege i lomma (A), den målte kroppen (B) og friksjonen som forsvinner (C). A og B truer konkrete verdier og bærer temaet. C beholder den gode overskriften, men er kandidat til trimming.
+- **Kjerne:** trues verdier her, eller er faren bare latskap? Latskapssporet er det svakeste: skjermer, sofa og bil har gjort oss inaktive i flere tiår, og vi har ingen data som viser at KI *i seg selv* gjør oss mindre aktive. Temaet handler derfor om **kroppen i KI-alderen**, med tre spor: KI som lege i lomma (A), den målte kroppen (B) og friksjonen som forsvinner (C). A og B truer konkrete verdier og bærer temaet.
 - **Avgrensning:** psykisk helse står i [[LIV-08]], helsevesenet som institusjon i [[TVG-05]], kroppspress og kroppsidealer i [[LIV-05]], GPS og romlig hukommelse i [[LIV-03]]. Mulig ny tittel: «Kropp og helse».
 
 ### A KI som lege i lomma – selvdiagnose

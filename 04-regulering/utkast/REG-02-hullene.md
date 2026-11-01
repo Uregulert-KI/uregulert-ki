@@ -29,8 +29,8 @@ sist_endret: 2026-10-27
 
 ### 2 Ansvar og jurisdiksjon
 
-- Jurisdiksjon: leverandører utenfor EØS, data som behandles i USA. *(disposisjonen)*
-- Ansvar: ingen klar produktansvarsregel for KI (EUs forslag til KI-ansvarsdirektiv ble trukket – sjekk). [K0025] *(disposisjonen)*
+- Jurisdiksjon: leverandører utenfor EØS, data som behandles i USA.
+- Ansvar: ingen klar produktansvarsregel for KI (EUs forslag til KI-ansvarsdirektiv ble trukket – sjekk). [K0025]
 - **Det KI-forordningen løser:** den fordeler plikter langs verdikjeden – leverandør, idriftsetter, importør og distributør – og KI-kontoret i EU har ansvaret for de store modellene [K0001].
 - **Det den ikke løser:** pliktene gjelder bare innenfor EU, mens de fleste leverandørene av store modeller er amerikanske. Håndheving over landegrensene er krevende.
 - **Erstatningsansvaret:** det reviderte produktansvarsdirektivet [K0109] dekker trolig ikke rene formuestap eller diskriminering (sjekk). Den som skades økonomisk eller forskjellsbehandles av et KI-system, har dermed ingen klar vei til erstatning.
@@ -54,28 +54,28 @@ sist_endret: 2026-10-27
 
 ### 5 Tidsvinduet og innlåsing
 
-- Tempo: regelverk som ble utformet før KI-agenter og kompanjonger ble vanlige. *(disposisjonen)*
+- Tempo: regelverk som ble utformet før KI-agenter og kompanjonger ble vanlige.
 - **Vinduet:** forbudene i KI-forordningen gjaldt fra februar 2025 og reglene for store modeller fra august 2025. Høyrisikoreglene foreslås utsatt til 2027–28 gjennom den digitale omnibusen [K0292] (sjekk). En norsk lov kommer tidligst våren 2027 [K0014]. Det gir minst ett år der de store private selskapene i praksis setter reglene og påvirker utviklingen i sin favør.
 - **Det verste er ikke ventetiden, men innlåsingen:** det som tas i bruk i vinduet, blir infrastruktur. Regulering som kommer i 2027–28, må regulere noe som allerede er installert – med leverandørbinding og stiavhengighet ([[RET-15]], [[TVG-06]]). Det er langt vanskeligere enn å regulere før systemene tas i bruk.
 - **EØS-etterslepet** – gjennomgående, se under.
 
 #### Gjennomgående: EØS-etterslepet
 
-*Fra hullanalysen 2026-10-13. Ikke eget tema, siden hele rapporten handler om at reguleringen henger etter. Konkretiseres her og i dateringslista. Hvilke EU-regler som gjelder i Norge, står i kolonnen «Gjelder i Norge?» i [[REG-01]].*
+*Ikke eget tema, siden hele rapporten handler om at reguleringen henger etter. Hvilke EU-regler som gjelder i Norge, står i kolonnen «Gjelder i Norge?» i [[REG-01]].*
 
 - **Stikkord:** EU-regler som gjelder i EU, men ikke i Norge; KI-loven utsatt; merkekrav for deepfakes som ikke gjelder her ennå.
 - **Eksempel:** ny høring av KI-loven høsten 2026, proposisjon tidligst våren 2027 [K0014].
 
 ### 6 Det som faller utenfor
 
-- Forbrukervern: kompanjong-apper og emosjonell manipulasjon er svakt dekket. *(disposisjonen)*
+- Forbrukervern: kompanjong-apper og emosjonell manipulasjon er svakt dekket.
 - **Unntak i KI-forordningen:** militær bruk, forsvar og nasjonal sikkerhet er unntatt helt [K0001] ([[SIK-06]], [[SIK-09]]). Forskning, privat bruk og deler av åpen kildekode har også unntak ([[SIK-19]]).
 - **Lovlig, men skadelig bruk:** mye av det rapporten beskriver – monokultur, avhengighet, utmelding fra fellesløsninger ([[TVG-05]]) – er ikke ulovlig noe sted. Det faller mellom alle regelverk.
 
 ### 7 Håndheving og rettsmidler
 
-- Håndheving: tilsyn uten nok kompetanse og ressurser. *(disposisjonen)*
-- Offentlig sektor: innkjøp og bruk uten felles minstekrav. *(disposisjonen)* Se [[RET-15]].
+- Håndheving: tilsyn uten nok kompetanse og ressurser.
+- Offentlig sektor: innkjøp og bruk uten felles minstekrav. Se [[RET-15]].
 - **Den enkeltes rettsmidler:** det er vanskelig å vite at man er rammet av en KI-beslutning, og enda vanskeligere å klage. Gruppesøksmål [K0314] er lite brukt i Norge.
 - **Kunnskapsgrunnlaget:** evalueringen av KI-modeller gjøres i stor grad av leverandørene selv. Myndighetene har ingen uavhengig testkapasitet.
 

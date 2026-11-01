@@ -45,7 +45,7 @@ sist_endret: 2026-10-23
 
 *Utvidet 2026-10-18 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
 
-- **Kjerne:** DEM-11 gjøres om til en samlet oversikt over **hva som kan bidra til nedkjøling** – utpressing, svindel, hets, hat, forfalskninger og alle andre dimensjoner som kan få offentlige personer (og vanlige folk) til å bli mer forsiktige, eller redde for å mene ting offentlig.
+- **Kjerne:** en samlet oversikt over **hva som kan bidra til nedkjøling** – utpressing, svindel, hets, hat, forfalskninger og alle andre dimensjoner som kan få offentlige personer (og vanlige folk) til å bli mer forsiktige, eller redde for å mene ting offentlig.
 - **Kort sagt:** mekanismene står spredt i rapporten. Her samles de – og spørsmålet er hva de gjør med *hvem som tør å delta*.
 
 ### A Hva nedkjøling er – og hvorfor det er et demokratiproblem

@@ -45,8 +45,8 @@ sist_endret: 2026-10-13
 
 *Utvidet 2026-10-13 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
 
-- **Kjerne:** Urealistiske kroppsbilder, forventninger til sex og samspill med andre. Dette er mest rettet mot unge menn, men kvinner er ikke immune, så temaet skrives kjønnsnøytralt. Generativ KI gjør det enklere å eksperimentere med ekstrem porno og å få utløp for forbigående tanker som kanskje ikke er heldige. Noen vil foretrekke maskinen framfor en ekte partner, fordi maskinen ikke dømmer. For usikre unge kan det være bra med et sted å ventilere – men det kan skape en nesten irreversibel avhengighet av maskinen.
-- **Vinkling (uendret fra disposisjonen):** utvikling og selvbilde hos unge, ikke overgrep. Seksualiserte deepfakes av virkelige personer står i [[LIV-16]] og [[DEM-03]].
+- **Kjerne:** Urealistiske kroppsbilder, forventninger til sex og samspill med andre. Dette er mest rettet mot unge menn, men kvinner er ikke immune, så temaet gjelder alle kjønn. Generativ KI gjør det enklere å eksperimentere med ekstrem porno og å få utløp for forbigående tanker som kanskje ikke er heldige. Noen vil foretrekke maskinen framfor en ekte partner, fordi maskinen ikke dømmer. For usikre unge kan det være bra med et sted å ventilere – men det kan skape en nesten irreversibel avhengighet av maskinen.
+- **Vinkling:** utvikling og selvbilde hos unge, ikke overgrep. Seksualiserte deepfakes av virkelige personer står i [[LIV-16]] og [[DEM-03]].
 
 ### A Kroppsbilder og syntetiske standarder
 
@@ -70,7 +70,7 @@ sist_endret: 2026-10-13
 
 - Noen foretrekker maskinen framfor en ekte partner: den dømmer ikke, avviser ikke og krever ingenting. Undersøkelser om unge voksnes holdning til KI-partnere [K0416] (sjekk); tenåringer og KI-kompanjonger (Common Sense Media [K0049]). Kompanjongene og emosjonell avhengighet står i [[LIV-07]].
 - **Samtykke:** en maskin som alltid sier ja, gir ingen trening i å lese og respektere et nei. Norge har innført en samtykkebasert voldtektsbestemmelse (2025) [K0415] (sjekk ikrafttredelse) – samtykke er nettopp det unge må lære i samspill med andre mennesker.
-- **Nesten irreversibel avhengighet:** når de første erfaringene med intimitet og bekreftelse skjer med en maskin som er designet for å holde på brukeren, kan veien tilbake til krevende menneskelige relasjoner bli lang. Evidensen er foreløpig tynn – merkes som risiko, ikke som påvist effekt. Se også mørke mønstre i [[LIV-04]], avsnitt I.
+- **Nesten irreversibel avhengighet:** når de første erfaringene med intimitet og bekreftelse skjer med en maskin som er designet for å holde på brukeren, kan veien tilbake til krevende menneskelige relasjoner bli lang. Evidensen er foreløpig tynn: dette er en risiko, ikke en påvist effekt. Se også mørke mønstre i [[LIV-04]], avsnitt I.
 
 ### E Nyansen – et trygt sted å ventilere
 
@@ -86,4 +86,4 @@ sist_endret: 2026-10-13
 
 ### G Avklart henvisning
 
-- Disposisjonen viste til «7.4» for seksualiserte deepfakes og samtykke. Det er avklart 2026-10-13: seksualiserte deepfakes av virkelige personer behandles i [[LIV-16]] (krenkelsen av den enkelte) og [[DEM-03]] (tillit og offentlighet). [[RET-04]] dekker bare deepfakes som bevis i politi og domstoler.
+- Seksualiserte deepfakes av virkelige personer behandles i [[LIV-16]] (krenkelsen av den enkelte) og [[DEM-03]] (tillit og offentlighet). [[RET-04]] dekker bare deepfakes som bevis i politi og domstoler.

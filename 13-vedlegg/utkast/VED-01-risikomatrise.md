@@ -9,9 +9,9 @@ sist_endret: 2026-10-12
 
 # VED-01 Risikomatrise
 
-## Stikkord og materiale fra disposisjonen
+## Stikkord og materiale
 
-Én rad per underkapittel. Fyll ut underveis, så er vedlegget ferdig når fagkapitlene er det.
+Én rad per tema.
 
 | ID | Fare | Risikotype | Sannsynlighet (1–5) | Konsekvens (1–5) | Tidshorisont | Evidensstyrke |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -20,4 +20,3 @@ sist_endret: 2026-10-12
 | [[SIK-02]] | Skygge-KI i staten | Uhell |  |  | Nå |  |
 | … |  |  |  |  |  |  |
 
-*Merknad ved oppsett:* kolonnen «Kap.» er erstattet med «ID».

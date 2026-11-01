@@ -4,14 +4,27 @@ tittel: Anbefalinger etter adressat
 del: Kap. 12 – Anbefalinger
 status: stikkord
 risikotype: ikke relevant
-sist_endret: 2026-10-19
+sist_endret: 2026-11-01
 ---
 
 # ANB-01 Anbefalinger etter adressat
 
-## Stikkord og materiale fra disposisjonen
+## Stikkord og materiale
 
-Samle anbefalingene fra fagkapitlene her, sortert etter adressat. Hver anbefaling: hva, hvem, når, og hvilke tema-ID-er den bygger på.
+Anbefalingene fra fagkapitlene, sortert etter adressat.
+
+### Slik er anbefalingene bygget
+
+- **Tre typer, etter hvor sterk evidensen er:**
+  - **Handle nå:** konkrete tiltak der faren er dokumentert og pågår. Anbefalingen har en adressat og en frist.
+  - **Utred:** der evidensen er for tynn til et konkret tiltak, men faren er alvorlig. Anbefalingen er et oppdrag til et offentlig utvalg, et forskningsmiljø eller et tilsyn.
+  - **Følg med:** varsellamper for farer som er nær eller fjern, og hva som skal utløse handling ([[TVG-10]]).
+- **Hver anbefaling sier** hva som skal gjøres, hvem som skal gjøre det, når, hvilken type den er, hvilke temaer den bygger på, og hvor sterk evidensen er ([[INN-04]]).
+- **Virker den mot dem som ikke følger reglene?** Hver anbefaling sier om den treffer lokale og åpne modeller, kommersielle modeller eller bare de lovlydige. Regler for atferd suppleres med tiltak som virker på tilgang, betaling eller infrastruktur ([[RAM-02]], [[REG-04]]).
+- **Knutepunkter først:** anbefalinger som bremser flere farer samtidig, prioriteres ([[TVG-04]]).
+- **Prinsippene for god regulering** i [[REG-03]] gjelder alle anbefalingene.
+
+### Eksempler etter adressat
 
 | Adressat | Eksempler på anbefalinger (utkast) | Bygger på |
 | --- | --- | --- |
@@ -24,13 +37,11 @@ Samle anbefalingene fra fagkapitlene her, sortert etter adressat. Hver anbefalin
 | Arbeidslivets parter | KI i hovedavtaler og tariffoppgjør; medbestemmelse ved innføring | [[OKO-01]], [[OKO-07]] |
 | Utenriksdepartementet | Aktiv rolle for regulering av autonome våpen | [[SIK-06]] |
 
-Prioriter: marker 5–10 anbefalinger som de viktigste til sammendraget.
-
-*Merknad ved oppsett:* disposisjonens henvisning til hele reguleringskapitlet er gjengitt som [[REG-01]] og [[REG-02]], og spennet Skygge-KI–Beredskap som [[SIK-02]]–[[SIK-07]].
+De 5–10 viktigste anbefalingene løftes inn i sammendraget.
 
 ### Tiltak: Hendelsesrapportering
 
-*Fra hullanalysen 2026-10-13. Ikke en trussel, men et tiltak.*
+*Et tiltak, ikke en trussel.*
 
 - **Kjerne:** Hvem samler norske KI-hendelser og nestenulykker, og hvordan føres erfaringene tilbake til regulering og innkjøp?
 - **Kilder (ikke verifisert):** OECD AI Incidents Monitor [K0281]; OECDs felles rammeverk for hendelsesrapportering (2025) [K0282]; AI Act art. 73 om rapportering av alvorlige hendelser [K0001].

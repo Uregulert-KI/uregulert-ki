@@ -41,9 +41,9 @@ sist_endret: 2026-10-21
 
 ---
 
-## Stikkord og materiale fra disposisjonen
+## Stikkord og materiale
 
-*Status i disposisjonen: analytisk ramme for hele delen. Løfter Del III fra enkeltproblemer til ett argument: rettsstatens legitimitet hviler på at loven er menneskers verk, og den antakelsen begynner å slå sprekker.*
+*Analytisk ramme for hele delen. Løfter Del III fra enkeltproblemer til ett argument: rettsstatens legitimitet hviler på at loven er menneskers verk, og den antakelsen begynner å slå sprekker.*
 
 ### Rammeverk for Del III: KI-agenter i rettsordenen
 

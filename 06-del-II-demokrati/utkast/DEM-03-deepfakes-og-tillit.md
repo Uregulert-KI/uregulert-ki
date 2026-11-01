@@ -45,9 +45,9 @@ sist_endret: 2026-10-27
 
 *Utvidet 2026-10-15 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
 
-- **Kjerne:** DEM-03 eier **tillitssamfunnet** – hva som skjer med et land som bygger på høy tillit, når man ikke lenger kan stole på det man ser og hører. Løgnerens bonus står i [[DEM-02]], avsnitt I; seksualiserte deepfakes i [[LIV-16]]; falske minner i [[LIV-09]]; tillitsordningene i [[TVG-05]].
+- **Kjerne:** **tillitssamfunnet** – hva som skjer med et land som bygger på høy tillit, når man ikke lenger kan stole på det man ser og hører. Løgnerens bonus står i [[DEM-02]], avsnitt I; seksualiserte deepfakes i [[LIV-16]]; falske minner i [[LIV-09]]; tillitsordningene i [[TVG-05]].
 - **Kort sagt:** tillit er Norges usynlige infrastruktur. Deepfakes gjør den både lettere å misbruke og lettere å miste.
-- **Mulig utvidelse:** «tillitssamfunnet og dugnad» kan bli en del av et større grep om «typisk norsk» (notert som kandidat i 10-tverrgaende/PLAN.md).
+- **Typisk norsk:** tillitssamfunnet og dugnaden står også i [[TVG-09]].
 
 ### A Tillitssamfunnet – Norges usynlige infrastruktur
 

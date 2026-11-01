@@ -47,7 +47,9 @@ if (d.modus === 'tillegg') {
   fs.mkdirSync(P(`${mappe}/opprinnelig`), { recursive: true });
   const tittel = (head.match(/^# (.*)$/m) || [, d.id])[1];
   wr(`${mappe}/opprinnelig/${d.id}.md`, `# ${tittel} – opprinnelig materiale\n\n*Flyttet ut av temafila ${DATO}. Holdes utenfor det delte repoet (.gitignore). Ordrett slik det sto.*\n\n${opph}\n\n${kropp}\n`);
-  ny = `## Stikkord og materiale\n\n*Utvidet ${DATO} etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*\n\n${materiale}\n`;
+  // Forklaringen av «sjekk» tas bare med når materialet faktisk har sjekkmerker (2026-11-01)
+  const sjekk = /\(sjekk|sjekk\)/i.test(materiale) ? ' «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.' : '';
+  ny = `## Stikkord og materiale\n\n*Utvidet ${DATO} etter gjennomgang.${sjekk}*\n\n${materiale}\n`;
 }
 
 // Påstander

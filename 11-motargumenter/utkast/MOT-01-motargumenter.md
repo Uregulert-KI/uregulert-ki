@@ -9,7 +9,7 @@ sist_endret: 2026-10-18
 
 # MOT-01 Motargumenter og avveininger
 
-## Stikkord og materiale fra disposisjonen
+## Stikkord og materiale
 
 Målet er å møte de sterkeste motargumentene, ikke stråmenn. Kapitlet øker troverdigheten til resten av rapporten.
 

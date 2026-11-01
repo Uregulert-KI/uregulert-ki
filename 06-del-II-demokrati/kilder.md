@@ -23,23 +23,23 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0074 | DEM-04 | Belegg for DEM-04.P01 (New York Times saksøkte OpenAI) |
 | K0075 | DEM-04 | Belegg for DEM-04.P03 (Brukere klikker mindre på lenker når Google viser KI-oppsummeringer) |
 | K0076 | DEM-04 | Belegg for DEM-04.P04 (Redaksjonenes inntekter faller når KI-svar erstatter klikk; lokalaviser er mest sårbare) |
-| K0077 | DEM-04 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0077 | DEM-04 | Bakgrunn – bruken avklares ved lesing |
 | K0078 | DEM-04 | Belegg for DEM-04.P04 (Redaksjonenes inntekter faller når KI-svar erstatter klikk; lokalaviser er mest sårbare) |
 | K0079 | DEM-05 | Belegg for DEM-05.P01 (Modeller kollapser når de trenes rekursivt på generert data (model collapse)) |
 | K0080 | DEM-05 | Belegg for DEM-05.P02 (Artikkelfabrikker er et voksende problem i forskningen) |
 | K0081 | DEM-05 | Belegg for DEM-05.P02 (Artikkelfabrikker er et voksende problem i forskningen) |
-| K0082 | DEM-05 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0082 | DEM-05 | Bakgrunn – bruken avklares ved lesing |
 | K0083 | DEM-06 | Belegg for DEM-06.P01 (LLM-er speiler vestlige, utdannede, rike befolkninger) |
-| K0084 | DEM-06 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0085 | DEM-06 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0086 | DEM-06 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0087 | DEM-06 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0004 | DEM-07 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0088 | DEM-07 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0034 | DEM-07 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
-| K0089 | DEM-07 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0084 | DEM-06 | Bakgrunn – bruken avklares ved lesing |
+| K0085 | DEM-06 | Bakgrunn – bruken avklares ved lesing |
+| K0086 | DEM-06 | Bakgrunn – bruken avklares ved lesing |
+| K0087 | DEM-06 | Bakgrunn – bruken avklares ved lesing |
+| K0004 | DEM-07 | Bakgrunn – bruken avklares ved lesing |
+| K0088 | DEM-07 | Bakgrunn – bruken avklares ved lesing |
+| K0034 | DEM-07 | Bakgrunn – bruken avklares ved lesing |
+| K0089 | DEM-07 | Bakgrunn – bruken avklares ved lesing |
 | K0090 | DEM-07 | Belegg for DEM-07.P01 (Når KI kan skrive oppgaver og hjemmeeksamener, svekkes vitnemålets verdi) |
-| K0030 | DEM-07 | Kildeforslag fra disposisjonen (bakgrunn) – bruk avklares ved lesing |
+| K0030 | DEM-07 | Bakgrunn – bruken avklares ved lesing |
 | K0092 | DEM-07 | Belegg for DEM-07.P03 (Danske Datatilsynet grep inn mot Chromebook-bruken i Helsingør kommune (2022)) |
 | K0093 | DEM-08 | Belegg for DEM-08.P01 (KI-assistenter gjør redaksjonelle valg uten redaktøransvar etter medieansvarsloven og Redaktørplakaten) |
 | K0094 | DEM-08 | Belegg for DEM-08.P01 (KI-assistenter gjør redaksjonelle valg uten redaktøransvar etter medieansvarsloven og Redaktørplakaten) |
@@ -52,18 +52,18 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0223 | DEM-16 | Belegg for DEM-16.P02 (Samer har kollektive rettigheter (Grl. § 108, konsultasjonsplikt, ILO 169) som også gjelder kontroll over egne språk- og kulturdata) |
 | K0222 | DEM-16 | Belegg for DEM-16.P04 (Språkteknologi med majoritetsspråket som standard kan virke assimilerende, i lys av fornorskningspolitikken) |
 | K0001 | DEM-16 | Belegg for DEM-16.P05 (Det finnes ingen definisjon av når språklig representasjon i KI er «god nok»; AI Act art. 10 nevner ikke språk) |
-| K0085 | DEM-16 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
+| K0085 | DEM-16 | Bakgrunn – bruken avklares ved lesing |
 | K0087 | DEM-16 | Belegg for DEM-16.P03 (Språkmodellene gir svakere støtte for samiske språk, kvensk og nynorsk enn for bokmål) |
 | K0227 | DEM-16 | Belegg for DEM-16.P06 (Sametinget og KS har en avtale for 2026–2029 om digitale verktøy og KI på samiske språk) |
 | K0219 | DEM-16 | Belegg for DEM-16.P01 (Filtrering for «kvalitetsdata» fjerner uformelt språk der dialekter og minoritetsspråk lever) |
-| K0225 | DEM-16 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
+| K0225 | DEM-16 | Bakgrunn – bruken avklares ved lesing |
 | K0084 | DEM-16 | Belegg for DEM-16.P03 (Språkmodellene gir svakere støtte for samiske språk, kvensk og nynorsk enn for bokmål) |
 | K0249 | DEM-17 | Belegg for DEM-17.P02 (En prest har taushetsplikt og vitnefritak; en chatbot i sjelesorg har ingen av delene) |
 | K0003 | DEM-17 | Belegg for DEM-17.P01 (Religionsfrihet er grunnlovsfestet (Grl. § 16), og stat og kirke er skilt) |
 | K0248 | DEM-17 | Belegg for DEM-17.P01 (Religionsfrihet er grunnlovsfestet (Grl. § 16), og stat og kirke er skilt) |
-| K0250 | DEM-17 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
-| K0251 | DEM-17 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
-| K0252 | DEM-17 | Kildeforslag fra hullanalysen (bakgrunn) – bruk avklares ved lesing |
+| K0250 | DEM-17 | Bakgrunn – bruken avklares ved lesing |
+| K0251 | DEM-17 | Bakgrunn – bruken avklares ved lesing |
+| K0252 | DEM-17 | Bakgrunn – bruken avklares ved lesing |
 | K0283 | DEM-14 | Belegg for DEM-14.P02 (KI-basert talentidentifisering og prestasjonsdata på barn går imot barneidrettsbestemmelsene) |
 | K0649 | DEM-01 | Belegg for DEM-01.P06 (Modellers verdier formes av treningsdata, finjustering etter selskapenes retningslinjer, verdidokumenter og systeminstrukser) |
 | K0648 | DEM-01 | Belegg for DEM-01.P06 (Modellers verdier formes av treningsdata, finjustering etter selskapenes retningslinjer, verdidokumenter og systeminstrukser) |

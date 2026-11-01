@@ -1,6 +1,6 @@
 # Del IV – Økonomi, arbeid og solidaritet: innledning til delen
 
-## Mekanismer notert underveis
+## Mekanismene som går igjen
 
 - **Tapte inngangsjobber og tapt opplæring:** juniorjobbene og mesterlæren er der faget læres. Når opplæringen settes bort til KI, får vi læringsillusjonen på arbeidsplassen – og svekket samhold og tilhørighet ([[OKO-01]]).
 - **Gevinsten tas ut som tempo, ikke fritid – samfunn på tomgang:** arbeidet flyttes og blir sirkulært (KI-ping-pong). Et overarbeidet folk har mindre overskudd til frivillighet og demokrati, og bare de med økonomisk trygghet får tid til å forme samfunnet ([[OKO-12]]).

@@ -63,7 +63,7 @@ Lovlige statuser for temaer: `kandidat`, `ikke startet`, `stikkord`, `utkast`, `
 - Mappenes `kilder.md` refererer bare til K-ID og hva kilden brukes til. Navn og metadata hentes fra 99.
 - **Hvor i kilden (2026-10-27):** når en kilde er sjekket som `verifisert` eller `delvis`, føres stedet (side, § og ledd, artikkel og nummer, avsnitt i dom eller overskrift på nettside) i raden i mappens `kilder.md`, fordi samme kilde kan belegge ulike påstander fra ulike steder. Akademisk sitatformat lages fra kilderegisteret ved publisering.
 - `bibliografi.bib` har én oppføring per K-ID, med K-ID-en som nøkkel. `oppdater-tema.js` legger inn en tom oppføring for hver ny K-ID; **de fullstendige oppføringene genereres fra kilderegisteret ved publisering** (verktøy lages da) i stedet for å fylles ut for hånd (2026-10-25).
-- Kilder fra disposisjonen er satt opp fra hukommelsen og har status `ikke verifisert` til originalen er funnet og lest.
+- Kilder som er satt opp fra hukommelsen, har status `ikke verifisert` til originalen er funnet og lest.
 - **Verifikasjonsnivåer** (kolonnen «Status» i kilderegisteret, fra 2026-10-25): `ikke verifisert` · `verifisert` · `delvis` · `sekundær` · `ikke funnet` · `feil`. Definisjonene står øverst i `99-kilder/kilderegister.md`. Samme nivåer brukes i dugnaden (`metode/dugnad-veiledning.md`).
 - **Fjernede og inaktive kilder** flyttes fra kilderegisteret til `99-kilder/fjernede-kilder.md` – verifiserte eller ikke. Status `fjernet` (skal ikke brukes) eller `inaktiv` (ikke funnet, belegger ingen påstand – kan gjenopplives). ID-ene brukes aldri på nytt. Henvisningen tas ut av teksten; står kilden for noe teksten trekker direkte på, merkes stedet «(kilde mangler)».
 - Referanseverktøy (Zotero e.l.) brukes fra dag én.
