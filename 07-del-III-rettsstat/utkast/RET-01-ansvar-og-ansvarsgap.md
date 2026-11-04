@@ -4,7 +4,7 @@ tittel: Ansvar og ansvarsgap
 del: Del III – Rettsstat og forvaltning
 status: stikkord
 risikotype: ikke vurdert
-sist_endret: 2026-10-27
+sist_endret: 2026-11-04
 ---
 
 # RET-01 Ansvar og ansvarsgap
@@ -71,7 +71,7 @@ sist_endret: 2026-10-27
 | **Forbruker** | chatboten lover noe selskapet ikke vil holde | selskapet | Moffatt mot Air Canada: selskapet er ansvarlig for chatboten [K0102] |
 | **Barn og sårbare** | chatbot medvirker til selvmord | produsenten? Er svaret et *produkt* eller en *ytring*? | Garcia mot Character.AI [K0044] [K0818]; Raine [K0045] |
 | **Personvern** | ansatte legger fortrolige data i en chatbot | arbeidsgiveren eller leverandøren? | GDPR art. 82 om erstatning [K0002]; Samsung 2023 [K0819] ([[SIK-02]]) |
-| **Kritisk infrastruktur** | én feilaktig oppdatering slår ut tjenester verden over | leverandøren – men kontrakten begrenser ansvaret | CrowdStrike 2024 [K0820] ([[SIK-17]], [[SIK-18]]) |
+| **Kritisk infrastruktur** | én feilaktig oppdatering slår ut tjenester verden over | leverandøren – men kontrakten kan begrense ansvaret | CrowdStrike 2024 [K0820]: Delta anslo tapet til rundt 500 millioner dollar, mens CrowdStrike mener kontrakten begrenser ansvaret til «single-digit millions» (saken er ikke avgjort) [K1263] ([[SIK-17]], [[SIK-18]]) |
 | **Styret og ledelsen** | styret lener seg på KI det ikke forstår | styret | aksjeloven [K0107]; «KI-vasking» [K0821] |
 | **Militær** | autonome våpen | befal, stat eller produsent? | [[SIK-06]] |
 | **Leverandørkjeden** | en åpen modell finjusteres til skade | den som laget modellen, eller den som tok den i bruk? | [[RAM-02]]; [[SIK-19]] |

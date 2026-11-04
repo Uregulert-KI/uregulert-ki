@@ -4,7 +4,7 @@ tittel: Utilsiktede KI-feil i kritisk drift
 del: Del V – Sikkerhet og beredskap
 status: kandidat
 risikotype: uhell/uaktsomhet
-sist_endret: 2026-10-24
+sist_endret: 2026-11-04
 ---
 
 # SIK-18 Utilsiktede KI-feil i kritisk drift
@@ -69,7 +69,7 @@ sist_endret: 2026-10-24
 ### D Samme feil overalt på en gang
 
 - **Felles modell, felles feil:** når mange bruker samme modell eller samme oppdatering, feiler de samtidig ([[TVG-06]]).
-- **Mekanismen uten KI:** CrowdStrike-hendelsen (2024) – én feilaktig oppdatering slo ut systemer verden over [K0820] ([[RET-01]]).
+- **Mekanismen uten KI:** CrowdStrike-hendelsen (2024) – én feilaktig oppdatering slo ut rundt 8,5 millioner Windows-maskiner verden over [K0820] [K1262] ([[RET-01]]). Feilen slapp gjennom flere lag med testing, og oppdateringen ble ikke rullet ut trinnvis [K0820].
 
 ### E Agenter som forsterker hverandres feil
 

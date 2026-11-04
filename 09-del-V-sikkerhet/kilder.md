@@ -170,6 +170,7 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0010 | SIK-07 | Bakgrunn i materialet etter gjennomgang |
 | K1158 | SIK-18 | Belegg for SIK-18.P09 (Den selvkjørende Uber-bilen i Tempe klassifiserte fotgjengeren feil flere ganger før sammenstøtet (2018)) |
 | K0820 | SIK-18 | Bakgrunn i materialet etter gjennomgang |
+| K1262 | SIK-18 | Bakgrunn i materialet etter gjennomgang (omfanget av CrowdStrike-hendelsen) |
 | K0001 | SIK-18 | Bakgrunn i materialet etter gjennomgang |
 | K1159 | SIK-13 | Belegg for SIK-13.P02 (En deepfake-video der Zelenskyj ba soldater overgi seg, ble spredd i 2022) |
 | K1160 | SIK-13 | Belegg for SIK-13.P03 (Chatboter og KI-søk har spredd feil om pågående hendelser) |

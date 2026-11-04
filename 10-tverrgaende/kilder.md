@@ -44,7 +44,8 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0556 | TVG-06 | Belegg for TVG-06.P05 (Når de samme få modellene brukes til å skrive, lese og beslutte, går samfunnets diskurs gjennom samme filter); TVG-06.P07 (Skriving med språkmodeller gir mindre variasjon i innholdet) |
 | K1173 | TVG-06 | Belegg for TVG-06.P07 (Skriving med språkmodeller gir mindre variasjon i innholdet) |
 | K0555 | TVG-06 | Bakgrunn i materialet etter gjennomgang |
-| K0820 | TVG-06 | Bakgrunn i materialet etter gjennomgang |
+| K0820 | TVG-06 | Belegg for TVG-06.P04 (CrowdStrike-feilen (juli 2024) viste hvordan én oppdatering kan slå ut systemer over hele verden) |
+| K1262 | TVG-06 | Belegg for TVG-06.P04 (omfanget: 8,5 millioner Windows-maskiner) |
 | K1175 | TVG-06 | Bakgrunn i materialet etter gjennomgang |
 | K1174 | TVG-06 | Belegg for TVG-06.P09 (Monokultur fjerner tilfeldig variasjon i skjønn, men erstatter den med en felles skjevhet) |
 | K0079 | TVG-06 | Belegg for TVG-06.P08 (Tekst generert av dagens modeller blir treningsdata for neste generasjon og forsterker innsnevringen) |

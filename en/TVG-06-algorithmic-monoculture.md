@@ -39,7 +39,8 @@
 
 ### F The same failure everywhere at once
 
-- **Common cause of failure:** one failure at one supplier hits the whole of society at the same time (SIK-18, section D). The CrowdStrike incident (2024) shows the mechanism without AI [K0820], and the International AI Safety Report describes it as a single point of failure [K0012].
+- **Common cause of failure:** one failure at one supplier hits the whole of society at the same time (SIK-18, section D). The CrowdStrike incident (2024) shows the mechanism without AI: one faulty update knocked out around 8.5 million Windows devices [K0820] [K1262]. That was less than 1% of all Windows machines, but the consequences were large because they were used by enterprises that run "many critical services" [K1262]. The International AI Safety Report describes this as a single point of failure [K0012].
+- **The remedy was staged rollout:** CrowdStrike itself writes that the update should have been deployed in stages, and that customers can now choose where and when updates are installed [K0820].
 
 ### G The paradox
 
@@ -60,6 +61,7 @@
 
 - Diversity of models for public discourse, schools and public administration, and different models in the first instance and the appeals body.
 - Transparency about the models' defaults and refusals.
+- Staged rollout of updates to critical systems, with organisations themselves controlling when updates are installed [K0820].
 - Not one state model for the public sector (SIK-02), but not a panic that leads to concentration of power either: diversity also means smaller, open and Norwegian models (SIK-12, section H; SIK-19).
 - Norwegian and Nordic alternatives.
 - Training in writing *without* AI (TVG-02).
@@ -78,7 +80,7 @@ From the [claims register](../10-tverrgaende/pastander.md). Each claim is scored
 | TVG-06.P01 | When many use the same algorithm, overall welfare can be lower than with varied systems | K0238 | not scored |
 | TVG-06.P02 | Algorithmic monoculture means the same person can be rejected by every system (homogeneous outcomes) | K0239 | not scored |
 | TVG-06.P03 | Shared foundation models make society vulnerable to a single point of failure | K0012 | not scored |
-| TVG-06.P04 | The CrowdStrike failure (July 2024) showed how one update can knock out systems worldwide | – (missing source) | not scored |
+| TVG-06.P04 | The CrowdStrike failure (July 2024) showed how one update can knock out systems worldwide | K0820, K1262 | not scored |
 | TVG-06.P05 | When the same few models are used to write, read and decide, society's discourse passes through the same filter | K0657, K0556 | not scored |
 | TVG-06.P06 | Writing with an opinionated language model can influence the user's own opinions | K0657 | not scored |
 | TVG-06.P07 | Writing with language models reduces content diversity | K0556, K1173 | not scored |
@@ -98,10 +100,11 @@ All sources are marked "not verified" until a human has checked them.
 | K0555 | Doshi and Hauser | [Generative AI enhances individual creativity but reduces the collective diversity of novel content](https://pmc.ncbi.nlm.nih.gov/articles/PMC11244532) | 2024 | Science Advances |
 | K0556 | Padmakumar and He | [Does Writing with Language Models Reduce Content Diversity?](https://proceedings.iclr.cc/paper_files/paper/2024/hash/02dec8877fb7c6aa9a79f81661baca7c-Abstract-Conference.html) | 2024 | ICLR |
 | K0657 | Jakesch et al. | [Co-Writing with Opinionated Language Models Affects Users' Views](https://doi.org/10.1145/3544548.3581196) | 2023 | CHI |
-| K0820 | [unknown, journalism] | [The CrowdStrike incident (2024): a faulty software update knocked out systems worldwide, with liability limited by contract] | 2024 | – |
+| K0820 | CrowdStrike | [External Technical Root Cause Analysis – Channel File 291](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf) | 2024 | CrowdStrike |
 | K1173 | Sourati, Ziabari and Dehghani | [The Homogenizing Effect of Large Language Models on Human Expression and Thought](https://arxiv.org/abs/2508.01491) | 2025 | arXiv |
 | K1174 | Kahneman, Sibony and Sunstein | Noise: A Flaw in Human Judgment | 2021 | Little, Brown Spark |
 | K1175 | [unknown, historical overview] | [The potato blight in Ireland (1840s): dependence on a single potato variety] | – | – |
+| K1262 | Weston (Microsoft) | [Helping our customers through the CrowdStrike outage](https://blogs.microsoft.com/blog/2024/07/20/helping-our-customers-through-the-crowdstrike-outage/) | 2024 | The Official Microsoft Blog |
 
 Entries in square brackets without a link are placeholders for a source that has not yet been found.
 

@@ -25,7 +25,7 @@ Alle tema-ID-er i prosjektet. ID-er er permanente etiketter. De bestemmer aldri 
 | Type | Format | Hvor | Neste ledige |
 |---|---|---|---|
 | Påstand | <tema-ID>.P<nn>, f.eks. LIV-01.P03 | pastander.md i hver mappe | neste nummer per tema |
-| Kilde | K0001 … | 99-kilder/kilderegister.md | K1262 |
+| Kilde | K0001 … | 99-kilder/kilderegister.md | K1264 |
 | Ekspertuttalelse | U001 … | uttalelser.md i hver mappe | U001 |
 | Endring | E001 … | metode/endringslogg.md | E014 |
 | Ekspert/kontakt | X001 … | kun i ../uregulert-ki-kontakter/kontakter.md | X001 |

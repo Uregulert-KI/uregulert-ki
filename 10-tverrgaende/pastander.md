@@ -44,7 +44,7 @@ Påstandene er ikke scoret ennå. Navn på fagpersoner føres aldri her – bare
 | TVG-06.P01 | Når mange bruker samme algoritme, kan den samlede velferden bli lavere enn med varierte systemer | K0238 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | TVG-06.P02 | Algoritmisk monokultur gjør at samme person kan bli avvist i alle systemer (homogene utfall) | K0239 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | TVG-06.P03 | Felles grunnmodeller gjør samfunnet sårbart for ett enkelt feilpunkt | K0012 |  |  |  |  |  |  | ikke scoret | 0 | – |
-| TVG-06.P04 | CrowdStrike-feilen (juli 2024) viste hvordan én oppdatering kan slå ut systemer over hele verden | – (mangler kilde) |  |  |  |  |  |  | ikke scoret | 0 | – |
+| TVG-06.P04 | CrowdStrike-feilen (juli 2024) viste hvordan én oppdatering kan slå ut systemer over hele verden | K0820, K1262 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | TVG-06.P05 | Når de samme få modellene brukes til å skrive, lese og beslutte, går samfunnets diskurs gjennom samme filter | K0657, K0556 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | TVG-06.P06 | Å skrive med en meningssterk språkmodell kan påvirke brukerens egne meninger | K0657 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | TVG-06.P07 | Skriving med språkmodeller gir mindre variasjon i innholdet | K0556, K1173 |  |  |  |  |  |  | ikke scoret | 0 | – |

@@ -40,6 +40,7 @@ KI endrer seg raskere enn noe annet rapporten omtaler. Denne lista samler alt so
 | [[TVG-07]], [[SIK-18]] | Utfasing av modeller (GPT-4o m.fl.) | GPT-4o delvis gjeninnført aug. 2025 – sjekk | K1180 | 2026-10-25 | |
 | [[TVG-07]] | Broadcom/VMware – EU-kommisjonen | Forespørsel om opplysninger 2024 – utfall? | K1177 | 2026-10-25 | |
 | [[OKO-19]], [[OKO-01]] | KI-avtalen mellom partene (2026–2029) | Inngått 2. oktober 2026 – sjekk innhold | K0269 |  | |
+| [[RET-01]], [[SIK-18]] | Delta mot CrowdStrike (Fulton County Superior Court) – ansvarstaket i kontrakten | Kjennelse 16.5.2025: bedrageri avvist, uaktsomhet går videre. Ikke avgjort; rettssak eller forlik? | K1263 | 2026-11-04 | |
 | [[SIK-06]] | Minab-skolen (2026) – Pentagons granskning | Pentagon: menneskelig feil; Palantir avviser ansvar – endelig redegjørelse? | K1151 | 2026-10-24 | |
 
 ## 2 Generelt

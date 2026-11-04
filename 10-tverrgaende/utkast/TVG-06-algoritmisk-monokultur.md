@@ -5,7 +5,7 @@ del: Kap. 10 – Tverrgående mønstre
 status: kandidat
 risikotype: strukturell
 horisont: nær
-sist_endret: 2026-10-25
+sist_endret: 2026-11-04
 ---
 
 # TVG-06 Algoritmisk monokultur
@@ -47,7 +47,8 @@ sist_endret: 2026-10-25
 
 ### F Samme feil overalt på en gang
 
-- **Felles feilårsak:** én feil hos én leverandør treffer hele samfunnet samtidig ([[SIK-18]], avsnitt D). CrowdStrike-hendelsen (2024) viser mekanismen uten KI [K0820]; International AI Safety Report omtaler det som ett enkelt feilpunkt [K0012].
+- **Felles feilårsak:** én feil hos én leverandør treffer hele samfunnet samtidig ([[SIK-18]], avsnitt D). CrowdStrike-hendelsen (2024) viser mekanismen uten KI: én feilaktig oppdatering slo ut rundt 8,5 millioner Windows-maskiner [K0820] [K1262]. Det var under 1 % av alle Windows-maskiner, men følgene ble store fordi de ble brukt av virksomheter som driver «many critical services» [K1262]. International AI Safety Report omtaler det som ett enkelt feilpunkt [K0012].
+- **Tiltaket var trinnvis utrulling:** CrowdStrike skriver selv at oppdateringen burde vært rullet ut trinnvis, og at kundene nå kan velge hvor og når oppdateringer installeres [K0820].
 
 ### G Paradokset
 
@@ -68,6 +69,7 @@ sist_endret: 2026-10-25
 
 - Mangfold i modeller for offentlig diskurs, skole og forvaltning – og ulike modeller i første- og klageinstans.
 - Åpenhet om modellenes standardvalg og nektelser.
+- Trinnvis utrulling av oppdateringer i kritiske systemer, og at virksomhetene selv styrer når oppdateringer installeres [K0820].
 - Ikke én statsmodell i offentlig sektor ([[SIK-02]]) – men heller ikke panikk som gir maktkonsentrasjon: mangfold betyr også mindre, åpne og norske modeller ([[SIK-12]], avsnitt H; [[SIK-19]]).
 - Norske og nordiske alternativer.
 - Opplæring i å skrive *uten* KI ([[TVG-02]]).

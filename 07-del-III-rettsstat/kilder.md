@@ -82,7 +82,8 @@ Ny kilde? Legg den inn her eller i 99, men kryssjekk alltid mot 99 (dubletter og
 | K0818 | RET-01 | Bakgrunn i materialet etter gjennomgang |
 | K0045 | RET-01 | Bakgrunn i materialet etter gjennomgang |
 | K0819 | RET-01 | Bakgrunn i materialet etter gjennomgang |
-| K0820 | RET-01 | Belegg for RET-01.P11 (Kontrakter begrenser leverandørers ansvar når programvarefeil slår ut kritiske systemer) |
+| K0820 | RET-01 | Bakgrunn i materialet etter gjennomgang (hva som skjedde i CrowdStrike-hendelsen) |
+| K1263 | RET-01 | Belegg for RET-01.P11 (Når programvarefeil slår ut kritiske systemer, kan leverandøren hevde at kontrakten begrenser ansvaret til en brøkdel av tapet) |
 | K0821 | RET-01 | Bakgrunn i materialet etter gjennomgang |
 | K0822 | RET-01 | Bakgrunn i materialet etter gjennomgang |
 | K0825 | RET-01 | Belegg for RET-01.P12 (Høyrisiko-KI vurderes i stor grad av leverandøren selv) |

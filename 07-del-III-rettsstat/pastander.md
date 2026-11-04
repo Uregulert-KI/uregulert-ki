@@ -22,7 +22,7 @@ Påstandene er ikke scoret ennå. Navn på fagpersoner føres aldri her – bare
 | RET-01.P08 | Det nye produktansvarsdirektivet regner programvare og KI som produkter | K0109 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-01.P09 | Bilansvarsloven har objektivt ansvar for skade voldt av motorvogn | K0815 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-01.P10 | En automatisert innkrevingsordning i Australia (Robodebt) ble funnet ulovlig | K0110 |  |  |  |  |  |  | ikke scoret | 0 | – |
-| RET-01.P11 | Kontrakter begrenser leverandørers ansvar når programvarefeil slår ut kritiske systemer | K0820 |  |  |  |  |  |  | ikke scoret | 0 | – |
+| RET-01.P11 | Når programvarefeil slår ut kritiske systemer, kan leverandøren hevde at kontrakten begrenser ansvaret til en brøkdel av tapet (CrowdStrike mot Delta) | K1263 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-01.P12 | Høyrisiko-KI vurderes i stor grad av leverandøren selv | K0825 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-01.P13 | Legemiddelskader dekkes av objektivt ansvar og felles forsikring | K0823 |  |  |  |  |  |  | ikke scoret | 0 | – |
 | RET-01.P14 | Norsk pasientskadeerstatning gir erstatning uten at pasienten må bevise skyld | K0827 |  |  |  |  |  |  | ikke scoret | 0 | – |
