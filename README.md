@@ -12,7 +12,7 @@ Arbeidet skal resultere i tre produkter:
 | **Hovedrapport** | Politikere og statsapparatet. |
 | **Kortversjoner** | Departementene: én per fagområde, med hovedfunn og anbefalinger. |
 
-> **Status:** arbeidsutkast. Rapporten har over 1 000 påstander og nesten 1 200 kilder, og ingen av kildene er ennå sjekket av et menneske. Det er derfor vi trenger [dugnaden](#bli-med-på-dugnaden).
+> **Status:** arbeidsutkast. Rapporten har over 1 150 påstander og over 1 200 kilder, og ingen av kildene er ennå sjekket av et menneske. Det er derfor vi trenger [dugnaden](#bli-med-på-dugnaden).
 
 ## Bakgrunn
 
