@@ -10,7 +10,7 @@ Arbeidet skal bli til en åpen evidensdatabase, en hovedrapport til Stortinget o
 
 ## Hvorfor trengs du?
 
-Rapporten har (foreløpig) over 1 000 påstander og nesten 1 200 kilder. Mye av dette er samlet inn med hjelp av KI, mye er tatt fra hukommelsen, og **ingen av kildene er ennå verifisert av et menneske**. En rapport om farene ved KI kan ikke hvile på at en KI har sjekket seg selv. Det er derfor dugnaden finnes: hver påstand skal kunne spores til en kilde som faktisk sier det rapporten hevder, og det som ikke tåler kritikk, skal ut.
+Rapporten har (foreløpig) over 1 150 påstander og over 1 200 kilder. Mye av dette er samlet inn med hjelp av KI, mye er tatt fra hukommelsen, og **ingen av kildene er ennå verifisert av et menneske**. En rapport om farene ved KI kan ikke hvile på at en KI har sjekket seg selv. Det er derfor dugnaden finnes: hver påstand skal kunne spores til en kilde som faktisk sier det rapporten hevder, og det som ikke tåler kritikk, skal ut.
 
 ## Slik foregår det
 

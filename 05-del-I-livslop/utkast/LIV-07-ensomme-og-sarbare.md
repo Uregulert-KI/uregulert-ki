@@ -11,36 +11,6 @@ sist_endret: 2026-10-20
 
 > Påstander: LIV-07.P01–LIV-07.P25 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
-## Fenomen
-
-<!-- Hva skjer, konkret? -->
-
-## Mekanisme
-
-<!-- Hvorfor og hvordan oppstår skaden? -->
-
-## Evidens
-
-<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
-
-## Norsk relevans
-
-<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
-
-## Verdi som trues
-
-<!-- Kobling til verdiene i [[INN-03]]. -->
-
-## Reguleringshull
-
-<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
-
-## Anbefaling
-
-<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->
-
----
-
 ## Stikkord og materiale
 
 *Utvidet 2026-10-13 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
@@ -131,3 +101,33 @@ sist_endret: 2026-10-20
 
 - Elevundersøkelsen om mobbing [K0583] (sjekk tall). Elevenes rett til et trygt skolemiljø og skolens aktivitetsplikt [K0584]. Udirs veileder for alvorlige hendelser [K0585]. PST om radikalisering av unge på nett [K0068].
 - *Omtales på overordnet nivå: ingenting om metoder, våpen eller planlegging. Gjerningspersoner navngis ikke.*
+
+---
+
+## Fenomen
+
+<!-- Hva skjer, konkret? -->
+
+## Mekanisme
+
+<!-- Hvorfor og hvordan oppstår skaden? -->
+
+## Evidens
+
+<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
+
+## Norsk relevans
+
+<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
+
+## Verdi som trues
+
+<!-- Kobling til verdiene i [[INN-03]]. -->
+
+## Reguleringshull
+
+<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
+
+## Anbefaling
+
+<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->

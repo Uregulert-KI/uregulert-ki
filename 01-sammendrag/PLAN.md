@@ -21,3 +21,4 @@ Rekkefølgen i tabellen er rekkefølgen i rapporten. ID-ene sier ingenting om pl
 
 ### Vises til fra andre mapper
 - (ingen)
+

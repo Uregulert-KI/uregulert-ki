@@ -11,36 +11,6 @@ sist_endret: 2026-10-18
 
 > Påstander: LIV-16.P01–LIV-16.P24 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
-## Fenomen
-
-<!-- Hva skjer, konkret? -->
-
-## Mekanisme
-
-<!-- Hvorfor og hvordan oppstår skaden? -->
-
-## Evidens
-
-<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
-
-## Norsk relevans
-
-<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
-
-## Verdi som trues
-
-<!-- Kobling til verdiene i [[INN-03]]. -->
-
-## Reguleringshull
-
-<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
-
-## Anbefaling
-
-<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->
-
----
-
 ## Stikkord og materiale
 
 *Utvidet 2026-10-13 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
@@ -121,3 +91,33 @@ sist_endret: 2026-10-18
 - **Norsk ramme:** straffeloven § 306 og øvrige bestemmelser om seksuallovbrudd mot barn [K0422], § 311 om fremstillinger som seksualiserer barn [K0414] og § 267 a [K0240]. Sjekk om bestemmelsene treffer overgrep som skjer helt på nett, uten fysisk møte, og med en KI-generert identitet. Politiets nettpatruljer [K0424]; Redd Barna [K0425].
 - **EU:** revisjonen av direktivet om seksuelt misbruk av barn, bl.a. om KI-generert materiale [K0423] (sjekk status). Verdikonflikten mot skanning av privat kommunikasjon («chat control») står i [[REG-03]].
 - **Kobling:** unges utvikling og seksuelle forventninger står i [[LIV-05]]; kompanjonger og avhengighet i [[LIV-07]]; svindel generelt i [[SIK-05]]; digital identitet i [[LIV-17]].
+
+---
+
+## Fenomen
+
+<!-- Hva skjer, konkret? -->
+
+## Mekanisme
+
+<!-- Hvorfor og hvordan oppstår skaden? -->
+
+## Evidens
+
+<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
+
+## Norsk relevans
+
+<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
+
+## Verdi som trues
+
+<!-- Kobling til verdiene i [[INN-03]]. -->
+
+## Reguleringshull
+
+<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
+
+## Anbefaling
+
+<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->

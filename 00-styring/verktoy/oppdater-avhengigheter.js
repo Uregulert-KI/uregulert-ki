@@ -1,5 +1,5 @@
 // Regner ut «Avhengigheter» i alle PLAN.md på nytt fra utkastfilene, og kontrollerer referanser.
-// Leser bare materialet under «## Stikkord og materiale» (malkommentarene teller ikke).
+// Leser bare materialet under «## Stikkord og materiale», fram til neste seksjon (malkommentarene teller ikke).
 // Bruk (fra prosjektroten): node 00-styring/verktoy/oppdater-avhengigheter.js
 const fs = require('fs');
 const path = require('path');
@@ -16,7 +16,8 @@ for (const m of mapper) {
     const id = fil.slice(0, 6);
     const tekst = fs.readFileSync(path.join(root, m, 'utkast', fil), 'utf8');
     const i = tekst.search(/^## Stikkord og materiale/m);
-    const materiale = i >= 0 ? tekst.slice(i) : '';
+    const j = i >= 0 ? tekst.slice(i + 1).search(/^## /m) : -1; // materialet slutter ved neste seksjon
+    const materiale = i >= 0 ? tekst.slice(i, j >= 0 ? i + 1 + j : tekst.length) : '';
     const refs = [...new Set([...materiale.matchAll(/\[\[([A-Z]{3}-\d{2})\]\]/g)].map(x => x[1]))].filter(r => r !== id);
     temaer.set(id, { mappe: m, refs });
   }
@@ -41,7 +42,7 @@ for (const m of mapper) {
   }
   const f = path.join(root, m, 'PLAN.md');
   const plan = fs.readFileSync(f, 'utf8');
-  const nytt = plan.replace(/## Avhengigheter\n[\s\S]*?\n(?=## )/,
+  const nytt = plan.replace(/## Avhengigheter\n[\s\S]*?(?=\n## |$(?![\s\S]))/,
     `## Avhengigheter\n\n### Viser til\n${ut.join('\n') || '- (ingen)'}\n\n### Vises til fra andre mapper\n${inn.join('\n') || '- (ingen)'}\n\n`);
   if (nytt !== plan) { fs.writeFileSync(f, nytt, 'utf8'); console.log('Oppdatert ' + m + '/PLAN.md'); }
 }

@@ -11,36 +11,6 @@ sist_endret: 2026-10-19
 
 > Påstander: RET-08.P01–RET-08.P10 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
-## Fenomen
-
-<!-- Hva skjer, konkret? -->
-
-## Mekanisme
-
-<!-- Hvorfor og hvordan oppstår skaden? -->
-
-## Evidens
-
-<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
-
-## Norsk relevans
-
-<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
-
-## Verdi som trues
-
-<!-- Kobling til verdiene i [[INN-03]]. -->
-
-## Reguleringshull
-
-<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
-
-## Anbefaling
-
-<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->
-
----
-
 ## Stikkord og materiale
 
 *Utvidet 2026-10-19 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
@@ -115,3 +85,33 @@ sist_endret: 2026-10-19
 - **Tolkemangel:** for mange språk finnes det ikke kvalifiserte tolker, og i en akuttsituasjon er maskinoversettelse bedre enn ingenting.
 - **KI kan erstatte barn som tolk** for foreldrene sine. Tolkeloven begrenser bruk av barn som tolk [K0129] (sjekk) – her kan KI være en reell forbedring.
 - **Klarspråk:** KI kan også oversette fra juridisk språk til forståelig norsk.
+
+---
+
+## Fenomen
+
+<!-- Hva skjer, konkret? -->
+
+## Mekanisme
+
+<!-- Hvorfor og hvordan oppstår skaden? -->
+
+## Evidens
+
+<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
+
+## Norsk relevans
+
+<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
+
+## Verdi som trues
+
+<!-- Kobling til verdiene i [[INN-03]]. -->
+
+## Reguleringshull
+
+<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
+
+## Anbefaling
+
+<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->

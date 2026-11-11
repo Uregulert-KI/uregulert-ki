@@ -31,7 +31,14 @@ const mappe = d.mappe;
 const fil = `${mappe}/utkast/` + fs.readdirSync(P(`${mappe}/utkast`)).find(f => f.startsWith(d.id + '-'));
 let t = rd(fil);
 const i = t.search(/^## Stikkord og materiale/m);
-const head = t.slice(0, i), gammel = t.slice(i);
+// Materialet står rett under innledningen, foran malseksjonene Fenomen–Anbefaling (2026-11-11).
+// Det slutter ved neste «## »-overskrift; skillelinja foran malseksjonene hører til halen.
+const j = t.slice(i + 1).search(/^## /m);
+const slutt = j >= 0 ? i + 1 + j : t.length;
+let gammel = t.slice(i, slutt), hale = t.slice(slutt);
+const skille = gammel.match(/\n---\s*$/);
+if (skille) { hale = gammel.slice(skille.index) + hale; gammel = gammel.slice(0, skille.index) + '\n'; }
+const head = t.slice(0, i);
 const linjer = gammel.split('\n');
 const opphIdx = linjer.findIndex(l => l.startsWith('*Opprinnelse'));
 const opph = linjer[opphIdx];
@@ -76,7 +83,7 @@ reg = reg.slice(0, s.index + s[0].length) + nyeRader.map(r => r.rad).join('\n') 
 reg = reg.replace(/Neste ledige K-ID: K\d{4}/, `Neste ledige K-ID: K${String(neste).padStart(4, '0')}`);
 wr('99-kilder/kilderegister.md', reg);
 fs.appendFileSync(P('99-kilder/bibliografi.bib'), nyeRader.map(r => `\n% ${r.id} – ${r.f}: ${r.t} – ikke verifisert\n@misc{${r.id},\n  author = {},\n  title = {},\n  year = {},\n  howpublished = {},\n  doi = {},\n  url = {},\n  note = {ikke verifisert}\n}\n`).join(''));
-wr(fil, nyHead + ny);
+wr(fil, nyHead + ny.replace(/\n*$/, '\n') + (hale.trim() ? '\n' + hale.replace(/^\n+/, '') : ''));
 wr(`${mappe}/pastander.md`, pa);
 
 // Kildebruk

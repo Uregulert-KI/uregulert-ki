@@ -20,6 +20,12 @@ Husk: ny ID i id-register.md og rad i PLAN.md. Endringsloggen brukes i innfasing
 
 <!-- Faktaboks: start hvert kapittel med 3–5 hovedfunn + anbefalinger, slik at det kan leses alene. -->
 
+## Stikkord og materiale
+
+<!-- Stikkord, nøkkeleksempler og kildeforslag. Står først, slik at innholdet vises med en gang på GitHub. -->
+
+---
+
 ## Fenomen
 
 <!-- Hva skjer, konkret? -->
@@ -59,7 +65,3 @@ Husk: ny ID i id-register.md og rad i PLAN.md. Endringsloggen brukes i innfasing
 - [ ] Tidssensitive opplysninger merket «per [dato]» og ført i dateringslista.
 - [ ] Preprints, rapporter og journalistikk merket som det de er.
 - [ ] Alle kryssreferanser skrevet med ID.
-
-## Stikkord og materiale
-
-<!-- Stikkord, nøkkeleksempler og kildeforslag. -->

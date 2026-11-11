@@ -11,36 +11,6 @@ sist_endret: 2026-10-27
 
 > Påstander: LIV-17.P01–LIV-17.P22 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
-## Fenomen
-
-<!-- Hva skjer, konkret? -->
-
-## Mekanisme
-
-<!-- Hvorfor og hvordan oppstår skaden? -->
-
-## Evidens
-
-<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
-
-## Norsk relevans
-
-<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
-
-## Verdi som trues
-
-<!-- Kobling til verdiene i [[INN-03]]. -->
-
-## Reguleringshull
-
-<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
-
-## Anbefaling
-
-<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->
-
----
-
 ## Stikkord og materiale
 
 *Utvidet 2026-10-13 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
@@ -107,3 +77,33 @@ sist_endret: 2026-10-27
 
 - **Ikke alt syntetisk er ondt:** virtuelle kundeservicefigurer, merkede KI-påvirkere og en stemme for dem som har mistet sin egen ([[LIV-12]]).
 - **Problemet er manglende merking:** KI-forordningen krever at brukeren får vite når hen snakker med en KI, og at deepfakes merkes (art. 50) [K0001]. Den som driver et botnett, bryr seg ikke, og håndhevingen er svak.
+
+---
+
+## Fenomen
+
+<!-- Hva skjer, konkret? -->
+
+## Mekanisme
+
+<!-- Hvorfor og hvordan oppstår skaden? -->
+
+## Evidens
+
+<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
+
+## Norsk relevans
+
+<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
+
+## Verdi som trues
+
+<!-- Kobling til verdiene i [[INN-03]]. -->
+
+## Reguleringshull
+
+<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
+
+## Anbefaling
+
+<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->

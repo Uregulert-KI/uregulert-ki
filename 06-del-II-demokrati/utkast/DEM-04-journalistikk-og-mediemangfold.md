@@ -11,36 +11,6 @@ sist_endret: 2026-10-27
 
 > Påstander: DEM-04.P01–DEM-04.P14 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
-## Fenomen
-
-<!-- Hva skjer, konkret? -->
-
-## Mekanisme
-
-<!-- Hvorfor og hvordan oppstår skaden? -->
-
-## Evidens
-
-<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
-
-## Norsk relevans
-
-<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
-
-## Verdi som trues
-
-<!-- Kobling til verdiene i [[INN-03]]. -->
-
-## Reguleringshull
-
-<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
-
-## Anbefaling
-
-<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->
-
----
-
 ## Stikkord og materiale
 
 *Utvidet 2026-10-18 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
@@ -99,3 +69,33 @@ sist_endret: 2026-10-27
 - KI hjelper journalister: transkribering, datajournalistikk, oversettelse.
 - Avtaler mellom medier og KI-selskaper kan gi inntekter og kildehenvisninger.
 - Redaktørstyrte medier blir viktigere, ikke mindre viktige ([[DEM-03]], avsnitt G).
+
+---
+
+## Fenomen
+
+<!-- Hva skjer, konkret? -->
+
+## Mekanisme
+
+<!-- Hvorfor og hvordan oppstår skaden? -->
+
+## Evidens
+
+<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
+
+## Norsk relevans
+
+<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
+
+## Verdi som trues
+
+<!-- Kobling til verdiene i [[INN-03]]. -->
+
+## Reguleringshull
+
+<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
+
+## Anbefaling
+
+<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->

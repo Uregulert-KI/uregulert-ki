@@ -11,36 +11,6 @@ sist_endret: 2026-11-04
 
 > Påstander: RET-01.P01–RET-01.P14 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
-## Fenomen
-
-<!-- Hva skjer, konkret? -->
-
-## Mekanisme
-
-<!-- Hvorfor og hvordan oppstår skaden? -->
-
-## Evidens
-
-<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
-
-## Norsk relevans
-
-<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
-
-## Verdi som trues
-
-<!-- Kobling til verdiene i [[INN-03]]. -->
-
-## Reguleringshull
-
-<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
-
-## Anbefaling
-
-<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->
-
----
-
 ## Stikkord og materiale
 
 *Utvidet 2026-10-19 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
@@ -51,7 +21,7 @@ sist_endret: 2026-11-04
 ### A Ansvarsgapet – og hvorfor «systemet gjorde det» ikke holder
 
 - **Teorien:** når en maskin lærer og handler selv, har ingen full kontroll – og ingen får fullt ansvar (Matthias) [K0105]. Ansvarsgapet har flere former [K0106].
-- **«Moralsk knautsone»:** den som står nærmest maskinen – sikkerhetssjåføren, saksbehandleren – får skylden, mens systemet og produsenten går fri [K0812]. Da blir «menneske i løkka» et gummistempel.
+- **«Moralsk knautsone»:** den som står nærmest maskinen – sikkerhetssjåføren, saksbehandleren – får skylden, mens systemet og produsenten går fri [K0812]. Da blir «menneske i løkka» en falsk trygghet.
 - **EU trakk forslaget til eget direktiv om KI-ansvar** [K0813] (sjekk). Det nye produktansvarsdirektivet regner programvare og KI som produkter [K0109] (sjekk frist og norsk gjennomføring). Gapet er delvis tettet, ikke lukket.
 
 - **Ansvar for å gjøre, ikke for resultatet:** forskningen skiller mellom ansvar for å utføre en oppgave og ansvar for resultatet. Algoritmer kan ta det første, men ikke holdes ansvarlige for det andre [K1211].
@@ -94,3 +64,33 @@ sist_endret: 2026-11-04
 ### D Nyanse
 
 - Ansvarsregler må ikke bli så strenge at nyttig KI aldri tas i bruk – f.eks. i helse. Legemiddelmodellen viser at strenge krav og innovasjon kan leve sammen.
+
+---
+
+## Fenomen
+
+<!-- Hva skjer, konkret? -->
+
+## Mekanisme
+
+<!-- Hvorfor og hvordan oppstår skaden? -->
+
+## Evidens
+
+<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
+
+## Norsk relevans
+
+<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
+
+## Verdi som trues
+
+<!-- Kobling til verdiene i [[INN-03]]. -->
+
+## Reguleringshull
+
+<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
+
+## Anbefaling
+
+<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->

@@ -24,4 +24,7 @@ Rekkefølgen i tabellen er rekkefølgen i rapporten. ID-ene sier ingenting om pl
 - VED-03 → [[REG-01]], [[SIK-15]], [[RET-13]]
 
 ### Vises til fra andre mapper
+- VED-01 ← [[INN-02]]
+- VED-02 ← [[INN-04]]
 - VED-03 ← [[RET-13]]
+

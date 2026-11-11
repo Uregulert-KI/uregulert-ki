@@ -21,5 +21,6 @@ Rekkefølgen i tabellen er rekkefølgen i rapporten. ID-ene sier ingenting om pl
 - RAM-02 → [[SIK-05]], [[SIK-02]], [[RET-07]], [[SIK-12]], [[OKO-10]], [[RET-12]], [[TVG-01]], [[SIK-08]], [[TVG-10]], [[ANB-01]], [[SIK-19]], [[REG-04]], [[DEM-01]], [[OKO-02]], [[LIV-16]], [[DEM-02]], [[REG-03]]
 
 ### Vises til fra andre mapper
-- RAM-01 ← [[REG-02]], [[TVG-05]]
-- RAM-02 ← [[INN-04]], [[REG-02]], [[REG-03]], [[REG-04]], [[DEM-13]], [[RET-00]], [[RET-01]], [[SIK-05]], [[SIK-13]], [[SIK-19]], [[TVG-03]], [[TVG-04]], [[TVG-10]], [[ANB-01]], [[VED-02]]
+- RAM-01 ← [[INN-02]], [[INN-04]], [[REG-02]], [[TVG-05]]
+- RAM-02 ← [[INN-01]], [[INN-02]], [[INN-04]], [[INN-05]], [[REG-02]], [[REG-03]], [[DEM-13]], [[RET-00]], [[RET-01]], [[SIK-05]], [[SIK-13]], [[SIK-19]], [[TVG-03]], [[TVG-04]], [[TVG-10]], [[ANB-01]], [[VED-02]]
+

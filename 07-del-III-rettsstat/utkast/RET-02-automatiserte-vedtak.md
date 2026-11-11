@@ -11,36 +11,6 @@ sist_endret: 2026-10-27
 
 > Påstander: RET-02.P01–RET-02.P11 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
-## Fenomen
-
-<!-- Hva skjer, konkret? -->
-
-## Mekanisme
-
-<!-- Hvorfor og hvordan oppstår skaden? -->
-
-## Evidens
-
-<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
-
-## Norsk relevans
-
-<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
-
-## Verdi som trues
-
-<!-- Kobling til verdiene i [[INN-03]]. -->
-
-## Reguleringshull
-
-<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
-
-## Anbefaling
-
-<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->
-
----
-
 ## Stikkord og materiale
 
 *Utvidet 2026-10-19 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
@@ -68,7 +38,7 @@ sist_endret: 2026-10-27
 - **Forankring:** det første forslaget man ser, trekker vurderingen mot seg [K0831].
 - **Feil forslag gjør fagfolk dårligere:** radiologer som fikk *feil* KI-forslag, ble mindre treffsikre – de uerfarne mest [K0832] (sjekk).
 - **Automatiseringsbias** [K0122] og svekkede ferdigheter over tid ([[DEM-15]], avsnitt B).
-- **«Menneske i løkka» som gummistempel:** saksbehandleren står formelt ansvarlig, men maskinen har formet vurderingen ([[RET-01]], avsnitt A – moralsk knautsone).
+- **«Menneske i løkka» som falsk trygghet:** saksbehandleren står formelt ansvarlig, men maskinen har formet vurderingen ([[RET-01]], avsnitt A – moralsk knautsone).
 - **Verdiene følger med:** modellens standardsvar og vinklinger kommer inn i forvaltningens skjønn ([[DEM-01]]; [[DEM-10]], avsnitt F).
 
 ### D Skalering – feil som rammer tusenvis
@@ -99,3 +69,33 @@ sist_endret: 2026-10-27
 ### H Nyanse
 
 - KI-assistanse kan gi likere behandling, raskere svar og kortere køer, og fange feil mennesker overser. *Supplement, ikke erstatning* – skjønnet skal være saksbehandlerens eget.
+
+---
+
+## Fenomen
+
+<!-- Hva skjer, konkret? -->
+
+## Mekanisme
+
+<!-- Hvorfor og hvordan oppstår skaden? -->
+
+## Evidens
+
+<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
+
+## Norsk relevans
+
+<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
+
+## Verdi som trues
+
+<!-- Kobling til verdiene i [[INN-03]]. -->
+
+## Reguleringshull
+
+<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
+
+## Anbefaling
+
+<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->

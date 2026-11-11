@@ -17,7 +17,8 @@ Rekkefølgen i tabellen er rekkefølgen i rapporten. ID-ene sier ingenting om pl
 ## Avhengigheter
 
 ### Viser til
-- MOT-01 → [[LIV-14]], [[LIV-16]], [[DEM-02]], [[DEM-09]]
+- (ingen)
 
 ### Vises til fra andre mapper
-- MOT-01 ← [[INN-05]], [[REG-01]], [[REG-03]], [[LIV-04]], [[LIV-06]], [[LIV-14]], [[LIV-16]], [[DEM-02]], [[DEM-09]], [[VED-02]]
+- MOT-01 ← [[INN-04]], [[INN-05]], [[REG-01]], [[REG-03]], [[LIV-04]], [[LIV-06]], [[LIV-14]], [[LIV-16]], [[DEM-02]], [[DEM-09]], [[VED-02]]
+

@@ -11,36 +11,6 @@ sist_endret: 2026-10-24
 
 > Påstander: SIK-06.P01–SIK-06.P09 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
-## Fenomen
-
-<!-- Hva skjer, konkret? -->
-
-## Mekanisme
-
-<!-- Hvorfor og hvordan oppstår skaden? -->
-
-## Evidens
-
-<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
-
-## Norsk relevans
-
-<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
-
-## Verdi som trues
-
-<!-- Kobling til verdiene i [[INN-03]]. -->
-
-## Reguleringshull
-
-<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
-
-## Anbefaling
-
-<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->
-
----
-
 ## Stikkord og materiale
 
 *Utvidet 2026-10-24 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
@@ -51,7 +21,7 @@ sist_endret: 2026-10-24
 ### A Tempoet tar bort mennesket
 
 - **Gaza:** ifølge +972 Magazine foreslo Lavender og Gospel mål i et tempo der den menneskelige godkjenningen kunne ta om lag 20 sekunder, og en kjent feilrate ble akseptert [K0186] (sjekk). Opplysningene er omstridt og avvist av Israel.
-- **Gummistempelet:** mennesket i løkka blir en formalitet når systemet er raskere, mer selvsikkert og har mer data enn den som skal kontrollere det ([[RET-04]], avsnitt C).
+- **Falsk trygghet:** mennesket i løkka blir en formalitet når systemet er raskere, mer selvsikkert og har mer data enn den som skal kontrollere det ([[RET-04]], avsnitt C).
 
 ### B Etterretning er ferskvare – modellen er det ikke
 
@@ -59,7 +29,7 @@ sist_endret: 2026-10-24
 - **Minab (2026):** 28. februar 2026 traff et amerikansk missil en jenteskole i Minab i Iran; mellom om lag 150 og 175 ble drept, de fleste barn [K1151] (sjekk tall). Målet bygde på utdatert etterretning: satellittbilder som var rundt sju år gamle, og en måldatabase som fortsatt oppga stedet som et militært anlegg – selv om en analytiker hadde registrert endringer i 2019, i et annet system. Målutvelgelsen gikk gjennom den KI-støttede plattformen Maven Smart System (Palantir). Pentagon kaller det menneskelig feil; Palantir sier selskapet ikke har ansvar for dataene; Bloomberg beskriver en kjede av utdaterte data, gamle bilder og overtillit til KI (sjekk).
 - **Presisering:** saken handler ikke om en språkmodell trent på gamle data, men om et KI-støttet system som presenterer gamle data med ny autoritet. Poenget er det samme: informasjonen er ferskvare, og systemet viser ikke at den har gått ut på dato.
 - **Mekanismen er kjent fra før:** NATO bombet Kinas ambassade i Beograd i 1999 fordi etterretningen bygde på utdaterte kart og databaser [K1152] (sjekk). KI gjør ikke feilen ny – den gjør den raskere, mer selvsikker og vanskeligere å se.
-- **Herdet mot advarsler:** systemer kan merke at dataene er gamle. Men når advarslene er mange og tempoet høyt, lærer operatørene å overstyre dem – til slutt trykker man bare OK [K1153] (sjekk). Advarselen blir en del av gummistempelet.
+- **Herdet mot advarsler:** systemer kan merke at dataene er gamle. Men når advarslene er mange og tempoet høyt, lærer operatørene å overstyre dem – til slutt trykker man bare OK [K1153] (sjekk). Advarselen blir en del av den falske tryggheten.
 - **Konsekvensen:** å la KI-modeller anbefale eller gi råd om etterretning kan få ekstreme følger – nettopp fordi informasjonens alder forsvinner bak et selvsikkert svar.
 
 ### C Billige autonome droner – Ukraina
@@ -102,3 +72,33 @@ sist_endret: 2026-10-24
 
 - **Presisjon kan også redusere sivile tap** – men det er omstridt.
 - **Reell forsvarsverdi:** Ukraina viser at teknologien betyr mye også for et lite land som Norge. Spørsmålet er ikke *om* Forsvaret skal bruke KI, men *hvem som faktisk bestemmer* – og på hvor ferskt grunnlag.
+
+---
+
+## Fenomen
+
+<!-- Hva skjer, konkret? -->
+
+## Mekanisme
+
+<!-- Hvorfor og hvordan oppstår skaden? -->
+
+## Evidens
+
+<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
+
+## Norsk relevans
+
+<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
+
+## Verdi som trues
+
+<!-- Kobling til verdiene i [[INN-03]]. -->
+
+## Reguleringshull
+
+<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
+
+## Anbefaling
+
+<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->

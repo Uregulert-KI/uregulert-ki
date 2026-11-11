@@ -11,36 +11,6 @@ sist_endret: 2026-10-20
 
 > Påstander: RET-16.P01–RET-16.P15 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
-## Fenomen
-
-<!-- Hva skjer, konkret? -->
-
-## Mekanisme
-
-<!-- Hvorfor og hvordan oppstår skaden? -->
-
-## Evidens
-
-<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
-
-## Norsk relevans
-
-<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
-
-## Verdi som trues
-
-<!-- Kobling til verdiene i [[INN-03]]. -->
-
-## Reguleringshull
-
-<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
-
-## Anbefaling
-
-<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->
-
----
-
 ## Stikkord og materiale
 
 *Utvidet 2026-10-20 etter gjennomgang. «Sjekk» betyr at kilden er satt opp fra hukommelsen og at detaljer må bekreftes.*
@@ -58,7 +28,7 @@ sist_endret: 2026-10-20
 ### B Risikovurdering – mindre hull, men ikke tett
 
 - **KI-forordningen er streng her:** den forbyr KI som forutsier lovbrudd *utelukkende* ut fra profilering eller personlighetstrekk (art. 5), og regner risikovurdering av tilbakefall som høyrisiko (vedlegg III, sjekk om kriminalomsorgen er omfattet) [K0001].
-- **Hullene som står igjen:** forordningen er ennå ikke norsk lov; statistiske sjekklister laget av mennesker er ikke et «KI-system» – Norge bruker kartleggingsverktøy i straffegjennomføringen [K0874] (sjekk); og mennesket i løkka kan bli et gummistempel ([[RET-02]], avsnitt C).
+- **Hullene som står igjen:** forordningen er ennå ikke norsk lov; statistiske sjekklister laget av mennesker er ikke et «KI-system» – Norge bruker kartleggingsverktøy i straffegjennomføringen [K0874] (sjekk); og mennesket i løkka kan bli en falsk trygghet ([[RET-02]], avsnitt C).
 - **COMPAS** [K0263] viser at «rettferdig» kan måles på flere måter som står i motsetning til hverandre ([[RET-03]], avsnitt G).
 
 ### C Overvåking – fra stikkprøve til alt
@@ -118,3 +88,33 @@ sist_endret: 2026-10-20
 - **KI kan styrke rehabiliteringen:** utdanning, språk, forståelse av egen sak, kontakt med familien.
 - **Risikoverktøy kan redusere menneskelige fordommer** ([[RET-03]], avsnitt K), og bedre kontroll kan gjøre fengselet tryggere for både ansatte og innsatte.
 - **Spørsmålet er om KI gjør livet innenfor mer likt livet utenfor – eller kontrollen mer total.**
+
+---
+
+## Fenomen
+
+<!-- Hva skjer, konkret? -->
+
+## Mekanisme
+
+<!-- Hvorfor og hvordan oppstår skaden? -->
+
+## Evidens
+
+<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
+
+## Norsk relevans
+
+<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
+
+## Verdi som trues
+
+<!-- Kobling til verdiene i [[INN-03]]. -->
+
+## Reguleringshull
+
+<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
+
+## Anbefaling
+
+<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->

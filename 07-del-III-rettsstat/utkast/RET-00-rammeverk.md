@@ -11,36 +11,6 @@ sist_endret: 2026-10-21
 
 > Påstander: RET-00.P01–RET-00.P06 i [pastander.md](../pastander.md). Kilder: [kilder.md](../kilder.md) (K-ID-er slås opp i `99-kilder/kilderegister.md`). Uttalelser: [uttalelser.md](../uttalelser.md).
 
-## Fenomen
-
-<!-- Hva skjer, konkret? -->
-
-## Mekanisme
-
-<!-- Hvorfor og hvordan oppstår skaden? -->
-
-## Evidens
-
-<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
-
-## Norsk relevans
-
-<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
-
-## Verdi som trues
-
-<!-- Kobling til verdiene i [[INN-03]]. -->
-
-## Reguleringshull
-
-<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
-
-## Anbefaling
-
-<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->
-
----
-
 ## Stikkord og materiale
 
 *Analytisk ramme for hele delen. Løfter Del III fra enkeltproblemer til ett argument: rettsstatens legitimitet hviler på at loven er menneskers verk, og den antakelsen begynner å slå sprekker.*
@@ -72,3 +42,33 @@ Grunnlag: Kolt, «Superintelligence and Law», arXiv 2603.28669 (mars 2026, prep
 - **Men den treffer bare de lovlydige:** svindlere, botnett av syntetiske personer og påvirkningsoperasjoner opplyser ikke om at de er KI ([[LIV-17]], avsnitt B; [[DEM-10]], avsnitt B; [[DEM-11]]).
 - **Der regelen faktisk virker – i Del III:** når motparten er staten, en kommune eller en regulert virksomhet, kan retten til å vite håndheves fullt ut. Det er her Norge har mest kontroll. Del III kan derfor vise hva som *kan* gjøres: åpenhet, begrunnelse, rett til et menneske og rett til å klage – i statens egen bruk av KI.
 - **Rett til et menneske:** kandidat til [[ANB-01]] – i møte med det offentlige skal man alltid kunne kreve å få snakke med, og få saken vurdert av, et menneske.
+
+---
+
+## Fenomen
+
+<!-- Hva skjer, konkret? -->
+
+## Mekanisme
+
+<!-- Hvorfor og hvordan oppstår skaden? -->
+
+## Evidens
+
+<!-- Hva vet vi, og hvor sterk er kunnskapen? Merk evidensstyrke: sterk (flere studier/offisielle data), moderat, svak/tidlig (enkeltstudier, preprint, anekdoter). -->
+
+## Norsk relevans
+
+<!-- Norske tall, saker og institusjoner. Minst ett norsk eksempel eller datapunkt. -->
+
+## Verdi som trues
+
+<!-- Kobling til verdiene i [[INN-03]]. -->
+
+## Reguleringshull
+
+<!-- Hva dekker dagens regelverk ikke? Meld funn inn til [[REG-02]]. -->
+
+## Anbefaling
+
+<!-- Hvem skal gjøre hva? Meld inn til [[ANB-01]]. -->

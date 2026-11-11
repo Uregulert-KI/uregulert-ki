@@ -109,4 +109,4 @@ Oppdateres automatisk (`node 00-styring/verktoy/oppdater-status.js`). Påstander
 | [13-vedlegg](13-vedlegg/PLAN.md) | 3 | stikkord: 3 | 0 / 0 / 0 / 0 |
 | **Totalt** | 114 | kandidat: 59, stikkord: 53, utkast-høy-prioritet: 2 | 0 / 0 / 0 / 1152 |
 
-Sist oppdatert: 2026-11-04
+Sist oppdatert: 2026-11-11
